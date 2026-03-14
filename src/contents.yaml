@@ -17,6 +17,12 @@ chapters:
   - file: revolution.md
     title: Revolution
 
+  - file: first_jobs.md
+    title: First Jobs
+
+  - file: moving_to_toronto.md
+    title: Moving to Toronto
+
   - file: graduate_school.md
     title: Graduate School
 
