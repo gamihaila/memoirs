@@ -2,7 +2,7 @@ title: From Bucharest to Toronto
 author: George A. Mihaila
 language: en
 
-cover: cover.jpg               # optional, relative to the folder
+cover: cover.jpg              
 
 chapters:
   - file: high_school.md
