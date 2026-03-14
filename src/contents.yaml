@@ -1,0 +1,27 @@
+title: From Bucharest to Toronto
+author: George A. Mihaila
+language: en
+
+cover: cover.jpg               # optional, relative to the folder
+
+chapters:
+  - file: high_school.md
+    title: High School
+
+  - file: college.md
+    title: University of Bucharest
+
+  - file: ioana.md
+    title: Ioana
+
+  - file: revolution.md
+    title: Revolution
+
+  - file: graduate_school.md
+    title: Graduate School
+
+  - file: divorce.md
+    title: Divorce
+
+  - file: lara.md
+    title: Lara
