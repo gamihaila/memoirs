@@ -1,22 +1,11 @@
-At the Canadian Consulate interview they asked me what kind of career
-I was planning to pursue in Canada. I said that I would like to go to
-graduate school and then do research in Computer Science. They
-listened politely, wrote that down on my application and told me to
-wait for their decision in the mail. And indeed, in a few weeks came
-the decision: rejected. The rejection letter came with a very thorough
-written justification: “ at the present time (1993), the Canadian
-economy has no shortage of Computer Science researchers ” .
 
-Naturally, I was disappointed, but I didn’t give up. I wrote back
-saying that I can also work as a software engineer. A few weeks later
-my Canadian permanent resident application was approved.  I arrived in
-Canada in February 1993, in the middle of the coldest winter of the
-decade. Aside from the weather, the job market was equally frozen at
-the time.  Immigrants who had arrived there one or two years before me
-were still looking for jobs. I applied for admission for graduate
-school at the University of T oronto and started looking for jobs at
-the same time. After two months of cold calling and head hunter
-appointments I finally got a job interview.
+We arrived in Canada in February 1993, in the middle of the coldest
+winter of the decade. Aside from the weather, the job market was
+equally frozen at the time.  Immigrants who had arrived there one or
+two years before me were still looking for jobs. I applied for
+admission for graduate school at the University of T oronto and
+started looking for jobs at the same time. After two months of cold
+calling and head hunter appointments I finally got a job interview.
 
 It was for a Windows programmer position at an industrial equipment
 supplier company called Ahearn & Soper. Armed with my Master’ s
