@@ -43,7 +43,7 @@ we had a long interview with an Immigrations officer. After welcoming
 us to Canada, she asked to see the money we had declared in our
 application. I pulled the pouch from under my shirt and handed it to
 her. She patiently counted all the bills: we had German marks, British
-pounds, Spanish pesos, Swiss francs, Austrian schillings and even Belgian
+pounds, Spanish pesetas, Swiss francs, Austrian schillings and even Belgian
 francs, all in small notes, whatever our relatives gave us. It
 amounted to just about the ten thousand Canadian dollars we promised.
 Then, she made us aware that we may need to upgrade our education as
