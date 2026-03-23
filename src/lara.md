@@ -37,12 +37,12 @@ on a treadmill. To my surprise she came over to me after her workout
 and gave me her phone number.
 
 I called her the next day and invited her to see a play that I had
-already seen before: *Clouds*, by Aristophanes. It was a musical
+already seen before[^The Clouds, by Aristophanes]. It was a musical
 comedy adaptation by a local troupe. I offered to come pick her up
 from her home and she started giving me driving directions.
 
 “I don’t have a car,” I said, embarrassed.  “Oh, no worries, I live
-right near a subway stop and it’s anyway easier to go by transit.”
+right near a subway stop, and it’s anyway easier to go by transit.”
 
 I was relieved. So I went to her house, and we went to see the play
 together. During the play I took her hand and she didn’t pull back. I
