@@ -64,8 +64,8 @@ smiling as if nothing had happened.
 
 Needless to say, the back-and-forth emotional roller coaster was
 exhausting. I had no choice, however; I was smitten with her. Many
-years later when I watched *The Eternal Sunshine of the Spotless Mind*
-I identified with Jim Carrey’s character.
+years later, when I watched a movie[^ The Eternal Sunshine of the Spotless Mind, 2004]
+I identified with the main character.
 
 Even though we eventually broke up I hold fond memories of her. She
 was by my side in a very vulnerable period of my life and helped me
