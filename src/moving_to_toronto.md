@@ -50,7 +50,7 @@ Then, she made us aware that we may need to upgrade our education as
 our diplomas may not be completely equivalent with the Canadian
 education system. That's just what we wanted too, we said, we were
 excited to apply to graduate school. Finally, she stamped our papers:
-we were now officially "landed permanent residents", with full rights
+we were now officially “landed permanent residents”, with full rights
 to all the Canadian government services, including free health
 care.
 
@@ -83,7 +83,7 @@ weather, the job market was equally frozen at the time.  Immigrants
 who had arrived there one or two years before me were still looking
 for jobs. I made the rounds at all the major head hunter agencies,
 handing in my resume and talking to recruiters about potential
-opportunities. Everybody was asking for "Canadian experience". How was
+opportunities. Everybody was asking for “Canadian experience”. How was
 I supposed to have any, I had just arrived!
 
 Meanwhile, we started wiring back the money to our relatives back
@@ -99,27 +99,27 @@ appointment for me with his academic counsellor.
 
 So one fine March morning I dressed up in my only suit and went to
 meet with the counsellor. He listened to me carefully, and when I was
-done he said: "Well, you know, I'm just an Undergraduate Admissions
+done he said: “Well, you know, I'm just an Undergraduate Admissions
 counsellor. However, I think I can help you. Let me call the Computer
-Science Graduate Admissions office." So he did. I could hear him
+Science Graduate Admissions office.” So he did. I could hear him
 summarize my University of Bucharest credentials. Afterwards, he told
-me: "I spoke with Professor Holt from the Computer Science
+me: “I spoke with Professor Holt from the Computer Science
 department. He is waiting for you in his office. It's a five minute
-walk from here: here is a campus map for you. Best of luck!"
+walk from here: here is a campus map for you. Best of luck!”
 
 I couldn't believe it, this was so efficient: not an appointment on a
 future date, right now! I walked as fast as I could and got to the CS
 professor's office. He was a distinguished looking scientist, with a
 long grey beard, and glasses. He examined my transcripts from
 Bucharest carefully, and asked me a few questions about my
-research. In the end he said: "Well, George, I can tell you,
+research. In the end he said: “Well, George, I can tell you,
 unofficially of course, that you have a very good chance of being
 admitted for graduate studies with a full scholarship. Go home and
 apply right away. Even though our application deadline has passed on
 February 28, if you apply in the next few days you will still be
-considered for this academic year". I was overjoyed! Before leaving, I
+considered for this academic year”. I was overjoyed! Before leaving, I
 told him my wife also graduated from the same program and has very
-good grades too. "Well, then, you should both apply!".
+good grades too. “Well, then, you should both apply!”.
 
 
 So we both applied for admission for graduate school at the
