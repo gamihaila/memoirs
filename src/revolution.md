@@ -75,8 +75,39 @@ heavy blanket we received as a gift from my cousins, and we must have
 looked suspicious, maybe people thought we were hiding rifles in the
 blanket. 
 
-Finally, we made it home to my parents apartment. My Dad urged us to go
-protect the University building, and we went. When we arrived there,
-there were a bunch a students and professors already discussing how to
-organize a National Salvation Front unit. A stranger barged in and
-asked if anyone wanted guns. We didn't want any. 
+Finally, we made it home to my parents apartment. My Dad urged us to
+go protect the University building, and we went. When we arrived
+there, there were a bunch a students and professors already discussing
+how to organize a National Salvation Front unit. A stranger barged in
+and asked if anyone wanted guns. We didn't want any. There wasn't much
+to do there for us, we weren't interested in joining any political
+groups at that time, so we left after an hour or so.
+
+On our way home we heard distant gunshots. We didn't know what was
+going on, there were many rumors being spread around, allegedly there
+were foreign "terrorists". Nobody knew who was fighting, and for
+what. At home, the people on TV were urging the population to come in
+large numbers and defend the Free Romanian Television. There were army
+generals as well as political dissidents, known from Radio Free
+Europe. And many people went there and were killed, nobody knows by
+whom, to this day.
+
+On the third day, the news came that the dictator and his wife had
+been apprehended: the helicopter pilot had betrayed them. There was a
+brief televised trial, with an unknown judge and no jury, just some random
+prosecutor and a default defense attorney. The dictator kept insisting
+this is a coup, instigated by foreign agents, and he will only answer
+to the Grand National Assembly (which had been dissolved). The main
+accusation brougt on was of genocide against his own people. The
+defense attorney made a feeble attempt to invoke his clients'
+insanity, which was dismissed by the accused. After a very short
+deliberation, the judge read the sentence, final and with no right to
+appeal: capital punishment for both, with immediate execution. They
+were immediately escorted out and shot by military execution squad.
+
+Somehow, after this, all the "terrorist" activity immediately
+ceased, and a new interim government was formed. Endless discussions
+on TV about who was responsible for the deaths during the Revolution
+didn't lead to any answers.
+
+We had mixed feelings about all that had happened.
