@@ -59,3 +59,24 @@ When we woke up and got out, we saw that people were taking their TVs
 and propping them on their windows. We looked up and saw a group of
 unfamiliar people on TV shouting “Brothers, we won! The dictator
 fled!”
+
+We decided to go back home. We walked to the train station and there
+we saw a bunch of kids running around with newspapers. They were
+distributing them free of charge. We picked one: big headlines about
+the dictator fleeing with his helicopter from the Central Committee building
+roof. He was still at large, his whereabouts unknown!
+
+When the train arrived in Bucharest, we encountered a very different
+city from the one we just left a few days before: people were walking
+around with tri-colored ribbons around thir arms, some carrying flags
+with a hole in the middle where the communist symbols used to be,
+others had guns. There were checkpoints everywhere. We were carrying a
+heavy blanket we received as a gift from my cousins, and we must have
+looked suspicious, maybe people thought we were hiding rifles in the
+blanket. 
+
+Finally, we made it home to my parents apartment. My Dad urged us to go
+protect the University building, and we went. When we arrived there,
+there were a bunch a students and professors already discussing how to
+organize a National Salvation Front unit. A stranger barged in and
+asked if anyone wanted guns. We didn't want any. 
