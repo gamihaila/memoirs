@@ -110,4 +110,10 @@ ceased, and a new interim government was formed. Endless discussions
 on TV about who was responsible for the deaths during the Revolution
 didn't lead to any answers.
 
-We had mixed feelings about all that had happened.
+I have mixed feelings about all that had happened: of course I was
+happy the totalitarian regime was over, but something about the way
+the trial was carried on didn't seem right. It felt like all the blame
+was placed on a single individual and his wife. He was definitelly
+guilty, don't get me wrong, but there were plenty of people in his
+antourage who were just as guilty, and nothing happened to them. It
+felt like he was summarily executed so that he cannot talk.
