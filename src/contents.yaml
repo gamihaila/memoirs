@@ -17,6 +17,9 @@ chapters:
   - file: revolution.md
     title: Revolution
 
+  - file: freedom.md
+    title: Freedom
+
   - file: first_jobs.md
     title: First Jobs
 
