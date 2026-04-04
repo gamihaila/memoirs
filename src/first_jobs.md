@@ -26,14 +26,14 @@ network database called dbVista.
 I remember there were tools for
 designing the GUI visually and then converting it to runnable assets
 that were available from the C code. I also started learning C++ there
-from Bjarne Stroustroup’ s book. I needed that for the next project, a
+from Bjarne Stroustroup’s book. I needed that for the next project, a
 research GUI for analyzing proteins. There were some edge-detection
 algorithms there, but I don’t remember much about that project other
 than the fact we were using graphical workstations running X11 and the
 mice were optical with a special mousepad with a grid on it. I also
 had my first contact there with running remote sessions over the LAN
 on my colleagues' workstations. We were playing pranks on each other
-by opening windows on someone else ’ s screen. It was there I ever
+by opening windows on someone else’s screen. It was there I ever
 heard of telnet and ftp. No email just yet, since our LAN was not
 permanently connected to any external network. There was an occasional
 connection through a modem and a leased telephone line, I heard, but
@@ -44,8 +44,12 @@ the same time for a couple of years I left and kept only my teaching
 job for a few months, then I started working at another startup called
 Ciel!, a Romanian subsidiary of a French accounting software
 company. There I worked on porting to Windows an old text-mode Clipper
-accounting application called “Ciel!  Dossiers Analytiques ” .  One
+accounting application called “Ciel! Dossiers Analytiques”.  One
 thing I remember about that was the trouble caused by rounding for
 accounting applications, where the monetary amounts had to match
 precisely, down to cents.
 
+
+
+While working there we applied for Permanent Resident status at the
+Canadian Consulate.
