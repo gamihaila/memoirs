@@ -1,13 +1,14 @@
-When I graduated in 1990, I had my first interview at the Institute
-for Informatics. In addition to questions about our classes they also
-asked me if I did any coding for fun. I told them about my T etris
-implementation and they were apparently pretty impressed, because they
-hired me. The job itself was quite a letdown, I think I did less work
-there than ever before and nobody was really interested. I kept busy
-implementing side projects for fun on the work PC, and getting used to
-the newest peripheral, the mouse, of course in text mode, but still a
-great improvement over arrow keys. I left that job after about six
-months.
+
+I remember our first day at the Research Institute: the four of us
+were assigned to a shared office, nominally to do research in the
+nascent area of Database Systems. There was hoewever no onboarding, no
+mentorship, and no oversight to our work. I think I did less work
+there than ever before and nobody was really interested. It was quite
+a letdown after all the hard classes and the undergraduate research I
+did.  I kept busy implementing side projects for fun on the work PC,
+and getting used to the newest peripheral, the mouse, of course in
+text mode, but still a great improvement over arrow keys. I left that
+job after about six months.
 
 My next job was in a startup called Omnis Group. This is
 where I first saw a graphical operating system, the new Microsoft
@@ -48,5 +49,3 @@ thing I remember about that was the trouble caused by rounding for
 accounting applications, where the monetary amounts had to match
 precisely, down to cents.
 
-While working there I applied for Permanent Resident status at the
-Canadian Consulate.
