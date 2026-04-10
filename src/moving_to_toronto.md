@@ -121,28 +121,56 @@ considered for this academic year”. I was overjoyed! Before leaving, I
 told him my wife also graduated from the same program and has very
 good grades too. “Well, then, you should both apply!”.
 
+So we both applied for admission for graduate school at the University
+of Toronto. Meanwhile, though, our money was running out, and we still
+had no source of income. We were starting to get worried: how were we
+going to make ends meet? I started cold-calling companies from the
+Yellow Pages: nobody seemed to have any open job openings. I also
+started visiting head hunter agencies, they at least were willing to
+meet with me and take my resume. One such agency sent me to a
+screening interview at a software company, I forgot which one. I
+dressed up nicely and went there. To my surprise, they didn't ask me
+any technical questions, at this point they were just trying to get an
+idea if I would fit their culture, I guess. They even asked about
+sports, they were all big fans of the Toronto Blue Jays. I confessed my
+complete ignorance on baseball. "Well", they exclaimed, "you need to
+understand that you wouldn't fit in our team, then. You see, we talk
+about baseball all the time around the office." That's unfortunate, I
+was thinking, was this what was standing between me and a job? Oh,
+well, I would probably not enjoy working there either.
 
-So we both applied for admission for graduate school at the
-University of Toronto.
+Eventually, after two months of cold calling and head hunter
+appointments I finally got a job interview.  It was for a Windows
+programmer position at an industrial equipment supplier company called
+Ahearn & Soper. Armed with my Master’ s diploma I went to the
+interview, solved some coding problems on the whiteboard, and found
+out that the hiring manager couldn’t care less about degrees, only
+about whether I could actually write code for Windows. I was hired for
+a two month trial period and converted to full-time afterwards. The
+project I was working on was a transaction processor manager, a
+program that ran on a Windows PC and was communicating via a serial
+cable with a proprietary computer that could be connected to hundreds
+of barcode readers used on a factory assembly line to control the
+movement of manufactured parts.
 
-After two months of cold
-calling and head hunter appointments I finally got a job interview.
-
-It was for a Windows programmer position at an industrial equipment
-supplier company called Ahearn & Soper. Armed with my Master’ s
-diploma I went to the interview, solved some coding problems on the
-whiteboard, and found out that the hiring manager couldn’t care less
-about degrees, only about whether I could actually write code for
-Windows. I was hired for a two month trial period and converted to
-full-time afterwards. The project I was working on was a transaction
-processor manager, a program that ran on a Windows PC and was
-communicating via a serial cable with a proprietary computer that
-could be connected to hundreds of barcode readers used on a factory
-assembly line to control the movement of manufactured parts. My part
-was responsible for submitting transactions to an Oracle database in
-the backend in response to barcodes being scanned on the assembly
-line. I learned there how to use ODBC drivers to connect to any
-standard SQL database.
+So now that I had a job, we were breathing a sigh of relief, we were
+going to be OK, after all, right? Not so fast, actually! Even though I
+was working, we still had a cash flow problem. You see, the first
+paycheck was only going to arrive after a month. Meanwhile, we had
+rent to pay, and not enough money in the bank. This was the first time
+in our lives when we were actually unable to pay rent. We had paid for
+the security deposit, and for the first two months, but at the
+beginning of the third month, we only had a couple hundred dollars
+left. It was very embarassing, I was going to work in the morning and
+avoiding the superintendent for a few days. Eventually he came
+knocking on our door. I explained that my salary was going to come in
+a few weeks time, but he said that the owner needs the money on time
+and he had collected it from the other tenants already, and he was
+just waiting on us. We had to do something. So I went to the Social
+Insurance Office and explained our situation to a social worker. She
+was able to offer us a $1000 loan, payable in 12 months with low
+interest. We were lucky she didn't ask us how we managed to spend the
+$10,000 we supposedly brought with us in just two months. 
 
 A few months after I started working I received the acceptance letter
 form U of T.  I thought I needed money for tuition so I deferred my
