@@ -142,7 +142,7 @@ well, I would probably not enjoy working there either.
 Eventually, after two months of cold calling and head hunter
 appointments I finally got a job interview.  It was for a Windows
 programmer position at an industrial equipment supplier company called
-Ahearn & Soper. Armed with my Master’ s diploma I went to the
+Ahearn & Soper. Armed with my Master’s diploma I went to the
 interview, solved some coding problems on the whiteboard, and found
 out that the hiring manager couldn’t care less about degrees, only
 about whether I could actually write code for Windows. I was hired for

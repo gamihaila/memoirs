@@ -26,13 +26,85 @@ someone else came into the picture and promised to do the same. I was
 still emotionally attached to her, but was beginning to realize we
 didn’t have a future together.
 
-I arrived in California at the beginning of June and settled in a
-two-bedroom apartment shared with another intern, a French student. I
-had brought my bicycle with me and I was using it to commute to work
-every day. It was great! I really loved the Bay Area vibe, and my
-internship was going smoothly.
+I went to Bucharest for a short vacation before my internship, meeting
+with old friends. Everybody was talking about my imminent trip to
+California! On my way back to Toronto I had a few hours stop over in
+London. I landed at Gatwick and was going to take my next flight from
+Heathrow. On the shuttle to Heathrow I happened to sit next to a
+Romanian girl, Oana. So, as it is usual in these kinds of situations
+we started chatting. It was not that surprising that she was Romanian,
+since our flight from Bucharest had just landed. The unexpected part
+was her destination: Palo Alto, California. She was a green card
+lottery winner and had decided to go to Palo Alto because she had some
+Romanian friends there and was hoping to find a job in IT. “What a
+coincidence”, I said, “I’m on my way to California myself, for my
+internship in Palo Alto, no less! I’m just going to swing by Toronto,
+pack and will fly to San Francisco in a week!”. Of course, we
+exchanged contact information and promised to meet up. Now, she was
+not exactly my type, but she wasn’t unattractive either. Plus, we had
+a pleasant conversation on that shuttle, no awkward moments.
 
-A few weeks in I received an unexpected email from Cristina in which
+When I arrived in Mountain View, after I settled in, I called her up
+and she invited me on a day trip to Santa Cruz with her friends who
+had a nice SUV. On the way there we shared the backseat bench and
+before long she took my hand in hers. Now, keep in mind, this was the
+first time we had met after that shuttle in London. I wasn’t going to
+object to that, now, why would I? After all, Lara had told me that I
+should consider myself unattached. So, we went to the Santa Cruz
+Boardwalk, rode the roller coasters, ate cotton candy, and went to the
+beach. On the beach she told me she was feeling quite stressed about
+her job prospects, she didn’t really have a strong engineering
+background, just some certification classes. Also, she told me she had
+a boyfriend back in Bucharest, a young officer, but that she wasn’t
+too sure about that relationship’s future. “Yeah, I understand”, I
+said, “I am in a very similar spot with my girlfriend from Toronto”.
+
+So we started dating: we went to visit the Stanford University campus,
+walked around on University Avenue, spent time in the jacuzzi at my
+place in Mountain View. Meanwhile Lara was calling me almost every day
+and telling me about her twelve step meetings. “So”, she asked
+casually, “have you met anyone yet?”. “As a matter of fact, I did!”, I
+confessed, and told her about Oana. “Oh, so do you like her?”. “Well,
+I don’t know, it’s still early, but I don’t dislike her”, I
+said. “Alright”, she said, not sounding too worried. However, the next
+evening, when Oana was visiting me, she called again and asked if Oana
+was there. I was caught by surprise. Looking back I should have
+unplugged the phone but it didn’t cross my mind. Oana figured it out
+immediately and asked for the phone. “Hi, is that Lara?”, she said. I
+don’t know what Lara had told her, but after a few minutes of silence
+Oana replied: “Don’t worry about a thing, I have no intention to steal
+your boyfriend”. After they ended the conversation, Oana left promptly
+and stopped answering my phone calls, so that was that. I wasn’t too
+upset about that, if anything I was kind of happy Lara still
+cared. This wasn’t the first time Lara had marked her territory this
+way: a few months before I left Toronto, a Romanian friend of mine who
+was married to an Englishwoman had introduced me to one of his wife’s
+girl friends, a nurse who was visiting from London. We made plans to
+go together to the revolving restaurant on the top of Manulife Center,
+just next to our university’s graduate family housing where we were
+both staying. Me and Lara were on one of our off periods at the time,
+so I stupidly mentioned to her about my evening plans. So, sure
+enough, just as we were enjoying the view and each other’s company,
+who should show up but Lara, all smiles and grabbing my arm lovingly,
+and telling the English nurse: “Don’t believe anything George tells
+you, he’s mine!”. It was like in a poorly written sitcom, only it was
+all too real. Oh well, I guess no English girlfriend for me. Too bad,
+it seemed like we were hitting it off too, but it wasn’t meant to be.
+
+I was working on my internship project at SRC when I got an email from
+Jenny, the girl I had met at the International Student Center in
+Toronto a few years before. We had kept in touch as friends but we
+were not very close. She was writing to tell me about her plans to
+visit California: she had some friends in San Francisco and was
+wondering if she could spend a night in Mountain View. “Of course”, I
+said, “anytime!”. So on the agreed day, her friend drove her to my
+place in the evening. I was alone at the time, my French apartment
+mate was visiting his girlfriend in Paris. It was on a Friday, so we
+had the entire weekend ahead of us. We spent the morning swimming in
+the pool and suntanning, then we had a nice lunch at a nearby
+restaurant and walked around Mountain View.
+
+A few weeks later I received an unexpected email from Cristina in which
 she was saying how she found an old letter from me and she just now
 realized how much I cared for her three years earlier. “Give me a
 call,” she ended her email. So I called her.
@@ -113,8 +185,11 @@ her that directly. But she understood. A few days later I drove to the
 airport and she was gone. Lara left soon after, I guess she figured
 there wasn’t any more reason for her to stay.
 
-I had a couple more weeks left in the internship. Now that the drama
-was over I could wrap up my work. But I definitely missed them—Lara
-more than Cristina, as you may have guessed.
-
-Interestingly, this wasn’t the last I saw of Cristina.
+After Lara went back to Toronto I had a lot of time to reflect on my
+life, alone again in my Mountain View apartment. During the day it was
+quite hectic at work, I was wrapping up my project and preparing a
+presentation. In the evenings though, I was feeling lonely and
+purposeless. I was still contemplating what an eventful summer I had
+experienced, perhaps the most eventful in my entire life: there were
+no less than five girls who took turns to visit me over the entire
+period.
