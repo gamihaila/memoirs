@@ -5,6 +5,9 @@ language: en
 cover: cover.jpg              
 
 chapters:
+  - file: childhood.md
+    title: Childhood
+
   - file: high_school.md
     title: High School
 
