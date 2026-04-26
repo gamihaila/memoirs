@@ -57,7 +57,18 @@ needlessly. Later on, when learing about the concept of batch
 processing in Computer Science I remembered that was exactly what that
 old Roma man had taught me when I was four!
 
-
+My father was in charge of reading a bedtime 
+story to me most every night. When I was very little
+he was picking from classic Romanian stories by
+Ion Creangǎ but as soon as I got a little older
+he switched to Ion Luca Cargiale's short stories,
+his favorite. These were turn of the century 
+satires of Romanian society's morals that still
+resonate to this day. After a while he'd gone through
+all of them but I kept asking him to reread to me
+my favorite ones. On the evening of March 4th 1977 
+he read me a few stories and then turned off my
+lights as usual. A 
 
 
 
