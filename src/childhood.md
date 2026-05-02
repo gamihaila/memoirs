@@ -4,14 +4,14 @@ eight years after my sister Ileana. My father was a university
 professor and my mother was working at a large publishing house as an
 editor. They had both studied languages at the University of
 Bucharest, where they met. My father continued his studies for
-graduate school in Moskow University and was granted a doctorate
-there. My mom follwed him initially, but gave up after a few months
+graduate school in Moscow University and was granted a doctorate
+there. My mom followed him initially, but gave up after a few months
 because of the harsh climate and lack of heating in the dorms. My
 sister was similarly inclined towards languages and ended up getting a
 PhD in French literature from the University of Bucharest too.
 
 My first distinct memory is a summer evening in a backyard of a house
-by the Black Sea we were speding our vacation. I remember clearly how
+by the Black Sea where we were spending our vacation. I remember clearly how
 our family, all the other vacationers as well as the host family had
 gathered for dinner at a large table under the grape vines and were
 watching a black and white TV set on a window: I remember vividly
@@ -35,7 +35,7 @@ eating the green apricots before they were ripe, or simply laying down
 in the tall grasses.
 
 I had a few friends from the neighboring houses, which were almost
-excusively populated by Roma families. My sister was gently teasing me
+exclusively populated by Roma families. My sister was gently teasing me
 all the time about my "colored friends", but I didn't care much: these
 were my friends and later schoolmates, and yes, they were dark
 skinned. They came from poor families, but I remember my best friend's
@@ -48,34 +48,34 @@ and decided to go to see a movie. Later in the evening I got scolded
 by my sister who was told by a friend that she saw me and my
 dark-skinned friends sitting shirt-less in the movie theater!
 Scandalous! Another time, me and the same group of friends were
-offered a small job at one of the families business, helping to shear
+offered a small job at one of the families' businesses, helping to shear
 wool for making wool quilts. I remember I was eagerly collecting the
 wool as soon as it fell from the shearing machine when my friend's
 father taught me to wait until there was enough wool to fill my arms,
 and only then bend down to fetch it, so I don't tire myself
-needlessly. Later on, when learing about the concept of batch
+needlessly. Later on, when learning about the concept of batch
 processing in Computer Science I remembered that was exactly what that
 old Roma man had taught me when I was four!
 
 My father was in charge of reading a bedtime story to me most every
 night. When I was very little he was picking from classic Romanian
 stories by Ion Creangǎ but as soon as I got a little older he switched
-to Ion Luca Cargiale's short stories, his favorite. These were turn of
+to Ion Luca Caragiale's short stories, his favorite. These were turn of
 the century satires of Romanian society's morals that still resonate
 to this day. After a while he'd gone through all of them but I kept
 asking him to reread to me my favorite ones. On the evening of March
 4th 1977 he read me a few stories and then turned off my lights as
-usual. I fell asleep soon after, but no too long after that a loud
+usual. I fell asleep soon after, but not too long after that a loud
 noise woke me up, and then my Dad came rushing into my room: it was an
-earthquake! We rushed to the apartment's main entrance door toghether
+earthquake! We rushed to the apartment's main entrance door together
 with my Mom and waited there for what felt like an eternity. The
 building was shaking violently and it was louder than any storm I had
 been through! Half-way through it all, we realized my sister wasn't
 with us, but we couldn't go look for her, our bookcases were falling
-everytwhere. After it was all over, we made our way through fallen
+everywhere. After it was all over, we made our way through fallen
 books to her bedroom: she had stayed in her bed, which turned out to
 be a good idea, because her bookcase fell right next to the bed. She
-never forgave us for abandoning her, she kept telling us everytime the
+never forgave us for abandoning her, she kept telling us every time the
 subject came up. Luckily, we were all fine, but thousands of people
 died and more got severely injured and waited days to be rescued from
 under the rubble. Naturally, schools were closed for a few weeks, and
@@ -92,7 +92,7 @@ hoping we'll have to keep in touch so she can return the book, but
 I never saw her again.
 
 So we moved into a smaller apartment in a newly built ten story
-building farther away from downtown, in Drumul Taberei, a neighorhood
+building farther away from downtown, in Drumul Taberei, a neighborhood
 consisting entirely of high rise apartment buildings. Initially I had
 no friends and missed Corina so I refused to go outside to find new
 friends, but after school started I slowly made new friends. The
@@ -110,7 +110,7 @@ new place and add French to our sessions. My Dad had bought a desktop
 tanning machine with UV/IR lamps and my languages tutor loved using it
 while listening to me reciting the irregular verbs in both
 languages. One day, when she came for our lessons, she saw a book I
-was reading and was pleasantly surprised: it was Anne's Frank's diary,
+was reading and was pleasantly surprised: it was Anne Frank's diary,
 translated into Romanian. I didn't understand why she was surprised,
 it was a very popular book, but I guess she thought that only Jews
 were interested.
@@ -118,16 +118,16 @@ were interested.
 By the time I started sixth grade I got used to the new school and my
 new classmates, and even started having new crushes too. One girl in
 particular seemed willing to spend time with me. Her first name was
-Elena, but everybody was reffering about each other using last names,
+Elena, but everybody was referring to each other using last names,
 as we were called by the teachers in roll calls at the beginning of
 every class. In her case, it was Matei. So, we were walking home
 together, going to the park together, and in general seeing each other
 quite a bit. I was constantly talking about Matei at home. My sister,
 who was only half listening to me, didn't pay any attention to this
-until one rainy evening someone ringed our doorbell and she opened the
+until one rainy evening someone rang our doorbell and she opened the
 door: "Hello, I am Matei", she said. My sister, who was convinced all
 this time that Matei was a boy, burst out laughing: "Oh, so you are
-Matei?", and called me. Elena came into my room and we hang out,
+Matei?", and called me. Elena came into my room and we hung out,
 talking and looking at my color slides with my projector, in the
 dark. After that, my sister could not stop teasing me about my
 "girlfriend", of course. Elena kept coming over regularly to work
@@ -161,16 +161,16 @@ two hours at a time, and of course the tutors assigned me homework
 too, on top of the school assignments. The Romanian tutor just made me
 transcribe and memorize her own literary analysis essays on the topics
 from the exam curriculum, a thoroughly uninspiring activity. Still, I
-could see the utility of this, beacuse my own literary analysis skills
+could see the utility of this, because my own literary analysis skills
 were non-existent and I needed to pass this exam. On the Mathematics
 front I was better prepared, but still not likely to do well on my
-own. Fortunatelly the Math tutor was much better: she gave me problems
+own. Fortunately the Math tutor was much better: she gave me problems
 to solve during our sessions and made sure that I not only understood
 the concepts, but that I was equally good at writing the solutions in
 a clean and organized way. She drilled this skill constantly, by
 assigning copious amounts of homework and correcting each and every
 solution with her red pen. I would be lying if I said I enjoyed this
-extra work I had to do in the weekends, but over time I was able to do
+extra work I had to do on the weekends, but over time I was able to do
 it fast and got better at it. Some of her solution techniques were
 different from my school teacher's.
 
