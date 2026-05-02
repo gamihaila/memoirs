@@ -145,8 +145,34 @@ party. I was officially her boyfriend at that point! We continued to
 course, we were barely in seventh grade by then. Although we grew
 apart, I have fond memories of her, how she used to ask me "who's the
 prettiest girl between me and X", going through all the pretty girls
-in our class. "You are, of course, by far!", I would tell her
-every single time. I was lying, of course.
+in our class. "You are, of course, by far!", I would tell her every
+single time, just like the Magic Mirror in Snow White. I was lying, of
+course.
+
+Eighth grade arrived quickly, and with it, the looming high school
+admission exam. There were many high schools in Bucharest, but only a
+handful of those were considered elite schools, offering the lucky
+students a distinct advantage for getting into the university majors
+of their choice. So, naturally, everybody wanted a spot in these, so
+the admission exam was highly competitive. My parents knew that and
+hired private tutors for me for both of the exam subjects: Romanian
+and Mathematics. I had to go to the tutors apartments twice a week for
+two hours at a time, and of course the tutors assigned me homework
+too, on top of the school assignments. The Romanian tutor just made me
+transcribe and memorize her own literary analysis essays on the topics
+from the exam curriculum, a thoroughly uninspiring activity. Still, I
+could see the utility of this, beacuse my own literary analysis skills
+were non-existent and I needed to pass this exam. On the Mathematics
+front I was better prepared, but still not likely to do well on my
+own. Fortunatelly the Math tutor was much better: she gave me problems
+to solve during our sessions and made sure that I not only understood
+the concepts, but that I was equally good at writing the solutions in
+a clean and organized way. She drilled this skill constantly, by
+assigning copious amounts of homework and correcting each and every
+solution with her red pen. I would be lying if I said I enjoyed this
+extra work I had to do in the weekends, but over time I was able to do
+it fast and got better at it. Some of her solution techniques were
+different from my school teacher's.
 
 
 
