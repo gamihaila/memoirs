@@ -102,7 +102,7 @@ learning English in second grade and Russian in fifth grade. I
 enrolled in English in the new school too, but Russian wasn't offered
 there so I had to switch to French in the third trimester. It was
 quite disorienting because all my schoolmates had already gone through
-two trimesters and I know absolutely zero words in French. Every word
+two trimesters and I knew absolutely zero words in French. Every word
 looked so strange to me, with all the accents! Thankfully my parents
 hired a private tutor for me, an old Jewish woman who was already
 teaching me English before we moved and was willing to travel to our
