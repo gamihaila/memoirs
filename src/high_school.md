@@ -63,15 +63,13 @@ family was comfortable enough on paper; my father was a university
 professor and my mother an editor at a prestigious publishing house.
 But my father liked to live well. He enjoyed taking fellow professors
 out to dinner, especially at Casa Universitarilor, the faculty
-restaurant, and money had a way of not staying around long. So extra
-pocket money was always welcome.
+restaurant, and money had a way of slipping through his fingers.
 
 In any case, the communist system was officially egalitarian, but the
 public schools were overcrowded and a single teacher managing
 thirty-six students could only do so much. A parallel system of private
 tutoring quietly filled the gap, paid out of pocket by families who
 could manage it. My classmates heading to competitive programs had that
-advantage. The system is apparently still going strong today. Some
-things outlast the regimes that shaped them.
+advantage. The system is apparently still going strong today.
 
 I still have many of those prints in a box somewhere.
