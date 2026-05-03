@@ -50,7 +50,7 @@ that could be made completely dark: the bathroom. Black and white
 materials were all I worked with; the paper and chemicals were
 affordable and easy to find in stores. Developing the film, letting it dry, then
 then projecting
-the image, watching it surface in the developer tray. It was fascinating. 
+the image on photographic paper, watching it appear in the developer tray. It was fascinating. 
 
 My subjects were mostly schoolmates, especially the girls in our class.
 I was handing out prints for free until our homeroom teacher noticed
