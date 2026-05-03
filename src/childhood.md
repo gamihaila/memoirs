@@ -201,8 +201,8 @@ begged me to tell them bedtime stories at night. I did. It was
 gutwrenching.
 
 At some point, medical students came to visit us and started asking me
-Math questions. I remember one of them asking: what is $a^2 - b^2$?
-I answered without hesitation: $(a + b)(a - b)$.
+Math questions. I remember one of them asking: what is a² - b²?
+I answered without hesitation: (a + b)(a - b).
 
 First came the Math test. I walked in confidently, and sure enough,
 the problems were just like the ones I had been drilling on for the
