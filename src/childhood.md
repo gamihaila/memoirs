@@ -204,6 +204,10 @@ At some point, medical students came to visit us and started asking me
 Math questions. I remember one of them asking: what is a² - b²?
 I answered without hesitation: (a + b)(a - b).
 
+Soon after I was released from the hospital, the admission exam day
+came. My parents offered to get me a medical exemption, but I
+declined. I was ready. "Let's get this over with," I said.
+
 First came the Math test. I walked in confidently, and sure enough,
 the problems were just like the ones I had been drilling on for the
 past year. I finished well before the allotted time and walked out
