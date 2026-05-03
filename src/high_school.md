@@ -10,7 +10,7 @@ existed. This was one of the types of exercises I had to do so many
 times for homework in the past, and it was great to see an algorithm
 that automatically solved this problem for all possible cases.
 
-Later I remember we were given an assignment to come up with an
+Later, I remember, we were given an assignment to come up with an
 algorithm for sorting a list of numbers, without actually being shown
 any in class. Needless to say, my “algorithm” was a complete mess that
 probably didn’t do the job, but it was so convoluted that it was hard
@@ -36,7 +36,7 @@ time, there were three options for computing degrees in Romania:
 Electronics and Automatics (in the Polytechnics University)—with a
 heavy focus on hardware; Cybernetics (in the Economics Academy); and
 Mathematics-Informatics (in the Mathematics department of the
-University of Bucharest). Out of the three I felt closest to
+University of Bucharest). Out of the three, I felt closest to
 Informatics: as the radio receiver fiasco showed, I should stay away
 from hardware; I despised Economics; and I liked Math. Plus, I was
 reasoning that mistakes in programming can always be fixed, unlike
