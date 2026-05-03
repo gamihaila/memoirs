@@ -4,9 +4,9 @@ Romania, and rumors of street protests in the western part of the
 country, namely in the city of Timișoara.
 
 The university received orders to establish ID checkpoints at the
-entrances and we were called to staff them. We didn’t think much about
-this unusual situation and just complied. Winter break started soon
-after and we booked a trip to Brașov, in the mountains. We reserved a
+entrances. We were called to staff them. We didn’t think much about
+it; we just complied. Winter break came, and we booked a trip to
+Brașov, in the mountains. We reserved a
 room in a downtown hotel, even though I had cousins living there. They
 were living in a one-bedroom apartment and had a five-year-old son, so
 they didn’t really have room for guests.

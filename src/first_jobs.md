@@ -23,10 +23,9 @@ interaction. So I used this paradigm to implement some sort of
 accounting application for a Belgian oil refinery that was backed by a
 network database called dbVista.
 
-I remember there were tools for
-designing the GUI visually and then converting it to runnable assets
-that were available from the C code. I also started learning C++ there
-from Bjarne Stroustrup’s book. I needed that for the next project, a
+There were tools for designing the GUI visually and converting it to
+runnable assets accessible from C code. I also started learning C++
+there, from Bjarne Stroustrup’s book. I needed that for the next project, a
 research GUI for analyzing proteins. There were some edge-detection
 algorithms there, but I don’t remember much about that project other
 than the fact we were using graphical workstations running X11 and the

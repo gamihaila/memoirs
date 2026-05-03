@@ -107,11 +107,10 @@ Finally, the big day came. Over the past few days, we had brought all our
 clothes and essential belongings to my in-laws' apartment, ready to
 pack as tightly as possible for the long trip. We woke up for the last
 time in our little apartment, had breakfast, and packed the last few
-items. It was time. We started walking to my in-laws place, a twenty
-minute walk. When we reached the first street corner we stopped,
-turned back and had one more look at our small apartment building that
-had been our home for the past two years. We hugged and cried
-silently, for a few minutes, then continued our walk.
+items. It was time. We started walking to my in-laws' place, a twenty-minute
+walk. At the first street corner, we stopped. We turned back for one last
+look at the small apartment building that had been our home for the past
+two years. We hugged and cried silently. Then we continued our walk.
 
 So it was, that one cold February evening our families accompanied us
 to the Bucharest North train station, each of us carrying two large,

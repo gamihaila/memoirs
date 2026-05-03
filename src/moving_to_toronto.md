@@ -14,7 +14,7 @@ and everything was so clean and civilized!
 
 We got back to our hotel late that evening. That's when it hit me: I
 was moving to a new country with a wife I didn't quite feel I
-could rely on. I had a mini panic attack and took a long time to fall
+could rely on. I had a mini panic attack. I took a long time to fall
 asleep. Of course I didn't bring this up with Ioana, but I could sense
 she was scared too.
 

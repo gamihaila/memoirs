@@ -76,8 +76,8 @@ interviews at the coveted Research Institute for Informatics, close to
 our University building.
 
 The entire class of 25 graduating students went to the interview. They
-kept us in a waiting room for about an hour because the interviewers
-were busy watching a soccer game on TV. Finally, they asked us in, one
+kept us waiting for about an hour; the interviewers
+were busy watching a soccer game on TV. Finally, they called us in, one
 by one. When my turn came, I went in: in the conference room there
 were a handful of full-time researchers and software engineers,
 asking questions. They asked me a bunch of questions about our classes

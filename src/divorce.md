@@ -20,8 +20,8 @@ to Hamilton to stay with her sister and her husband for a few days, in
 order to give her some space. It didn’t help.
 
 When I came back, she was already packed and ready to move out. We sat
-down on the couch in our living room and hugged for a long time before
-she finally left for good.
+down on the couch in our living room and hugged for a long time. Then
+she left for good.
 
 I remember I had to pick up something from some Romanian family the
 next day, and I was in complete shock. Life was continuing its course

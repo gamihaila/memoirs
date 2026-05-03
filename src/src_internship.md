@@ -154,12 +154,12 @@ her cheeks. She looked very pale and underweight. I could see she had
 suffered a lot from her break-up. We took a shuttle and she kissed me
 for the first time on the way to Mountain View.
 
-At home Lara was waiting for us. She greeted her politely, sized her
+At home Lara was waiting for us. She greeted Cristina politely, sized her
 up briefly, and left us alone for the night. She was back promptly in
-the morning, though. We had breakfast all three of us; Lara
-cooked. From the outside we could have looked like old friends,
+the morning, though. We had breakfast, all three of us; Lara
+cooked. From the outside we could have looked like old friends
 enjoying each other’s company. Then I had to leave for work. Lara
-stayed behind. When I came back Cristina was crying alone.
+stayed behind. When I came back, Cristina was crying alone.
 
 “What happened?” I asked.
 

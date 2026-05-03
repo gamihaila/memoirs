@@ -50,13 +50,13 @@ Only after her other guests left she told me:
 “You were not supposed to tell them we’re sharing a room.” 
 
 Ah, that plausible deniability again, I thought we were over that by now, but apparently not. She was not amused.
-Later, in one of the commuter trains I blew it all by telling her I was married before but I’m single now. 
+Later, in one of the commuter trains, I blew it all by telling her I was married before but I’m single now. 
 
-“Wait, how long ago were you divorced?”, she asked. 
+“Wait, how long ago were you divorced?” she asked. 
 
-“Four months ago”, I said. 
+“Four months ago,” I said. There was a pause.
 
-“Wow, hold on, you’re trouble, you’re on a rebound”.
+“Wow, hold on, you’re trouble, you’re on a rebound.”
 
 After this unsolicited confession of mine nothing was ever the same. 
 No amount of pleading from my side could convince her my feelings were real. 

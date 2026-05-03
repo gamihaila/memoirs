@@ -45,7 +45,7 @@ from her home and she started giving me driving directions.
 right near a subway stop, and it’s anyway easier to go by transit.”
 
 I was relieved. So I went to her house, and we went to see the play
-together. During the play I took her hand and she didn’t pull back. I
+together. During the play I took her hand. She didn’t pull back. I
 was on cloud nine! I walked her home afterwards and as I was saying my
 goodbyes, she invited me in. She cooked a pasta dish for us, and we
 ate it sitting on the floor. All the time she kept talking and asking
