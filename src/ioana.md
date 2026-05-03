@@ -8,7 +8,7 @@ our route home by bus, which provided more time to talk.
 Funny anecdote I heard later from her: She had told her sister that
 two guys were interested in her and she asked for advice on whom to
 pick: one is tall and not that funny (me), and the other is
-sparklingly funny but shorter than her.  “Pick the tall one,” her
+sparklingly funny but shorter than her. “Pick the tall one,” her
 sister said. So that was that.
 
 Two weeks after school started, all students were sent to help with
@@ -35,7 +35,7 @@ were already an official couple. We started sitting together in all
 classes and spending all our weekends together. In the summer
 vacations we went camping at the beach in a larger group—for plausible
 deniability reasons—and her parents pretended not to figure this
-out. By junior year we got engaged and married in the summer of 1989,
+out. By junior year, we got engaged and married in the summer of 1989,
 before senior year.
 
 We didn’t yet have a place of our own, so we commuted back and forth
