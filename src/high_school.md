@@ -45,7 +45,7 @@ frying electronic components.
 Around the same time, I had another obsession running in parallel:
 photography. I had an old Russian camera, and what fascinated me was
 the developing process. My father had a Soviet-made enlarger sitting
-around, and I commandeered it along with the only room in the apartment
+around, and I claimed it along with the only room in the apartment
 that could be made completely dark: the bathroom. Black and white
 materials were all I worked with; the paper and chemicals were
 affordable and easy to find in stores. Developing the film, letting it dry, then
