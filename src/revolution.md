@@ -18,7 +18,7 @@ discussion with strangers as anybody could have been an informant for
 the secret police, the fierce Securitate. We did talk about it among
 ourselves once we stepped out of the cab, but we didn’t really think
 anything could possibly come out of it—the Communist Party’s grip on
-the country seeming utterly unbreakable. In any event this wasn’t
+the country seeming utterly unbreakable. In any event, this wasn’t
 going to impact our vacation plans, right?
 
 So we got on the train as planned, checked into our hotel in Brașov,
@@ -42,9 +42,9 @@ of officers in police uniforms greeted us. They asked for our IDs,
 wrote our names down, and asked what we were doing there.
 
 “We are university students, from Bucharest, on vacation, staying in
-the hotel,” I said.  He pointed to my camera. “Can I see that?” one of
+the hotel,” I said. He pointed to my camera. “Can I see that?” one of
 them asked, and as I handed it over, he opened it up and pulled the
-film out of its case, exposing all of it to light.  “Now go!” he
+film out of its case, exposing all of it to light. “Now go!” he
 barked.
 
 We just got to our room when we heard the first gunshots. We froze,
@@ -68,16 +68,16 @@ roof. He was still at large, his whereabouts unknown!
 
 When the train arrived in Bucharest, we encountered a very different
 city from the one we just left a few days before: people were walking
-around with tri-colored ribbons around thir arms, some carrying flags
+around with tri-colored ribbons around their arms, some carrying flags
 with a hole in the middle where the communist symbols used to be,
 others had guns. There were checkpoints everywhere. We were carrying a
 heavy blanket we received as a gift from my cousins, and we must have
 looked suspicious, maybe people thought we were hiding rifles in the
 blanket. 
 
-Finally, we made it home to my parents apartment. My Dad urged us to
+Finally, we made it home to my parents' apartment. My Dad urged us to
 go protect the University building, and we went. When we arrived
-there, there were a bunch a students and professors already discussing
+there, there were a bunch of students and professors already discussing
 how to organize a National Salvation Front unit. A stranger barged in
 and asked if anyone wanted guns. We didn't want any. There wasn't much
 to do there for us, we weren't interested in joining any political
@@ -98,7 +98,7 @@ brief televised trial, with an unknown judge and no jury, just some random
 prosecutor and a default defense attorney. The dictator kept insisting
 this is a coup, instigated by foreign agents, and he will only answer
 to the Grand National Assembly (which had been dissolved). The main
-accusation brougt on was of genocide against his own people. The
+accusation brought on was of genocide against his own people. The
 defense attorney made a feeble attempt to invoke his clients'
 insanity, which was dismissed by the accused. After a very short
 deliberation, the judge read the sentence, final and with no right to
@@ -113,7 +113,7 @@ didn't lead to any answers.
 I have mixed feelings about all that had happened: of course I was
 happy the totalitarian regime was over, but something about the way
 the trial was carried on didn't seem right. It felt like all the blame
-was placed on a single individual and his wife. He was definitelly
+was placed on a single individual and his wife. He was definitely
 guilty, don't get me wrong, but there were plenty of people in his
-antourage who were just as guilty, and nothing happened to them. It
+entourage who were just as guilty, and nothing happened to them. It
 felt like he was summarily executed so that he cannot talk.
