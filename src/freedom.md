@@ -9,9 +9,9 @@ our schoolmates were in a state of agitation about some of our
 professors who used to be in the department's political leadership
 under the former regime. They were calling into question whether they
 should still be allowed to teach. In this state of turmoil it was very
-hard to continue the day to day learning, so more and more students
+hard to continue the day-to-day learning, so more and more students
 were demanding a freeze of the academic year. It seemed to me that the
-most vocal were the students with lowest grades who were hoping for a
+most vocal were the students with the lowest grades who were hoping for a
 re-do of all their exams of the year. Regardless, something needed to
 be done, the uncertainty was weighing hard on everybody, students and
 teachers alike. So, the department's leadership agreed to meet with a
@@ -24,7 +24,7 @@ department head and some other professors to make our case. We
 explained that our cohort members want to cancel the current classes,
 wipe out the records for the first semester and start again the senior
 year in the Fall. Aside from contesting the political past of some of
-the professors we invoked our plans to organize into a Student Union
+the professors, we invoked our plans to organize into a Student Union
 to better represent the students' interests. The department head
 listened to our arguments and then said:
 
@@ -38,11 +38,11 @@ extra year. Think of all your colleagues who come from lower income
 families all over the country, can you in good conscience force this
 upon them?"
 
-He was right, of course. We haven't thought of that. See, we were so
+He was right, of course. We hadn't thought of that. See, we were so
 young that we were happily willing to waste one year, it felt like we
 had an unlimited number of years in front of us, so one year hardly
 mattered. So we went back to our fellow students and explained it to
-them that all the grades stand and we just have to get back to work
+them that all the grades stood and we just have to get back to work
 and graduate. The Student Union did get organized, but I didn't have
 any interest in participating. I was busy with classes and the
 undergraduate research I was involved in. Also, I was planning to
@@ -57,12 +57,12 @@ college, provided that one passed the competitive admissions exam. In
 exchange, all college graduates were required to work for the first
 three years in a state-assigned position, usually somewhere in an
 underserved village or small town. The list of jobs was made available
-to the whole graduating class but the assignemnts were given in
+to the whole graduating class but the assignments were given in
 descending order of the GPAs, so the higher achieving students were
 able to pick the best of the available options. The only exception to
 the strict order was to allow a student to claim a job close to a
 spouse, if both were graduating at the same time. This little
-exception was that subject of quite a bit of gossip among students
+exception was the subject of quite a bit of gossip among students
 whenever anyone got married. We were not spared, of course. I know
 because I happen to have this gossip on record, on our VHS wedding
 tape from the previous summer, in 1989.
@@ -79,7 +79,7 @@ The entire class of 25 graduating students went to the interview. They
 kept us in a waiting room for about an hour because the interviewers
 were busy watching a soccer game on TV. Finally, they asked us in, one
 by one. When my turn came, I went in: in the conference room there
-were a handfull of full-time researchers and software engineers,
+were a handful of full-time researchers and software engineers,
 asking questions. They asked me a bunch of questions about our classes
 and then asked me if I did any coding for fun. I told them about my
 Tetris implementation and they were apparently pretty impressed,
@@ -89,10 +89,10 @@ colleagues. Everyone else was dismissed.
 Going back to that meeting for picking from the state jobs. The time
 came and we were all gathered together in a large class. We were
 called in GPA order to express our options. The four of us who made
-the cut at the Reserach Institute declined, of course. The best jobs
+the cut at the Research Institute declined, of course. The best jobs
 from that list were three teaching positions at the prestigious
 Informatics High School in Bucharest. My wife, having one of the
-highest GPA was able to get one of them. We were overjoyed with our
+highest GPAs, was able to get one of them. We were overjoyed with our
 unexpected success: imagine securing good positions, in the city, just
 as we were graduating. Contrast that with the previous graduating
 classes who had to take undesirable jobs far away from home and work

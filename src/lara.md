@@ -22,15 +22,15 @@ she insisted and the meal was just $5 so I decided to go.
 At that meal I saw someone at the other end of the large dinner hall
 who looked familiar. Thinking it was Jenny I waved to her and she
 smiled and waved back. I got up from our table and started walking
-towards her. As I got closer I realized it’s not Jenny, but she
+towards her. As I got closer I realized it was not Jenny, but she
 continued to smile looking at me. When I got there I introduced myself
 and apologized for my mistake.
 
 “No worries! I’m Lara, by the way,” she said, and continued chatting
-with me.  “Nice meeting you, I’ll see you around,” I said after a few
+with me. “Nice meeting you, I’ll see you around,” I said after a few
 minutes of chitchat.
 
-She mentioned casually she goes to the campus gym on Tuesdays and
+She mentioned casually she went to the campus gym on Tuesdays and
 Thursdays at 10. Naturally I went there too the next Tuesday and sure
 enough I saw her there but just nodded to her, as she was working out
 on a treadmill. To my surprise she came over to me after her workout
@@ -41,7 +41,7 @@ already seen before[^The Clouds, by Aristophanes]. It was a musical
 comedy adaptation by a local troupe. I offered to come pick her up
 from her home and she started giving me driving directions.
 
-“I don’t have a car,” I said, embarrassed.  “Oh, no worries, I live
+“I don’t have a car,” I said, embarrassed. “Oh, no worries, I live
 right near a subway stop, and it’s anyway easier to go by transit.”
 
 I was relieved. So I went to her house, and we went to see the play

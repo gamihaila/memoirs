@@ -69,7 +69,7 @@ So, at the appointed time we started our “talk” session. After a few
 pleasantries, I went straight into the heart of the matter:
 
 “Dana, did you know that I had a big crush on you all through
-college?”  “Yes, I know,” she said, “it was hard not to notice, but
+college?” “Yes, I know,” she said, “it was hard not to notice, but
 what did you expect me to do about it? You were always with Ioana.”
 
 She was right. Even though I was very attracted to her I never dared

@@ -44,13 +44,13 @@ Over dinner, Cristina brought up our vacation plans.
 
 “Yes”, I said, innocently, “I just reserved a hotel room in a hotel in Nice”. 
 
-Cristina shot me a discrete but definite angry glance. I was puzzled. 
+Cristina shot me a discreet but definite angry glance. I was puzzled. 
 Only after her other guests left she told me: 
 
 “You were not supposed to tell them we’re sharing a room.” 
 
 Ah, that plausible deniability again, I thought we were over that by now, but apparently not. She was not amused.
-Later, in one of commuter trains I blew it all by telling her I was married before but I’m single now. 
+Later, in one of the commuter trains I blew it all by telling her I was married before but I’m single now. 
 
 “Wait, how long ago were you divorced?”, she asked. 
 
@@ -64,6 +64,6 @@ No amount of pleading from my side could convince her my feelings were real.
 “I believe you that you honestly think these feelings are real, but trust me, they are not”, 
 she kept telling me. She pulled back completely, I barely saw her for weeks.
 
-When the time for our Nice trip came, she decided we can still go together but as friends, nothing more. 
+When the time for our Nice trip came, she decided we could still go together but as friends, nothing more. 
 It was beautiful there, we even took a drive to Monaco, but it was painful to be next to her and yet so far, emotionally.
 After I got back to Toronto I kept writing to her and calling her, but she never answered, except to tell me to stop calling.

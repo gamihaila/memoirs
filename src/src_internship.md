@@ -28,10 +28,10 @@ didn’t have a future together.
 
 I went to Bucharest for a short vacation before my internship, meeting
 with old friends. Everybody was talking about my imminent trip to
-California! On my way back to Toronto I had a few hours stop over in
+California! On my way back to Toronto I had a few hours' stopover in
 London. I landed at Gatwick and was going to take my next flight from
 Heathrow. On the shuttle to Heathrow I happened to sit next to a
-Romanian girl, Oana. So, as it is usual in these kinds of situations
+Romanian girl, Oana. So, as is usual in these kinds of situations
 we started chatting. It was not that surprising that she was Romanian,
 since our flight from Bucharest had just landed. The unexpected part
 was her destination: Palo Alto, California. She was a green card
@@ -82,7 +82,7 @@ was married to an Englishwoman had introduced me to one of his wife’s
 girl friends, a nurse who was visiting from London. We made plans to
 go together to the revolving restaurant on the top of Manulife Center,
 just next to our university’s graduate family housing where we were
-both staying. Me and Lara were on one of our off periods at the time,
+both staying. Lara and I were on one of our off periods at the time,
 so I stupidly mentioned to her about my evening plans. So, sure
 enough, just as we were enjoying the view and each other’s company,
 who should show up but Lara, all smiles and grabbing my arm lovingly,
@@ -109,25 +109,25 @@ she was saying how she found an old letter from me and she just now
 realized how much I cared for her three years earlier. “Give me a
 call,” she ended her email. So I called her.
 
-On the phone, she sounded terrible.  “What’s going on?” I asked.
+On the phone, she sounded terrible. “What’s going on?” I asked.
 
 She told me she was recently abandoned by her French fiancé just
 before their wedding. She said she would love to visit me in Toronto.
 “Oh-oh,” I thought, “so basically she wants me to be her rebound guy.”
 Well, okay, why not, I thought; it’s not that my relationship with
-Lara was going anywhere. So I told her that I’m in California for the
-summer and she’s welcome to visit me if she wants. She agreed
+Lara was going anywhere. So I told her that I was in California for the
+summer and she was welcome to visit me if she wants. She agreed
 enthusiastically and booked her flight for the following week.
 
 Happy about this turn of events I mentioned this to Lara on our next
 phone call, as we agreed. She was still calling me two or three times
-a week.  “Oh, yeah? Then I’m coming too!” she replied, and she booked
+a week. “Oh, yeah? Then I’m coming too!” she replied, and she booked
 a flight for the next day. There wasn’t much I could do to stop her.
-“What about your attacks?” I asked.  “Oh, I’ll look for a short-term
+“What about your attacks?” I asked. “Oh, I’ll look for a short-term
 rental close to you, I won’t stay with you.”
 
 On the next phone call with Cristina I told her about Lara’s plans. I
-was completely honest. I told her me and Lara were basically over, she
+was completely honest. I told her Lara and I were basically over, she
 was just visiting and getting her own place. I was prepared for
 Cristina to cancel her trip, but to my surprise she didn’t. So now I
 was facing the prospect of having both of them visiting at the same

@@ -1,12 +1,12 @@
 Our train ride was long, but uneventful. At the Hungarian border we
-presented our passports and the customs officer asked us where were
-are travelling. Needless to say, he was quite surprised to hear our
+presented our passports and the customs officer asked us where we were
+travelling. Needless to say, he was quite surprised to hear our
 final destination!
 
 We arrived in Warsaw the next day. We got to our hotel by cab, and had
 a few hours left in the day to explore the city, our flight was the
 following morning. I remember we were quite impressed: even though
-Poland was part of the former Eastern Block, it looked nothing like
+Poland was part of the former Eastern Bloc, it looked nothing like
 our country. The buildings and highways were modern, and a lot of the
 shops and restaurants had well-known Western names. We saw a large,
 elegant McDonalds downtown. The old city architecture was impressive,
@@ -14,7 +14,7 @@ and everything was so clean and civilized!
 
 We got back to our hotel late that evening. That's when it hit me: I
 was moving to a new country with a wife I didn't quite feel I
-could rely on. I had a mini panick attack and took a long time to fall
+could rely on. I had a mini panic attack and took a long time to fall
 asleep. Of course I didn't bring this up with Ioana, but I could sense
 she was scared too.
 
@@ -55,7 +55,7 @@ to all the Canadian government services, including free health
 care.
 
 As soon as we stepped out of the international area of the airport, we
-saw our Romanian aquaintance waiting for us with our name writen on a
+saw our Romanian acquaintance waiting for us with our name written on a
 hand made sign. He took us to his car, and drove us to the city. We
 were eagerly taking in the scenery. The way from the airport wasn't
 especially impressive, he took us through some rather run-down areas,
@@ -75,11 +75,11 @@ stove and sink in one corner of the room! We didn't last long
 there. After a couple of weeks another unit opened up in the same
 house: a much larger one-bedroom apartment, same rent. The catch? It
 was down in the basement! Just one tiny window near the bedroom
-celing, and none in the living room/kitchen area. Oh, well, we
+ceiling, and none in the living room/kitchen area. Oh, well, we
 thought, we're just going to be there to sleep, right?
 
 It was the middle of the coldest winter of the decade. Aside from the
-weather, the job market was equally frozen at the time.  Immigrants
+weather, the job market was equally frozen at the time. Immigrants
 who had arrived there one or two years before me were still looking
 for jobs. I made the rounds at all the major head hunter agencies,
 handing in my resume and talking to recruiters about potential
@@ -93,7 +93,7 @@ horizon.
 
 Naturally, we befriended all our neighbors, including the
 superintendent's family, also Romanian. It turned out that his son was
-an undergraduate at the University of Toronto. Hearing that we're
+an undergraduate at the University of Toronto. Hearing that we were
 interested in applying to graduate school he offered to make an
 appointment for me with his academic counsellor.
 
@@ -118,7 +118,7 @@ admitted for graduate studies with a full scholarship. Go home and
 apply right away. Even though our application deadline has passed on
 February 28, if you apply in the next few days you will still be
 considered for this academic year”. I was overjoyed! Before leaving, I
-told him my wife also graduated from the same program and has very
+told him my wife also graduated from the same program and had very
 good grades too. “Well, then, you should both apply!”.
 
 So we both applied for admission for graduate school at the University
@@ -140,7 +140,7 @@ was thinking, was this what was standing between me and a job? Oh,
 well, I would probably not enjoy working there either.
 
 Eventually, after two months of cold calling and head hunter
-appointments I finally got a job interview.  It was for a Windows
+appointments I finally got a job interview. It was for a Windows
 programmer position at an industrial equipment supplier company called
 Ahearn & Soper. Armed with my Master’s diploma I went to the
 interview, solved some coding problems on the whiteboard, and found
@@ -161,7 +161,7 @@ rent to pay, and not enough money in the bank. This was the first time
 in our lives when we were actually unable to pay rent. We had paid for
 the security deposit, and for the first two months, but at the
 beginning of the third month, we only had a couple hundred dollars
-left. It was very embarassing, I was going to work in the morning and
+left. It was very embarrassing, I was going to work in the morning and
 avoiding the superintendent for a few days. Eventually he came
 knocking on our door. I explained that my salary was going to come in
 a few weeks time, but he said that the owner needs the money on time
@@ -173,7 +173,7 @@ interest. We were lucky she didn't ask us how we managed to spend the
 $10,000 we supposedly brought with us in just two months. 
 
 A few months after I started working I received the acceptance letter
-form U of T.  I thought I needed money for tuition so I deferred my
+from U of T. I thought I needed money for tuition so I deferred my
 registration until the next year. I found out later that I could defer
 paying the tuition since I had a scholarship, but, in retrospect, it
 was a good choice to get more working experience anyway.
