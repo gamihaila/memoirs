@@ -174,6 +174,59 @@ extra work I had to do on the weekends, but over time I was able to do
 it fast and got better at it. Some of her solution techniques were
 different from my school teacher's.
 
+I became acutely aware of that during one class when my school Math
+teacher asked me to compute the volume of a complicated 3D shape at
+the blackboard. Instead of following her method, which was to compute
+each component's volume separately and then combine them, I tried to
+express everything as a single long polynomial, summing up all the
+component figures and subtracting the carved-out ones. The polynomial
+got unwieldy and I made a careless mistake simplifying it. She scolded
+me gently for not following her method.
+
+About a month before the exam, I had an accident in the school
+workshop. Practical training was a mandatory part of Communist
+education, and that day my teacher asked me to plug in a soldering
+iron at the desk outlet. When I did, it flared up, burning my left
+hand. Lucky I was holding it in my left hand, being right-handed. My
+Dad was called in and we were rushed to the Children's Hospital ER. He
+was in tears, terrified I would lose my hand. I, for my part, wasn't
+feeling a thing: I was in shock for the first twenty minutes. Then the
+pain came, and it was unbearable.
+
+The ER doctor scraped the blackened skin off my fingers, then assured
+us the nerves were not affected and that it would heal. I was admitted
+and spent the next week among children who were fire victims, some
+with third-degree burns over their tiny bodies. Being the oldest, they
+begged me to tell them bedtime stories at night. I did. It was
+gutwrenching.
+
+At some point, medical students came to visit us and started asking me
+Math questions. I remember one of them asking: what is $a^2 - b^2$?
+I answered without hesitation: $(a + b)(a - b)$.
+
+First came the Math test. I walked in confidently, and sure enough,
+the problems were just like the ones I had been drilling on for the
+past year. I finished well before the allotted time and walked out
+happy. The next day, though, came the Romanian test. The assigned text
+was "Mări sub pustiuri" by Dumitru Radu Popescu, arguably the most
+drab piece of writing in the entire Romanian literature curriculum. A
+story about Nazis accidentally killing a child hiding in a corn field.
+Not a bad topic, don't get me wrong, but the writing itself was
+thoroughly uninspiring. Not exactly what you want to be wrestling with
+when your future depends on it.
+
+The exam results came back and I had scraped through: a perfect 10.00
+in Mathematics, but a Romanian score that nearly sank me. My overall
+average was 8.80, just ten hundredths of a point above the last
+admitted student. But I didn't know that yet when I walked out of the
+Romanian exam and found my Dad waiting for me in front of the
+building. "How did it go?" he asked. "Not too great, I'm afraid," I
+told him. He didn't say much, but I could see it on his face: after
+all the money they had spent on that tutor, and all the weekends I had
+put in, it looked like I might fail the exam that was going to decide
+my future. He loved me dearly, but I had disappointed him. As it
+turned out, I hadn't. But just barely.
+
 
 
 
