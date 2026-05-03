@@ -48,14 +48,16 @@ the developing process. My father had a Soviet-made enlarger sitting
 around, and I commandeered it along with the only room in the apartment
 that could be made completely dark: the bathroom. Black and white
 materials were all I worked with; the paper and chemicals were
-affordable and easy to find in stores. Loading the negative, projecting
-the image, watching it surface in the developer tray. It never got old.
+affordable and easy to find in stores. Developing the film, letting it dry, then
+then projecting
+the image, watching it surface in the developer tray. It was fascinating. 
 
 My subjects were mostly schoolmates, especially the girls in our class.
 I was handing out prints for free until our homeroom teacher noticed
 and suggested I charge enough to cover my costs. It had not occurred to
 me, but sure, why not. I set the price at one leu per print, roughly
 twenty-five cents today. Not much, but it added up.
+I still have many of those prints in a box somewhere.
 
 I did not feel bad about charging them. They were mostly from well-off
 families, already on track for Medical School or Law School. My own
@@ -72,4 +74,3 @@ tutoring quietly filled the gap, paid out of pocket by families who
 could manage it. My classmates heading to competitive programs had that
 advantage. The system is apparently still going strong today.
 
-I still have many of those prints in a box somewhere.
