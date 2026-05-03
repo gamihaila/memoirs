@@ -41,3 +41,37 @@ Informatics: as the radio receiver fiasco showed, I should stay away
 from hardware; I despised Economics; and I liked Math. Plus, I was
 reasoning that mistakes in programming can always be fixed, unlike
 frying electronic components.
+
+Around the same time, I had another obsession running in parallel:
+photography. I had an old Russian camera, and what fascinated me was
+the developing process. My father had a Soviet-made enlarger sitting
+around, and I commandeered it along with the only room in the apartment
+that could be made completely dark: the bathroom. Black and white
+materials were all I worked with; the paper and chemicals were
+affordable and easy to find in stores. Loading the negative, projecting
+the image, watching it surface in the developer tray. It never got old.
+
+My subjects were mostly schoolmates, especially the girls in our class.
+I was handing out prints for free until our homeroom teacher noticed
+and suggested I charge enough to cover my costs. It had not occurred to
+me, but sure, why not. I set the price at one leu per print, roughly
+twenty-five cents today. Not much, but it added up.
+
+I did not feel bad about charging them. They were mostly from well-off
+families, already on track for Medical School or Law School. My own
+family was comfortable enough on paper; my father was a university
+professor and my mother an editor at a prestigious publishing house.
+But my father liked to live well. He enjoyed taking fellow professors
+out to dinner, especially at Casa Universitarilor, the faculty
+restaurant, and money had a way of not staying around long. So extra
+pocket money was always welcome.
+
+In any case, the communist system was officially egalitarian, but the
+public schools were overcrowded and a single teacher managing
+thirty-six students could only do so much. A parallel system of private
+tutoring quietly filled the gap, paid out of pocket by families who
+could manage it. My classmates heading to competitive programs had that
+advantage. The system is apparently still going strong today. Some
+things outlast the regimes that shaped them.
+
+I still have many of those prints in a box somewhere.
