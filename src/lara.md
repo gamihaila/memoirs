@@ -145,5 +145,76 @@ exhausting. I had no choice, however; I was smitten with her. Many
 years later, when I watched a movie[^ The Eternal Sunshine of the
 Spotless Mind, 2004] I identified with the main character.
 
+The next year continued in similar way, with Lara coming and going,
+but I was getting used to the idea of not getting to attached to
+her. Then the fall came, and with it a new cohort of incoming
+students. I had a few aquaintances from the Romanian Students Club
+events. One day, I was working at my desk in the graduate office, when
+one of these aquaintances walked in the door and introduced me to her
+new friend, Laura, a new graduate student in the French department,
+quite good looking too:
+
+"Laura just arrived from Romania and she's temporarily staying with me
+in the dorm until she can find a place to stay", she said.
+
+It was a fateful moment. I remember precisely how I jumped at the
+opportunity:
+
+"Oh, I don't know how to say it, and please don't take it the wrong
+way, but I do have a spare room in my apartment, and you're welcome to
+stay there until you find a place of your own". It was true, when
+Ioana left, I continued to rent our one bedroom apartment in the
+graduate students' family housing high rise on Charles Street, just
+minutes walking distance from campus (why would I give that up, just
+because I wasn't married anymore, it was a great deal!). In my mind I
+was sure Laura would decline, but to my surprise she gladly accepted
+my offer. She had her luggage with her and we walked together to my
+place right away. As we were walking, she told me she had just gotten
+married in Romania and her husband was going to follow her in a few
+months. Even though this took me by surprise, I didn't flinch:
+
+"Oh, hopefully by the time he comes you can find your own place, but
+if you don't, he's welcome to stay in my living room with you, of
+course!"
+
+Laura was overjoyed to hear this. She had a great disposition by
+nature, and she was naturally happy for this unexpected turn of
+events: just that morning she was sharing a tiny dorm room with her
+friend and now she was moving in to a nice apartment for a very good
+rent (half of my $500 a month subsidized student rent). And I must
+have looked trustworthy enough to her to move in with me (rightfully
+so, if I may say so myself). I introduced her to Lara, who didn't see
+any issue in us sharing a place. That put Laura at ease even more and
+she cheerfully described the arrangenment in her email messages to her
+former dorm roomate in Bucharest, Gratiela:
+
+"I am living with a CS grad student George in his one bedroom
+apartment next to campus. On weekends we go cycling to the lake and
+we have picknics at the beach. Don't worry, he has a girlfriend, a
+native girl named Lara, although I'm not sure how serios that
+relationship realy is.". That was true, Lara's Mom and Dad were both
+50% Native American, making Lara half-native too. To me, she was
+Pocahontas: on a trip we took to visit some of her relatives on a
+reservation in Deseronto, the chief offered to marry us right then and
+there on the reservation ground, and I even tried to persuade Lara to go
+for it, unsuccessfully, of course.
+
+It was really nice living with Laura, we became good friends right
+away and we did everything together. Well, almost everything. She was
+married, after all, and I wasn't going to be a home wrecker as Jan was
+to me. That wasn't easy. Luckily, it wasn't long until her husband
+arrived. He was a really nice fellow to, an Ukrainian boy who had
+learned Romanian perfectly, to the point that nobody would guess he
+wasn't a native speaker. He got a job right away at the neigborhood
+grocery store and in his spare time he was learning how to code on my
+laptop. He asked me to borrow textbooks on programming from the
+department and I happily obliged. Even though he had a humanities
+background he actually got really good at coding, and ended up landing
+an entry level job in IT not too long after.
+
+
+
+
+
 
 
