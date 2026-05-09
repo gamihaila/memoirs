@@ -156,7 +156,14 @@ students a distinct advantage for getting into the university majors
 of their choice. So, naturally, everybody wanted a spot in these, so
 the admission exam was highly competitive. My parents knew that and
 hired private tutors for me for both of the exam subjects: Romanian
-and Mathematics. I had to go to the tutors apartments twice a week for
+and Mathematics. You see, the communist system was officially
+egalitarian, but the public schools were overcrowded and a single
+teacher managing thirty-six students could only do so much. A parallel
+system of private tutoring quietly filled the gap, paid out of pocket
+by families who could manage it.  The system is apparently still going
+strong today.
+
+I had to go to the tutors apartments twice a week for
 two hours at a time, and of course the tutors assigned me homework
 too, on top of the school assignments. The Romanian tutor just made me
 transcribe and memorize her own literary analysis essays on the topics

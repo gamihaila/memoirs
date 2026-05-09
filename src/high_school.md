@@ -48,9 +48,9 @@ the developing process. My father had a Soviet-made enlarger sitting
 around, and I claimed it along with the only room in the apartment
 that could be made completely dark: the bathroom. Black and white
 materials were all I worked with; the paper and chemicals were
-affordable and easy to find in stores. Developing the film, letting it dry, then
-then projecting
-the image on photographic paper, watching it appear in the developer tray. It was fascinating. 
+affordable and easy to find in stores. Developing the film, letting it
+dry, then then projecting the image on photographic paper, watching it
+appear in the developer tray. It was fascinating.
 
 My subjects were mostly schoolmates, especially the girls in our class.
 I was handing out prints for free until our homeroom teacher noticed
@@ -67,10 +67,4 @@ But my father liked to live well. He enjoyed taking fellow professors
 out to dinner, especially at Casa Universitarilor, the faculty
 restaurant, and money had a way of slipping through his fingers.
 
-In any case, the communist system was officially egalitarian, but the
-public schools were overcrowded and a single teacher managing
-thirty-six students could only do so much. A parallel system of private
-tutoring quietly filled the gap, paid out of pocket by families who
-could manage it. My classmates heading to competitive programs had that
-advantage. The system is apparently still going strong today.
 

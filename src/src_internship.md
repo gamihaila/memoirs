@@ -193,3 +193,5 @@ purposeless. I was still contemplating what an eventful summer I had
 experienced, perhaps the most eventful in my entire life: there were
 no less than five girls who took turns to visit me over the entire
 period.
+
+

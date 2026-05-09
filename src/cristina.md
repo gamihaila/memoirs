@@ -29,18 +29,24 @@ regular train from Paris Montparnasse Station. This made the commute
 something to look forward to. Looking back, it really was just like
 the underground scenes from one of my favorite movies[^ About Time, 2013].
 
-Our relationship was going so well she suggested we could take a short vacation together on the French Riviera.
-I mentioned this to a colleague at the institute, and she told me I should ask our secretary to arrange the reservations for us. 
+Our relationship was going so well she suggested we could take a short
+vacation together on the French Riviera.  I mentioned this to a
+colleague at the institute, and she told me I should ask our secretary
+to arrange the reservations for us.
 
 “Are you sure? This is not a work-related trip.”, I said. 
 
-“Oh, don’t worry, it’s really easy for her, she loves using the Minitel for this kind of stuff”. 
+“Oh, don’t worry, it’s really easy for her, she loves using the
+Minitel for this kind of stuff”.
 
-Ah, the Minitel system, that earlier incarnation of the Internet, widely used in France since the ‘80s. 
-And indeed, in a few minutes I had a hotel reservation, plane tickets, and a car rental reservation in Nice!
+Ah, the Minitel system, that earlier incarnation of the Internet,
+widely used in France since the ‘80s.  And indeed, in a few minutes I
+had a hotel reservation, plane tickets, and a car rental reservation
+in Nice!
 
-I went to visit Cristina that evening. She had some Romanian friends over and she had cooked some traditional dishes. 
-Over dinner, Cristina brought up our vacation plans. 
+I went to visit Cristina that evening. She had some Romanian friends
+over and she had cooked some traditional dishes.  Over dinner,
+Cristina brought up our vacation plans.
 
 “Yes”, I said, innocently, “I just reserved a hotel room in a hotel in Nice”. 
 
@@ -49,8 +55,10 @@ Only after her other guests left she told me:
 
 “You were not supposed to tell them we’re sharing a room.” 
 
-Ah, that plausible deniability again, I thought we were over that by now, but apparently not. She was not amused.
-Later, in one of the commuter trains, I blew it all by telling her I was married before but I’m single now. 
+Ah, that plausible deniability again, I thought we were over that by
+now, but apparently not. She was not amused.  Later, in one of the
+commuter trains, I blew it all by telling her I was married before but
+I’m single now.
 
 “Wait, how long ago were you divorced?” she asked. 
 
@@ -58,12 +66,17 @@ Later, in one of the commuter trains, I blew it all by telling her I was married
 
 “Wow, hold on, you’re trouble, you’re on a rebound.”
 
-After this unsolicited confession of mine nothing was ever the same. 
-No amount of pleading from my side could convince her my feelings were real. 
+After this unsolicited confession of mine nothing was ever the same.
+No amount of pleading from my side could convince her my feelings were
+real.
 
-“I believe you that you honestly think these feelings are real, but trust me, they are not”, 
-she kept telling me. She pulled back completely, I barely saw her for weeks.
+“I believe you that you honestly think these feelings are real, but
+trust me, they are not”, she kept telling me. She pulled back
+completely, I barely saw her for weeks.
 
-When the time for our Nice trip came, she decided we could still go together but as friends, nothing more. 
-It was beautiful there, we even took a drive to Monaco, but it was painful to be next to her and yet so far, emotionally.
-After I got back to Toronto I kept writing to her and calling her, but she never answered, except to tell me to stop calling.
+When the time for our Nice trip came, she decided we could still go
+together but as friends, nothing more.  It was beautiful there, we
+even took a drive to Monaco, but it was painful to be next to her and
+yet so far, emotionally.  After I got back to Toronto I kept writing
+to her and calling her, but she never answered, except to tell me to
+stop calling.
