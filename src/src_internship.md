@@ -247,5 +247,14 @@ out how that meeting went.
 "Yeah", she said, "good! You don't want to marry a Romanian girl,
 you'll have ugly kids, no racial mixture."
 
-Well, she couldn't have been more wrong: me and Gratiela went on to
-have four beautiful daugthers.
+Well, she couldn't have been more wrong: me and Gratiela got married
+the following year and went on to have four beautiful daugthers. All
+the result of a series of unforseeable events: moving to Toronto in
+1993, divorcing in Spring 1996, meeting Jenny at the Welcome party at
+the International Student Center in the Fall that same year, which
+made me wave at Lara at the Thanksgiving dinner mistaking her for
+Jenny, offering a place to stay to Laura in the fall of 1998, breaking
+up with Cristina in California at the end of summer in 1999, and
+following Lara's push to go meet Laura's best friend, despite my
+reluctance. Had I made any other choice in any one of these steps, my
+daughters would not have been born. Chilling!
