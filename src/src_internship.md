@@ -178,12 +178,26 @@ trust me.” Now that the roles were reversed, she couldn’t believe she
 was making the same mistake. She kept telling me that she was ready to
 give up her medical career in France and move to Canada to be with me.
 
-“I can’t have you do that, it’s too risky for your career,” I told her.
+“I can’t have you do that, it’s too risky for your career,” I told
+her.
 
-In my heart I knew we wouldn’t be happy together, but I couldn’t tell
-her that directly. But she understood. A few days later I drove to the
-airport and she was gone. Lara left soon after, I guess she figured
-there wasn’t any more reason for her to stay.
+When we got back to Mountain View we found the apartment turned
+upside-down, shaving cream foam everywhere, including on my university
+diploma. It turns out Lara had a fit after we left, she tried to find
+out where we were staying in Hollywood, wasn't able to and got
+angry. When I asked her what that was about she said:
+
+"I told you you're free to go on a road trip with Cristina, but I
+didn't know you're going to get a red convertible!"
+
+Oh, well, eventually she calmed down and we resumed our daily
+routines, which involved me trying to split my time between the two of
+them and take turn appeasing each of them. That was exhausting.
+
+In my heart I knew me and Cristina had no future together, but I
+couldn’t tell her that directly. But she understood. A few weeks later
+I drove her to the airport and she was gone. Lara left soon after, I
+guess she figured there wasn’t any more reason for her to stay.
 
 After Lara went back to Toronto I had a lot of time to reflect on my
 life, alone again in my Mountain View apartment. During the day it was
@@ -194,4 +208,44 @@ experienced, perhaps the most eventful in my entire life: there were
 no less than five girls who took turns to visit me over the entire
 period.
 
+Finally, the internship came to an end and I went back to
+Toronto. Fall was coming and with it, again, a new cohort of incoming
+students. This time, Laura, who had secured an apartment in the same
+building for her and her husband, gave me a phone call one evening:
 
+"George, I want you to meet a friend of mine who just arrived from
+Romania. She was my roomate at the University of Bucharest."
+
+Lara, who was hanging out at my place, overheard the conversation and
+sensed something was going on, even though we were speaking in
+Romanian:
+
+"What was that about?", she asked.
+
+"Oh, it's just my neighbor Laura, remember her, my former
+roommate. She wants to introduce me to a friend of hers, a Romanian
+girl".
+
+"Go ahead, meet her!", she said.
+
+"I don't know", I replied, "I don't like blind dates, they never
+work. I don't like being set up, it's awkward."
+
+"Just go anyway, aren't you curious?", Lara insisted.
+
+"Allright, I'll go", I reluctantly agreed.
+
+So I took the elevator up to Laura's place to meet Gratiela. I didn't
+fathom at that time that this will be the girl I was going to
+marry. Laura introduced us, but as expected, the conversation was
+awkward and I could tell she wasn't that interested either. So after a
+few pleasanteries I went back to my apartment. Lara was eager to find
+out how that meeting went.
+
+"Oh, just as I told you, awkward", I said.
+
+"Yeah", she said, "good! You don't want to marry a Romanian girl,
+you'll have ugly kids, no racial mixture."
+
+Well, she couldn't have been more wrong: me and Gratiela went on to
+have four beautiful daugthers.
