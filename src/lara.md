@@ -60,7 +60,7 @@ gave her Ioana's phone number and she called her from my phone:
 
 "Hello, is this Ioana?", she opened.
 
-"Yes, who is this?", anwered Ioana.
+"Yes, who is this?", answered Ioana.
 
 "Hi, you don't know me, but I do. My name is Lara and I'm dating your
 ex-husband George", she introduced herself.
@@ -81,7 +81,7 @@ just met".
 
 "No, no, he's serious. He knows right away.", Ioana assured her.
 
-"So, listen", continued Lara, "you left some of your nighgowns in the
+"So, listen", continued Lara, "you left some of your nightgowns in the
 closet, do you want them back?"
 
 "No", answered Ioana surprised.
@@ -92,7 +92,7 @@ well, he's really nice to me!"
 "You're welcome!", laughed Ioana.
 
 If this conversation sounds surreal to you, you're not alone. I was
-having a blast listening to them. At the time, still fairily new to
+having a blast listening to them. At the time, still fairly new to
 the country I thought this must be normal, like a new employer asking
 for references from your past employers. I'm sure Ioana had a good
 laugh too. Not too late after this conversation they met each other in
@@ -137,7 +137,7 @@ Rivotril was all it takes for her to love me. She was serious. We went
 to Central Park and sat on a bench and talked. She told me she would
 not be able to marry me, but that she's happy to hang out for as long
 as I wanted, until I found someone to marry. "Even after", she said,
-"I would move accross the street from you and your wife and you can
+"I would move across the street from you and your wife and you can
 come and see me whenever you want". 
 
 Needless to say, the back-and-forth emotional roller coaster was
@@ -148,9 +148,9 @@ Spotless Mind, 2004] I identified with the main character.
 The next year continued in similar way, with Lara coming and going,
 but I was getting used to the idea of not getting to attached to
 her. Then the fall came, and with it a new cohort of incoming
-students. I had a few aquaintances from the Romanian Students Club
+students. I had a few acquaintances from the Romanian Students Club
 events. One day, I was working at my desk in the graduate office, when
-one of these aquaintances walked in the door and introduced me to her
+one of these acquaintances walked in the door and introduced me to her
 new friend, Laura, a new graduate student in the French department,
 quite good looking too:
 
@@ -180,19 +180,19 @@ course!"
 Laura was overjoyed to hear this. She had a great disposition by
 nature, and she was naturally happy for this unexpected turn of
 events: just that morning she was sharing a tiny dorm room with her
-friend and now she was moving in to a nice apartment for a very good
+friend and now she was moving into a nice apartment for a very good
 rent (half of my $500 a month subsidized student rent). And I must
 have looked trustworthy enough to her to move in with me (rightfully
 so, if I may say so myself). I introduced her to Lara, who didn't see
 any issue in us sharing a place. That put Laura at ease even more and
-she cheerfully described the arrangenment in her email messages to her
-former dorm roomate in Bucharest, Gratiela:
+she cheerfully described the arrangement in her email messages to her
+former dorm roommate in Bucharest, Gratiela:
 
 "I am living with a CS grad student George in his one bedroom
 apartment next to campus. On weekends we go cycling to the lake and
-we have picknics at the beach. Don't worry, he has a girlfriend, a
-native girl named Lara, although I'm not sure how serios that
-relationship realy is.". That was true, Lara's Mom and Dad were both
+we have picnics at the beach. Don't worry, he has a girlfriend, a
+native girl named Lara, although I'm not sure how serious that
+relationship really is.". That was true, Lara's Mom and Dad were both
 50% Native American, making Lara half-native too. To me, she was
 Pocahontas: on a trip we took to visit some of her relatives on a
 reservation in Deseronto, the chief offered to marry us right then and
@@ -203,9 +203,9 @@ It was really nice living with Laura, we became good friends right
 away and we did everything together. Well, almost everything. She was
 married, after all, and I wasn't going to be a home wrecker as Jan was
 to me. That wasn't easy. Luckily, it wasn't long until her husband
-arrived. He was a really nice fellow to, an Ukrainian boy who had
+arrived. He was a really nice fellow too, a Ukrainian boy who had
 learned Romanian perfectly, to the point that nobody would guess he
-wasn't a native speaker. He got a job right away at the neigborhood
+wasn't a native speaker. He got a job right away at the neighborhood
 grocery store and in his spare time he was learning how to code on my
 laptop. He asked me to borrow textbooks on programming from the
 department and I happily obliged. Even though he had a humanities

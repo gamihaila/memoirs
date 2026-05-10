@@ -214,7 +214,7 @@ students. This time, Laura, who had secured an apartment in the same
 building for her and her husband, gave me a phone call one evening:
 
 "George, I want you to meet a friend of mine who just arrived from
-Romania. She was my roomate at the University of Bucharest."
+Romania. She was my roommate at the University of Bucharest."
 
 Lara, who was hanging out at my place, overheard the conversation and
 sensed something was going on, even though we were speaking in
@@ -233,13 +233,13 @@ work. I don't like being set up, it's awkward."
 
 "Just go anyway, aren't you curious?", Lara insisted.
 
-"Allright, I'll go", I reluctantly agreed.
+"Alright, I'll go", I reluctantly agreed.
 
 So I took the elevator up to Laura's place to meet Gratiela. I didn't
 fathom at that time that this will be the girl I was going to
 marry. Laura introduced us, but as expected, the conversation was
 awkward and I could tell she wasn't that interested either. So after a
-few pleasanteries I went back to my apartment. Lara was eager to find
+few pleasantries I went back to my apartment. Lara was eager to find
 out how that meeting went.
 
 "Oh, just as I told you, awkward", I said.
@@ -248,8 +248,8 @@ out how that meeting went.
 you'll have ugly kids, no racial mixture."
 
 Well, she couldn't have been more wrong: me and Gratiela got married
-the following year and went on to have four beautiful daugthers. All
-the result of a series of unforseeable events: moving to Toronto in
+the following year and went on to have four beautiful daughters. All
+the result of a series of unforeseeable events: moving to Toronto in
 1993, divorcing in Spring 1996, meeting Jenny at the Welcome party at
 the International Student Center in the Fall that same year, which
 made me wave at Lara at the Thanksgiving dinner mistaking her for
