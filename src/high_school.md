@@ -49,7 +49,7 @@ around, and I claimed it along with the only room in the apartment
 that could be made completely dark: the bathroom. Black and white
 materials were all I worked with; the paper and chemicals were
 affordable and easy to find in stores. Developing the film, letting it
-dry, then then projecting the image on photographic paper, watching it
+dry, then projecting the image on photographic paper, watching it
 appear in the developer tray. It was fascinating.
 
 My subjects were mostly schoolmates, especially the girls in our class.
