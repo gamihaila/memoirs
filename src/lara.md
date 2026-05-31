@@ -146,7 +146,7 @@ years later, when I watched a movie[^ The Eternal Sunshine of the
 Spotless Mind, 2004] I identified with the main character.
 
 The next year continued in similar way, with Lara coming and going,
-but I was getting used to the idea of not getting to attached to
+but I was getting used to the idea of not getting too attached to
 her. Then the fall came, and with it a new cohort of incoming
 students. I had a few acquaintances from the Romanian Students Club
 events. One day, I was working at my desk in the graduate office, when
