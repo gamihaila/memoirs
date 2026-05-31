@@ -38,6 +38,13 @@ deniability reasons—and her parents pretended not to figure this
 out. By junior year, we got engaged and married in the summer of 1989,
 before senior year.
 
+The wedding ceremony consisted of two parts: the civil marriage at
+City Hall and the Orthodox marriage service in Church. For reasons I
+don't quite recall now, we were not able to schedule both in the same
+day. So it was that we were officially married but I was not allowed
+to sleep over before we were married in Church, which luckily happened
+the next day. 
+
 We didn’t yet have a place of our own, so we commuted back and forth
 between my parents’ apartment and her parents’ apartment for the first
 few months until our small apartment (bought by her parents) was
