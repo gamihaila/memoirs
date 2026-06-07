@@ -27,15 +27,105 @@ tallies faster and finish early. The problem was, the tallies were
 growing but the wagons weren’t filling up, so our little scheme didn’t
 last!
 
-It’s not too surprising that this work camp situation played an
-essential role in accelerating our budding relationship. I was naive
-and eager to find love after the long dry period of my high school
-years. By the time we got back to Bucharest for regular classes, we
-were already an official couple. We started sitting together in all
-classes and spending all our weekends together. In the summer
-vacations we went camping at the beach in a larger group—for plausible
-deniability reasons—and her parents pretended not to figure this
-out. By junior year, we got engaged and married in the summer of 1989,
+It is perhaps not too surprising that this work camp situation played
+an essential role in accelerating our budding relationship. I was
+naive and eager to find love after the long dry period of my high
+school years. One evening, when we were walking back from the dining
+hall together, we had a longer walk holding hands and at one point
+Ioana found a nice spot on a stone bench and suggested we could sit
+down and listen to the music (somebody was playing the guitar in the
+distance). So we did, and she was gazing into my eyes and smiling in
+such a way that even I understood and I kissed her. This was my very
+first kiss, and I got so carried away that I blurted "I love you,
+Ioana!". She started laughing and pointed out: "Love me? You barely
+know me". I was mortified and could not speak another word for the
+rest of our walk back to the dorms. She seemed confused about my
+sudden silence, but didn't say anything.
+
+The next day, however, we were back together, this time even more
+obviously a couple. The weekend came and we were allowed to go off the
+farm. So we took a bus to Mamaia, the largest and best known resort on
+the Romanian Black Sea coast. We went to a public bath house by the
+beach, where there were co-ed showers. Ioana asked me to wash her back
+and I was beyond thrilled. Then we walked around the resort some more,
+and again sat on a bench, and I wanted to kiss her, but she lifted her
+turtle neck sweater over her mouth and refused. In the evening we were
+due on the farm so we went to the bus terminal and waited for the last
+bus, close to midnight. We were sitting on the floor, in the cold,
+among strangers, and I seriously dreaded what would happen if someone
+were to make a pass at her and I had to defend her. Luckily, nothing
+happened, and we got on the bus safely. At the next station, in
+Constanta, more students from the farm got on, and we arrived at our
+stop. Now, because it was night, the bus didn't go all the way to the
+farm, we got dropped off at the closest stop, about a mile away. We
+all got off the bus, and walked to the farm together. Once we got away
+from the main road, we experienced the darkest night sky I have ever
+seen, either before or since that night. It was a clear sky too and I
+think we saw the Milky Way.
+
+Eventually, the grape harvesting camp came to an end and we got back
+to Bucharest. I remember clearly that even though we had some
+beautiful first moments together, I was considering this a summer
+fling, especially after the mixed messages I was getting from
+Ioana. Time to move on and explore, I was telling myself, don't settle
+for the very first girl that gave you the slightest attention. College
+just started and our cohort was full of pretty girls. However, that
+turned out to be easier said than done, with Ioana by my side at all
+times. Everybody was was already considering us an official couple: we
+were always sitting next to each other in all the classes and we were
+always going home together on the same bus.
+
+That didn't stop me from secretly liking about other girls in our
+class. One of them in particular stood out. Her name was Dana and she
+was the prettiest, smartest, and most sophisticated girl in our
+class. No question about it. She was from a very highly placed family,
+her father was a member the Communist Party Central Committee, and
+they were living in a very large downtown apartment, just steps from
+the University building, just behind the Central Committee
+headquarters, in fact. So, even though her father was a highly ranked
+official in the totalitarian regime, nobody held that against
+Dana. She was just too gorgeous and just perfect in every possible
+way. Alas, she also had an official boyfriend, from another college.
+
+In the summer vacation after our second year there was a summer camp
+in Sinaia, the best known resort in the Carpathian Mountains. The camp
+was completely free of charge, but many students from the whole
+country applied to go and the spots were given in the order of the
+GPAs. Me and Dana got in, Ioana didn't. No matter, a lot of students
+would sneak in their friends in the cabins, and the organizers were
+known to silently tolerate this, as long as people were discreet about
+it. So, since we were all friends, Dana offered to sneak Ioana in so
+we can be together, especially since she was planning to go back to
+Bucharest for a few days to spend time with her boyfriend. However,
+the students who were officially on the campers list would be the ones
+who needed to go in the first day and check in, obviously. So, Dana
+and I took the train together in the morning and checked in our
+respective cabins, while Ioana took a later train. So we had a few
+hours to kill until her arrival, so we went to the city park and sat
+on a bench, with Dana resting her head on my lap. You see, was fully
+aware I liked her, so she started taunting me: "Say, George, what if
+we don't wait for Ioana at the train station, she won't know where to
+find the camp cabins, and she's not officially a camper, so she
+couldn't go ask anyone". I was suffering. It took a lot of restraint
+to not lift her head up and kiss her. I knew she wasn't serious, of
+course, but she was so beautifull, and seemed so playful and
+approachable, more than she ever was with me, that for a split second
+I really wanted to believe she liked me. But I couldn't do
+it. Eventually, the magic was gone, we got up, and got Ioana from the
+train. I don't remember much from that camp, just the regret of not
+pursuing the one I truly wanted, even if I didn't think I have any
+chances. Even on the train ride back, when I stepped out of the
+compartment for a bit, Dana came after me and said:
+"Hey, what if we got off at the next station and left Ioana in
+the train, what do you say?". Aarrghhh!
+
+
+In the
+summer vacations we went camping at the beach in a larger group, for
+plausible deniability reasons, and her parents pretended not to figure
+this out.
+
+By junior year, we got engaged and married in the summer of 1989,
 before senior year.
 
 The wedding ceremony consisted of two parts: the civil marriage at
