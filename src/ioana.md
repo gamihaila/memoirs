@@ -102,22 +102,22 @@ who needed to go in the first day and check in, obviously. So, Dana
 and I took the train together in the morning and checked in our
 respective cabins, while Ioana took a later train. So we had a few
 hours to kill until her arrival, so we went to the city park and sat
-on a bench, with Dana resting her head on my lap. You see, was fully
-aware I liked her, so she started taunting me: "Say, George, what if
-we don't wait for Ioana at the train station, she won't know where to
-find the camp cabins, and she's not officially a camper, so she
-couldn't go ask anyone". I was suffering. It took a lot of restraint
-to not lift her head up and kiss her. I knew she wasn't serious, of
-course, but she was so beautifull, and seemed so playful and
-approachable, more than she ever was with me, that for a split second
-I really wanted to believe she liked me. But I couldn't do
+on a bench, with Dana resting her head on my lap. You see, she was
+fully aware I liked her, so she started taunting me: "Say, George,
+what if we don't wait for Ioana at the train station, she won't know
+where to find the camp cabins, and she's not officially a camper, so
+she couldn't go ask anyone". I was suffering. It took a lot of
+restraint to not lift her head up and kiss her. I knew she wasn't
+serious, of course, but she was so beautifull, and seemed so playful
+and approachable, more than she ever was with me, that for a split
+second I really wanted to believe she liked me. But I couldn't do
 it. Eventually, the magic was gone, we got up, and got Ioana from the
 train. I don't remember much from that camp, just the regret of not
 pursuing the one I truly wanted, even if I didn't think I have any
 chances. Even on the train ride back, when I stepped out of the
-compartment for a bit, Dana came after me and said:
-"Hey, what if we got off at the next station and left Ioana in
-the train, what do you say?". Aarrghhh!
+compartment for a bit, Dana came after me and said: "Hey, what if we
+got off at the next station and left Ioana in the train, what do you
+say?". Aarrghhh!
 
 
 In the
