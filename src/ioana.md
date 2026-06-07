@@ -108,7 +108,7 @@ what if we don't wait for Ioana at the train station, she won't know
 where to find the camp cabins, and she's not officially a camper, so
 she couldn't go ask anyone". I was suffering. It took a lot of
 restraint not to lift her head up and kiss her. I knew she wasn't
-serious, of course, but she was so beautifull, and seemed so playful
+serious, of course, but she was so beautiful, and seemed so playful
 and approachable, more than she ever was with me, that for a split
 second I really wanted to believe she liked me. But I couldn't do
 it. Eventually, the magic was gone, we got up, and got Ioana from the
