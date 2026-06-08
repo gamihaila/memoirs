@@ -75,7 +75,7 @@ times. Everybody was was already considering us an official couple: we
 were always sitting next to each other in all the classes and we were
 always going home together on the same bus.
 
-That didn't stop me from secretly liking about other girls in our
+That didn't stop me from secretly liking other girls in our
 class. One of them in particular stood out. Her name was Dana and she
 was the prettiest, smartest, and most sophisticated girl in our
 class. No question about it. She was from a very highly placed family,
