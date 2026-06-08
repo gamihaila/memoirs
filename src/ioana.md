@@ -100,7 +100,7 @@ Bucharest for a few days to spend time with her boyfriend. However,
 the students who were officially on the campers list would be the ones
 who needed to go in the first day and check in, obviously. So, Dana
 and I took the train together in the morning and checked in our
-respective cabins, while Ioana took a later train. So we had a few
+respective cabins, while Ioana took a later train. We had a few
 hours to kill until her arrival, so we went to the city park and sat
 on a bench, with Dana resting her head on my lap. You see, she was
 fully aware I liked her, so she started taunting me: "Say, George,
