@@ -5,7 +5,7 @@ both felt awkward, and didn't even exchange phone numbers or
 anything. I do remember though Gratiela mentioned something about the
 Welcome Party at the International Student Center and I tried to
 dissuade her from going, maybe subcounsciously trying to prevent her
-from meeting somebody else. I knew from experience how eager the older
+from meeting somebody else. I knew from my own experience how eager the older
 students were to meet the newcomers.
 
 So a few weeks passed uneventfully, the new school year started, and I
@@ -13,7 +13,7 @@ was wrapping up my dissertation: after the SRC internship I was
 finally looking forward to graduate and get a real job, something I've
 been blissfully putting off during graduate school. Then something
 happened which changed everything, although I had no idea at the time:
-one old friend of mine from the Romanian Students' Club at U of T,
+an old friend of mine from the Romanian Students' Club at U of T,
 Marica, called me and asked if I could help her move to a new
 apartment. I'm not very athletic, but I figured I could lend a hand,
 it's one of the thing friends are for, right? So I agreed and went to
