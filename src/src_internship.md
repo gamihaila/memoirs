@@ -257,4 +257,4 @@ Jenny, offering a place to stay to Laura in the fall of 1998, breaking
 up with Cristina in California at the end of summer in 1999, and
 following Lara's push to go meet Laura's best friend, despite my
 reluctance. Had I made any other choice in any one of these steps, my
-daughters would not have been born. Chilling!
+daughters would not have been born. But let's not jump ahead.
