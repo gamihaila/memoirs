@@ -80,3 +80,40 @@ door calling for me. "We should open the door, I'm afraid for her", I
 kept telling Gratiela. "Don't worry", she said, "she's not going to
 kill herself". She was right. After a while, Lara gave up and went
 home.
+
+However, in the following weeks Lara intensified her campaign and
+managed to saw enough doubt in Gratiela's mind to cause her to give me
+an ultimatum: "George, you need to make up your mind", Gratiela said
+to me over the phone one day, "and until you settle things with Lara,
+it would be best if you stopped calling me". So, painful as this was,
+I did stop calling. I wasn't seeing Lara at the time anymore either, I
+just needed time to clear my thoughts and I dind't want to cause
+Gratiela any more distress. One complicating factor was that before
+meeting Gratiela I had bought plane tickets for me and Lara to go
+introduce her to my parents in Bucharest in the summer of 2000. We
+were now a month away from that trip. Obviously, after everything that
+happened I was no longer planning to take Lara with me, but knowing
+her, I wasn't completely rulling out her showing at the airport
+without telling me. Her name was in the airline reservation system and
+she could board without a physical ticket, after all. Gratiela knew
+that too and had bought a ticket on the same flight when we started
+going out. But now, we were not talking anymore, at her request.
+
+So, I went to the airport by myself, bracing for all possibilities. I
+met Gratiela in the waiting area by the gate, and she was keeping her
+composure, determined to avoid me. Luckily, Lara had listened to
+reason and didn't show up, after all. She was impulsive, but not
+stupid: what was she going to do in Bucharest by herself if she wasn't
+my girlfriend anymore? So me and Gratiela boarded the plane together
+but didn't talk much. We stopped over in Amsterdam. We decided it was
+silly to keep avoiding each other, so we had breakfast together in the
+Shipoll Airport at a place whimsically called "Sandwitch Island". Once
+we arrived at the Otopeni Airport in Bucharest we parted ways, and she
+reitereated her request to not call her. Her parents were waiting for
+her and took her home to her hometown, Alexandria, a couple hours away
+from the capital. I took a cab and went home to my parents' apartment
+in Drumul Taberei.
+
+After the joy of getting reunited with my family, it hit me: I was
+alone. All my plans were up in the air. I didn't bring any girl with
+me to meet my parents, as I had promised. 
