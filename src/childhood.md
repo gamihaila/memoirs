@@ -63,7 +63,7 @@ My mother left food for me on the electric stove-top — usually soup and someth
 
 The walk to school was about ten minutes. In spring, that meant navigating the mud — there was construction nearby, new apartment buildings going up, and the ground between our building and the street was treacherous. My solution was to wrap my shoes in plastic bags before setting out, walk carefully through the worst of it, and then remove the bags and throw them in a bin at the edge of the mud, arriving at school with clean shoes. It worked perfectly, and I was unreasonably proud of it.
 
-My father was also in charge of reading a bedtime story to me most every
+My father was in charge of reading a bedtime story to me most every
 night. When I was very little he was picking from classic Romanian
 stories by Ion Creangǎ but as soon as I got a little older he switched
 to Ion Luca Caragiale's short stories, his favorite. These were turn of
