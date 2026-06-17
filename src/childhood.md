@@ -121,8 +121,14 @@ translated into Romanian. I didn't understand why she was surprised,
 it was a very popular book, but I guess she thought that only Jews
 were interested.
 
-By the time I started sixth grade I got used to the new school and my
-new classmates, and even started having new crushes too. One girl in
+
+Life at Școala Generală Nr. 205 was in most respects like life anywhere else — homework, teachers, friendships, the usual hierarchies of adolescence. But there was another layer to it, one that was simply part of growing up in Romania at that time and that I had absorbed so naturally I barely thought of it as unusual. At home, my parents spoke freely. They criticized the regime, mocked the personality cult, pointed at the actors on television singing praises to Ceaușescu and shook their heads at how the performances grew more extravagant and more detached from reality every year. That was home. The moment you stepped outside, a different set of rules applied. You liked your leader. You were grateful. You said nothing that could be repeated.
+
+At school this meant a kind of constant low-level vigilance. Kids would sometimes say things, small critical remarks, but not often, and not loudly, because anyone could be a tattletale. One classmate made this very concrete: he had heard me say something unguarded about the regime and from then on used it openly whenever we had any disagreement. He had a code phrase for it — "political mistake" — which he would deploy whenever he wanted something from me, a casual reminder that he could go to the Securitate at any time. I didn't know how serious he was, but I didn't want to find out.
+
+The most frightening episode had nothing to do with politics at all, which in a way made it worse. Someone had broken something in the school bathroom — a minor act of vandalism — and investigators were brought in. They pulled a group of us out of class at random, sat us down, and told us in no uncertain terms that withholding information was itself a crime, that we could lose our freedom, that prison was a real possibility for anyone who knew something and stayed silent. I knew nothing. I had done nothing. I was one of the good students, quiet and studious, but none of that mattered: I was sitting in that room the same as everyone else, being told that my freedom was conditional. They let us go eventually, and nothing came of it. But the message had been delivered with great precision — not about the bathroom, which nobody cared about, but about something larger: that at any moment, for any reason or no reason at all, you could be taken, and there was nothing to be done about it.
+
+And yet none of this stopped the ordinary business of being twelve. By sixth grade I had new friends, new routines, and, inevitably, new crushes. One girl in
 particular seemed willing to spend time with me. Her first name was
 Elena, but everybody was referring to each other using last names,
 as we were called by the teachers in roll calls at the beginning of
