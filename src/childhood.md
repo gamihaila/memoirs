@@ -57,7 +57,13 @@ needlessly. Later on, when learning about the concept of batch
 processing in Computer Science I remembered that was exactly what that
 old Roma man had taught me when I was four!
 
-My father was in charge of reading a bedtime story to me most every
+In third grade, our class had afternoon sessions — the school was so overcrowded they had to split the years, with the younger children going in the morning and us in the afternoon. My mother had to be at her editor’s desk at the Romanian Academy Publishing House by 7:30 every morning, so she was gone before I was properly awake. My father, whose university schedule gave him more flexibility, was the one who woke me up and made breakfast for both of us. After he left, I had the whole morning to myself — homework first, and then time to read, or simply to waste, before lunch.
+
+My mother left food for me on the electric stove-top — usually soup and something more substantial, like mashed potatoes with a chicken leg. I loved the mashed potatoes. The soup I could not stand. But I didn’t want her to know that, so I developed a system: I would pour the soup into a bowl, dirty it convincingly with a spoon, then carry it to the bathroom and tip it into the toilet. The bowl went back on the table, unwashed, looking for all the world like I had eaten. Then I would heat up the potatoes and the chicken leg, which always stuck to the pan and required some coaxing, eat happily, and get dressed in my uniform.
+
+The walk to school was about ten minutes. In spring, that meant navigating the mud — there was construction nearby, new apartment buildings going up, and the ground between our building and the street was treacherous. My solution was to wrap my shoes in plastic bags before setting out, walk carefully through the worst of it, and then remove the bags and throw them in a bin at the edge of the mud, arriving at school with clean shoes. It worked perfectly, and I was unreasonably proud of it.
+
+My father was also in charge of reading a bedtime story to me most every
 night. When I was very little he was picking from classic Romanian
 stories by Ion Creangǎ but as soon as I got a little older he switched
 to Ion Luca Caragiale's short stories, his favorite. These were turn of
