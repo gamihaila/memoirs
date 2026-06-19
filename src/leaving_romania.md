@@ -1,127 +1,52 @@
-We told our parents about our plans to emigrate to Canada. My wife's
-parents were happy, they were always telling us we should look for
-opportunities abroad. My parents, on the other hand, were
-crushed. See, they were so hoping that now with the dictator out of
-the way, things were going to improve in Romania, and they wanted us
-to contribute to building a better country. We had similar views right
-after the Revolution, but had become disillusioned pretty quickly. The
-political landscape at the time was dominated with former Communist
-Party members, now re-branded as Social Democrats. When I raised this
-during a dinner party my Mom organized with a few of their friends,
-one of them told me, bluntly:
+The hope we had felt in the immediate aftermath of the Revolution had been real and enormous. We had imagined Romania opening up, exchanging ideas with the West, students going on exchange programs and coming back with new knowledge and energy to rebuild the country. Some of us tried. Starting in April 1990, students and intellectuals occupied Piața Universității in a peaceful marathon protest that lasted 53 days, demanding that former Communist Party activists and Securitate officers be barred from public office. I was there on and off during those weeks, among the crowds gathered between the University, the National Theater and the Intercontinental Hotel. President Iliescu called the protesters “golani” — hooligans — from the government balcony. Then, in June, he called in the miners. Over 10,000 of them arrived from the Jiu Valley on special trains, armed with clubs and iron bars, and were directed to “clean up” the square. They beat students, professors, and bystanders indiscriminately. The world watched it on television. Luckily, I wasn’t there that day.
 
-“Well, if you don't like any of the political parties, why don't you
-start your own?”.
+None of what we had hoped for happened. What happened instead was that the old apparatus simply rearranged itself. The people in charge had different titles now, but they were largely the same people, and the state media they controlled made sure that any alternative was discredited before it could take root. Three elections came and went, each won by a landslide. It became clear, gradually and then all at once, that the trajectory was not going to change, not soon enough to matter for us. We had good jobs by Romanian standards — my position at the university, my wife’s teaching post at the Informatics High School — but we could see exactly where those jobs led. We would never be able to afford an apartment of our own. Starting a family felt like an act of faith we weren’t sure we could make. Leaving wasn’t what we wanted. It was what was left.
 
-“Yeah, and let's see how many people you're able to recruit!”, another
-guest said, mockingly.
+Now that the revolution was over, the country was beginning a dramatic transition to market economy. I remember in early 1990 I saw the first private shops opening up. Initially, they were only accepting hard currency, because the lei were in free fall, due to runaway inflation.
 
-I understood then that it was pretty hopeless. Most people were still
-deeply brainwashed by the intense campaigns of the state-run media that
-was adamant in discrediting any alternative political views.
+At the time we were in the senior year at the university, and many of our schoolmates were in a state of agitation about some of our professors who used to be in the department’s political leadership under the former regime. They were calling into question whether they should still be allowed to teach. In this state of turmoil it was very hard to continue the day-to-day learning, so more and more students were demanding a freeze of the academic year. It seemed to me that the most vocal were the students with the lowest grades who were hoping for a re-do of all their exams of the year. Regardless, something needed to be done, the uncertainty was weighing hard on everybody, students and teachers alike. So, the department’s leadership agreed to meet with a delegation of our cohort to discuss the proposal. I was asked to be part of the delegation together with three of the best students in the class.
 
-So we filled out our applications for Permanent Resident Status at the
-Canadian Consulate. Soon after we were scheduled for an interview.
-At the Canadian Consulate they asked me what kind of career
-I was planning to pursue in Canada. I said that I would like to go to
-graduate school and then do research in Computer Science. They
-listened politely, wrote that down on my application and told me to
-wait for their decision in the mail. And indeed, in a few weeks came
-the decision: rejected. The rejection letter came with a very thorough
-written justification: “at the present time (1993), the Canadian
-economy has no shortage of Computer Science researchers”. The letter
-also mentioned that we didn't show enough evidence of financial
-security. They stated that we were expected to bring enough money with
-us to be able to survive until we found employment. The guideline
-mentioned a minimum of $10,000.
+So, one fine day we were invited to an office to meet with the department head and some other professors to make our case. We explained that our cohort members want to cancel the current classes, wipe out the records for the first semester and start again the senior year in the Fall. Aside from contesting the political past of some of the professors, we invoked our plans to organize into a Student Union to better represent the students’ interests. The department head listened to our arguments and then said:
 
-Naturally, me and my wife were disappointed, our dreams shattered. My
-parents, on the other hand, were relieved: we were not going to leave,
-after all! 
+“I agree with your desire to organize, it makes sense. However, are you sure you understand the consequences of freezing the academic year? Aside from creating chaos for the faculty it would mean that your graduation will be delayed by one year. During this year other students from other universities will graduate and will get jobs. You will be left behind, with your parents having to support you for an extra year. Think of all your colleagues who come from lower income families all over the country, can you in good conscience force this upon them?”
 
-I wrote back saying that I could also work as a software engineer. Also,
-at my in-law's advice, I promised that we would bring the recommended
-amount with us, although we had less than $2,000 to our name at the
-time.
+He was right, of course. We hadn’t thought of that. See, we were so young that we were happily willing to waste one year, it felt like we had an unlimited number of years in front of us, so one year hardly mattered. So we went back to our fellow students and explained it to them that all the grades stood and we just have to get back to work and graduate. The Student Union did get organized, but I didn’t have any interest in participating. I was busy with classes and the undergraduate research I was involved in. Also, I was planning to enroll in the fifth year, which was some sort of Masters program.
 
-A few weeks later the response came in the mail: our Canadian permanent
-resident application was approved. I remember seeing the letter in our
-mailbox when I got back from work that evening. My wife had not
-arrived home yet. I stopped in my tracks, not knowing what to do. I
-was already getting used to the idea that we weren't leaving anymore,
-not to mention how happy my parents were that we were staying! I had a
-good teaching position at the University, my wife was a Math and CS
-teacher at the prestigious “Informatics High School”, so we were not
-exactly destitute. Alright, we made very little money, and at this
-rate we would have a hard time raising a family, but we could manage,
-somehow.
+So, after a few more months we all graduated. We were the first cohort to graduate after the Revolution, so we were no longer required to take the government assigned positions like in the previous years. A brief explanation is in order: see, during the Communist regime, all education was completely free of charge for everyone, including college, provided that one passed the competitive admissions exam. In exchange, all college graduates were required to work for the first three years in a state-assigned position, usually somewhere in an underserved village or small town. The list of jobs was made available to the whole graduating class but the assignments were given in descending order of the GPAs, so the higher achieving students were able to pick the best of the available options. The only exception to the strict order was to allow a student to claim a job close to a spouse, if both were graduating at the same time. This little exception was the subject of quite a bit of gossip among students whenever anyone got married. We were not spared, of course. I know because I happen to have this gossip on record, on our VHS wedding tape from the previous summer, in 1989.
 
-“What if I were to hide this letter?”, I initially thought. “No one
-other than me knows about this”. I was literally at a fork in the
-road. But then, after thinking it through some more I realized it
-wasn't just my own path I was picking, I didn't have the right to
-decide for both of us. I couldn't imagine living with this secret. I
-had to tell my wife and we needed to reach a decision together.
+So anyway, since the regime had fallen, the old rules no longer applied. Still, the list of available jobs was still provided and we still had the cohort-wide meeting where we were allowed to pick one, if we so wanted, still in descending order of our GPAs. However, a few weeks before this scheduled meeting, our whole class was invited for interviews at the coveted Research Institute for Informatics, close to our University building.
 
-So of course, when she came home that night I showed her the
-letter. She was overjoyed! Not a trace of doubt in her mind that we
-needed to take this offer. I wasn't so sure. After all, we were
-leaving stable careers, a paid off apartment, family and friends, and
-were jumping into the unknown. Outside of a family of friends of my
-in-laws who was going to wait for us at the airport and reserve a
-rental unit in their building for us, we had no acquaintances, and
-certainly no job prospects. Also, I had an uneasy feeling about the
-state of our marriage, some warning signs that our bond wasn't that
-strong.
+The entire class of 25 graduating students went to the interview. They kept us waiting for about an hour; the interviewers were busy watching a soccer game on TV. Finally, they called us in, one by one. When my turn came, I went in: in the conference room there were a handful of full-time researchers and software engineers, asking questions. They asked me a bunch of questions about our classes and then asked me if I did any coding for fun. I told them about my Tetris implementation and they were apparently pretty impressed, because they hired me. They also hired three of my colleagues. Everyone else was dismissed.
 
-So, despite my misgivings, we decided to go forward with our Canadian
-plans. Over the next few weeks, the Canadian Consulate mailed us our
-official Permanent Resident certificates along with a bunch of
-colorful pamphlets about life in Canada. The pamphlets were full of
-practical advice on everything from looking for a job to managing
-money. I remember one guideline on budgeting no more than a third of
-your income for housing expenses. Keep in mind that until now we never
-had to worry about paying rent: first we lived with our parents, and
-now we were living in the apartment we received from my in-laws.
+Going back to that meeting for picking from the state jobs. The time came and we were all gathered together in a large class. We were called in GPA order to express our options. The four of us who made the cut at the Research Institute declined, of course. The best jobs from that list were three teaching positions at the prestigious Informatics High School in Bucharest. My wife, having one of the highest GPAs, was able to get one of them. We were overjoyed with our unexpected success: imagine securing good positions, in the city, just as we were graduating. Contrast that with the previous graduating classes who had to take undesirable jobs far away from home and work there for three years before being able to look for another job!
 
-We still had to make good on our written promise about the money we
-were going to bring with us to Canada. So we started asking all our
-relatives to lend us whatever money they could, with the understanding
-that we would send them the money soon after we land in Canada: we
-needed to show we had the money at the point of entry, but afterwards
-it was nobody's business, we figured. Well, actually, we were going to
-find out later that wasn't really as simple as that, but I digress.
+We told our parents about our plans to emigrate to Canada. My wife’s parents were happy, they were always telling us we should look for opportunities abroad. My parents, on the other hand, were crushed. See, they were so hoping that now with the dictator out of the way, things were going to improve in Romania, and they wanted us to contribute to building a better country. We had similar views right after the Revolution, but had become disillusioned pretty quickly. The political landscape at the time was dominated with former Communist Party members, now re-branded as Social Democrats. When I raised this during a dinner party my Mom organized with a few of their friends, one of them told me, bluntly:
 
-We booked our trip to Toronto for the end of February 1993. We wanted
-to start our new life at the beginning of Spring. Little did we know
-that Spring doesn't really start in March in Canada!
+“Well, if you don’t like any of the political parties, why don’t you start your own?”.
 
-In an effort to keep the most money for when we get to Canada we
-looked for the cheapest trip option at all the travel agencies in
-Bucharest. The best offer we found was a nonstop flight from Warsaw,
-Poland, with an included night at an airport hotel in Warsaw. How were
-we going to get to Warsaw, you ask? Well, again, the cheapest option
-was an overnight train from Bucharest with a stopover in Budapest.
+“Yeah, and let’s see how many people you’re able to recruit!”, another guest said, mockingly.
 
-Finally, the big day came. Over the past few days, we had brought all our
-clothes and essential belongings to my in-laws' apartment, ready to
-pack as tightly as possible for the long trip. We woke up for the last
-time in our little apartment, had breakfast, and packed the last few
-items. It was time. We started walking to my in-laws' place, a twenty-minute
-walk. At the first street corner, we stopped. We turned back for one last
-look at the small apartment building that had been our home for the past
-two years. We hugged and cried silently. Then we continued our walk.
+I understood then that it was pretty hopeless. Most people were still deeply brainwashed by the intense campaigns of the state-run media that was adamant in discrediting any alternative political views.
 
-So it was, that one cold February evening our families accompanied us
-to the Bucharest North train station, each of us carrying two large,
-home-made duffel bags, custom sized to the maximum allowable
-dimensions accepted by LOT, the Polish Airlines. It was a
-heart-wrenching scene, with my Mom crying on the platform, bidding us
-goodbye. We had all the money from our relatives, in cash, in a small
-cloth purse I was wearing under my shirt, tied to my neck. We had also
-brought a padlock and chain that we used to lock our sleeping
-compartment from the inside. Turns out that the sleeper car was
-completely empty, aside from us, but we were terrified to be carrying
-so much cash with us. At the time it didn't cross our mind to use any
-other way to transfer money, and in any case we were thinking that a
-bank would charge us for this, and we couldn't spare any money.
+So we filled out our applications for Permanent Resident Status at the Canadian Consulate. Soon after we were scheduled for an interview. At the Canadian Consulate they asked me what kind of career I was planning to pursue in Canada. I said that I would like to go to graduate school and then do research in Computer Science. They listened politely, wrote that down on my application and told me to wait for their decision in the mail. And indeed, in a few weeks came the decision: rejected. The rejection letter came with a very thorough written justification: “at the present time (1993), the Canadian economy has no shortage of Computer Science researchers”. The letter also mentioned that we didn’t show enough evidence of financial security. They stated that we were expected to bring enough money with us to be able to survive until we found employment. The guideline mentioned a minimum of $10,000.
+
+Naturally, me and my wife were disappointed, our dreams shattered. My parents, on the other hand, were relieved: we were not going to leave, after all!
+
+I wrote back saying that I could also work as a software engineer. Also, at my in-law’s advice, I promised that we would bring the recommended amount with us, although we had less than $2,000 to our name at the time.
+
+A few weeks later the response came in the mail: our Canadian permanent resident application was approved. I remember seeing the letter in our mailbox when I got back from work that evening. My wife had not arrived home yet. I stopped in my tracks, not knowing what to do. I was already getting used to the idea that we weren’t leaving anymore, not to mention how happy my parents were that we were staying! I had a good teaching position at the University, my wife was a Math and CS teacher at the prestigious “Informatics High School”, so we were not exactly destitute. Alright, we made very little money, and at this rate we would have a hard time raising a family, but we could manage, somehow.
+“What if I were to hide this letter?”, I initially thought. “No one other than me knows about this”. I was literally at a fork in the road. But then, after thinking it through some more I realized it wasn’t just my own path I was picking, I didn’t have the right to decide for both of us. I couldn’t imagine living with this secret. I had to tell my wife and we needed to reach a decision together.
+
+So of course, when she came home that night I showed her the letter. She was overjoyed! Not a trace of doubt in her mind that we needed to take this offer. I wasn’t so sure. After all, we were leaving stable careers, a paid off apartment, family and friends, and were jumping into the unknown. Outside of a family of friends of my in-laws who was going to wait for us at the airport and reserve a rental unit in their building for us, we had no acquaintances, and certainly no job prospects. Also, I had an uneasy feeling about the state of our marriage, some warning signs that our bond wasn’t that strong.
+
+So, despite my misgivings, we decided to go forward with our Canadian plans. Over the next few weeks, the Canadian Consulate mailed us our official Permanent Resident certificates along with a bunch of colorful pamphlets about life in Canada. The pamphlets were full of practical advice on everything from looking for a job to managing money. I remember one guideline on budgeting no more than a third of your income for housing expenses. Keep in mind that until now we never had to worry about paying rent: first we lived with our parents, and now we were living in the apartment we received from my in-laws.
+
+We still had to make good on our written promise about the money we were going to bring with us to Canada. So we started asking all our relatives to lend us whatever money they could, with the understanding that we would send them the money soon after we land in Canada: we needed to show we had the money at the point of entry, but afterwards it was nobody’s business, we figured. Well, actually, we were going to find out later that wasn’t really as simple as that, but I digress.
+
+We booked our trip to Toronto for the end of February 1993. We wanted to start our new life at the beginning of Spring. Little did we know that Spring doesn’t really start in March in Canada!
+
+In an effort to keep the most money for when we get to Canada we looked for the cheapest trip option at all the travel agencies in Bucharest. The best offer we found was a nonstop flight from Warsaw, Poland, with an included night at an airport hotel in Warsaw. How were we going to get to Warsaw, you ask? Well, again, the cheapest option was an overnight train from Bucharest with a stopover in Budapest.
+
+Finally, the big day came. Over the past few days, we had brought all our clothes and essential belongings to my in-laws’ apartment, ready to pack as tightly as possible for the long trip. We woke up for the last time in our little apartment, had breakfast, and packed the last few items. It was time. We started walking to my in-laws’ place, a twenty-minute walk. At the first street corner, we stopped. We turned back for one last look at the small apartment building that had been our home for the past two years. We hugged and cried silently. Then we continued our walk.
+
+So it was, that one cold February evening our families accompanied us to the Bucharest North train station, each of us carrying two large, home-made duffel bags, custom sized to the maximum allowable dimensions accepted by LOT, the Polish Airlines. It was a heart-wrenching scene, with my Mom crying on the platform, bidding us goodbye. We had all the money from our relatives, in cash, in a small cloth purse I was wearing under my shirt, tied to my neck. We had also brought a padlock and chain that we used to lock our sleeping compartment from the inside. Turns out that the sleeper car was completely empty, aside from us, but we were terrified to be carrying so much cash with us. At the time it didn’t cross our mind to use any other way to transfer money, and in any case we were thinking that a bank would charge us for this, and we couldn’t spare any money.
