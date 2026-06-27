@@ -23,4 +23,38 @@ I worked as a “software engineer” for the first few months, doing exactly th
 
 Once the visa finally came through, Grațiela and I got married at City Hall. I drove down to White Plains alone to start the job. She followed by train a few weeks later, and nearly didn’t make it across the border: when the customs officer asked the purpose of her visit and she said she was going to see her husband, the officer told her flatly that visiting a husband was not what a tourist visa was for, that she needed a proper dependent visa instead. Somehow, she took pity on her, and let her through on the promise that she would return to Toronto after the holidays and apply for the right paperwork.
 
-I was waiting for her at Pennsylvania Station, in the middle of the crowd, and we missed each other completely. I ended up having her name called out over the public address system before we finally found one another. I brought her home to our new apartment, a two-bedroom on Lake Street in White Plains, the first place that was fully, unambiguously ours.
+I was waiting for her at Pennsylvania Station, in the middle of the crowd, and we missed each other completely. I ended up having her name called out over the public address system before we finally found one another. I brought her home to our new apartment, a two-bedroom on Lake Street in White Plains. 
+
+I have to say, after living in Toronto for seven years, I found White Plains quite dull. There really wasn't much to do, especially in the cold winter, other than hanging out in the Westchester Mall, the only place we could walk around and not freeze. Seeing the prices in the stores there got me thinking my large looking IBM salary wasn't really all that much. Since we were just hastily married in City Hall before leaving Toronto, we started planning a wedding ceremony in church, and we were in the market for a wedding dress. We started looking at bridal catalogs and everything was in the thousands of dollars. The only affordable items were something called "HP", which were only a few hundreds. "Let's get one of these", Gratiela was saying, happy that she found something we could afford. When we looked more carefully we figured out what "HP" meant: "Head Piece". So not a dress. Oh, well, in the end we did find a very nice cream-white dress at Macy's, not technically a wedding gown, but it did the job. 
+
+After the New Year's day, 2001, Gratiela was due back to Toronto, for her doctoral research and also to get a proper dependent visa. She only stayed a couple weeks there and came back, after arranging with her thesis advisor that she will continue working remotely and meet once per quarter. So a few months passed uneventfully until one day Gratiela started feeling sick and we went to see a doctor at the local clinic. After he consulted her, he came looking for me in the waiting room: 
+
+"Mr. Mihaila?", he called.
+
+"Yes", I said, getting up, not knowing what to expect.
+
+"Well, sir, I consulted your wife, and everything is fine, no need to worry."
+
+"Oh, so what was it?", I asked, relieved.
+
+"She's expecting! You're going to have a baby, she's due around November 1st."
+
+"Wow! Thank you!", I blurted, taken by surprise.
+
+"Congratulations to both of you!", said the doctor, and left.
+
+Gratiela came out right after, in a daze. It took us a bit of time to process the news: we were extremely happy, of course, even though we didn't "plan for it". What that meant, though, was that for our church wedding service had to scheduled sooner than we were initially thinking, and her cream-white dress from Macy was going to be a little tight. No matter, though.
+
+We had a lovely wedding service, with Laura and her husband Serghi as god-parents. Yes, the same Laura that introduced us, back in Toronto. They flew to New York for a few days, and we had a very small party with a couple of other Romanian friends from New York City. Our parents could not attend, sadly, there was no time for them to get tourist visas. 
+
+We started going to the regular checkups and eventually to a sonogram where the radiologist showed us our baby's feet on the computer screen, singing "These feet are made for walking, and that's just what they'll do, one of these days these feet are gonna walk right over you!". Talk about foreshadowing!
+
+Everything was going smoothly, my new job at IBM Research was interesting, feeling very much like the work I was doing in graduate school, not necessarily content-wise, more like effort-wise: it was all quite laid back, with no deadlines to speak of, other than conference submission deadlines. In the weekends we would escape the White Plains boredom by taking trips to the city, walking in Central Park, and all the touristy places. One such Sunday in early September we went to visit the World Trade Center and took the South Tower elevator to the top floor and strolled on the terrace, taking in the view. The next Tuesaday morning we woke up as usual, had breakfast, and I got in my car to go to my office in Hawthorne. I was about half way there, when I turned on the radio; instead of the usual classical music, though, all I could hear was a live report from the city, a terrible accident had just happened, the reporters were saying, a commercial plane had hit the North Tower. I continued driving to work. Sixteen minutes later, though, the South Tower was hit by a second plane. At this point, it became clear this wasn't an accident. I parked my car and went straight to my manager's office. He was oblivious to all of that. I told him what was happening, and without hesitation he told me to go home to confort my expecting wife, she was less than two months away from her due date at that point. So I did. When I got home, Gratiela was watching the news on TV, unable to believe her eyes. For the next few hours we called our parents to tell them we're OK, and then called all our friends from the city to make sure they are safe, offering to host them in our apartment if needed. Thankfully, they were all living far enough from Ground Zero, as the former site of the World Trade Center became known. 
+
+Just a few weeks before we had contacted a real estate agent to help us find a home in Westchester County. When she called us afterwards we told her we're cancelling our search for now, we really didn't know what was going to happen to America. Nothing was the same after that, newspapers were full of hate for all muslims, huge Wanted pictures of Osama bin Laden on their front pages, airport security became draconic, immigration cases were subjected to heightened scrutiny. Lukily, my H1B visa was already issued, but the green card process ended up taking close to five years. 
+
+Slowly things got back to some resemblance of normal, and on November 4th we went to the White Plains Hospital and our daughter was born. The first card on her crib said "Baby Girl Mihaila", and only later they asked her what we were going to call her. "Maria", we said, "no middle name". As Gratiela had developed a slight fever during the lenghty delivery, the doctor took Maria to the ICU as a precaution and stuck a bunch of needles and sensors into her tiny body. They discharged Gratiela, though, so we went home baby-less. Gratiela's mother had already arrived from Romania, to help with the baby. She was terribly disappointed when she saw us, and so were we, although we were mostly exhausted from the sleepless night spent at the hospital. After a couple of days though we were finally allowed to take Maria home! We were overjoyed, but also terrified, there she was, a tiny human, entirely dependent on us. And she made her presence known, at all hours of the day, and especially at night. Just like the radiologist had warned us!
+
+
+
+
