@@ -3,7 +3,7 @@ TA-ing at the university, I walked by the bulletin board on my
 way. One brightly colored poster caught my attention: "Algebra and
 Computation Summer School, June 15-19 1992, Marktoberdorf,
 Germany. Sponsored by NATO. To apply, use one of the application forms
-below. If there are no applications form left, send a self addressed envelope at this address". 
+below. If there is no application form left, send a self addressed envelope at this address". 
 You guessed it, all application forms were gone. So I wrote
 a letter to ask for one and mailed it (no e-mail yet, at the time). A
 week later I received an envelope in the mail with an application
