@@ -43,7 +43,7 @@ After the New Year's day, 2001, Gratiela was due back to Toronto, for her doctor
 
 "Congratulations to both of you!", said the doctor, and left.
 
-Gratiela came out right after, in a daze. It took us a bit of time to process the news: we were extremely happy, of course, even though we didn't "plan for it". What that meant, though, was that for our church wedding service had to scheduled sooner than we were initially thinking, and her cream-white dress from Macy was going to be a little tight. No matter, though.
+Gratiela came out right after, in a daze. It took us a bit of time to process the news: we were extremely happy, of course, even though we didn't "plan for it". What that meant, though, was that for our church wedding service had to scheduled sooner than we were initially thinking, and her cream-white dress from Macy's was going to be a little tight. No matter, though.
 
 We had a lovely wedding service, with Laura and her husband Serghi as god-parents. Yes, the same Laura that introduced us, back in Toronto. They flew to New York for a few days, and we had a very small party with a couple of other Romanian friends from New York City. Our parents could not attend, sadly, there was no time for them to get tourist visas. 
 
