@@ -16,7 +16,7 @@ her proved to be very impactful to my life, but in a very unexpected
 way. Let me explain how. A month later, on Canadian Thanksgiving,
 another girl I met during the same orientation party invited me to go
 with her and some other friends to a Thanksgiving dinner at a Catholic
-church. I wasn’t a churchgoer at the time so I was reluctant to go but
+church. I wasn't a churchgoer at the time so I was reluctant to go but
 she insisted and the meal was just $5 so I decided to go.
 
 At that meal I saw someone at the other end of the large dinner hall
@@ -26,8 +26,8 @@ towards her. As I got closer I realized it was not Jenny, but she
 continued to smile looking at me. When I got there I introduced myself
 and apologized for my mistake.
 
-“No worries! I’m Lara, by the way,” she said, and continued chatting
-with me. “Nice meeting you, I’ll see you around,” I said after a few
+"No worries! I'm Lara, by the way," she said, and continued chatting
+with me. "Nice meeting you, I'll see you around," I said after a few
 minutes of chitchat.
 
 She mentioned casually she went to the campus gym on Tuesdays and
@@ -37,15 +37,14 @@ on a treadmill. To my surprise she came over to me after her workout
 and gave me her phone number.
 
 I called her the next day and invited her to see a play that I had
-already seen before[^ The Clouds, by Aristophanes]. It was a musical
-comedy adaptation by a local troupe. I offered to come pick her up
+already seen before[^1]. It was a musical comedy adaptation by a local troupe. I offered to come pick her up
 from her home and she started giving me driving directions.
 
-“I don’t have a car,” I said, embarrassed. “Oh, no worries, I live
-right near a subway stop, and it’s anyway easier to go by transit.”
+"I don't have a car," I said, embarrassed. "Oh, no worries, I live
+right near a subway stop, and it's anyway easier to go by transit."
 
 I was relieved. So I went to her house, and we went to see the play
-together. During the play I took her hand. She didn’t pull back. I
+together. During the play I took her hand. She didn't pull back. I
 was on cloud nine! I walked her home afterwards and as I was saying my
 goodbyes, she invited me in. She cooked a pasta dish for us, and we
 ate it sitting on the floor. All the time she kept talking and asking
@@ -105,11 +104,11 @@ nightgowns and for the boyfriend (!). She was like that, never letting
 a funny situation go unexploited.
 
 
-We were together for three years. It wasn’t a smooth ride though; she
+We were together for three years. It wasn't a smooth ride though; she
 moved out and rented her own apartment a few weeks into our
 relationship, because she needed a place to retreat to whenever she
 wanted. We would be together for the whole evening and suddenly she
-felt what she would describe as an “attack” and she had to leave. She
+felt what she would describe as an "attack" and she had to leave. She
 was back the next day, happy and smiling as if nothing had happened.
 
 At some point during the Fall of 1997 I got an email from Dana, who
@@ -142,8 +141,7 @@ come and see me whenever you want".
 
 Needless to say, the back-and-forth emotional roller coaster was
 exhausting. I had no choice, however; I was smitten with her. Many
-years later, when I watched a movie[^ The Eternal Sunshine of the
-Spotless Mind, 2004] I identified with the main character.
+years later, when I watched a movie[^2] I identified with the main character.
 
 The next year continued in similar way, with Lara coming and going,
 but I was getting used to the idea of not getting too attached to
@@ -212,9 +210,5 @@ department and I happily obliged. Even though he had a humanities
 background he actually got really good at coding, and ended up landing
 an entry level job in IT not too long after.
 
-
-
-
-
-
-
+[^1]: The Clouds, by Aristophanes
+[^2]: The Eternal Sunshine of the Spotless Mind, 2004
