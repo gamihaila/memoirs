@@ -1,8 +1,28 @@
+
+
 Now that the revolution was over, the country was beginning a dramatic
-transition to market economy. I remember in early 1990 I saw the first
-private shops opening up. Initially, they were only accepting hard
-currency, because the lei were in free fall, due to runaway
-inflation.
+transition to market economy. In the days that followed, the city
+slowly came back to life, but it was a different city now, operating
+by different rules that nobody had quite figured out yet. The first
+private shops appeared almost overnight, and they would only accept
+hard currency — dollars, deutschmarks, anything but lei. The reason
+was simple: from one day to the next, the leu was losing value so fast
+that no shopkeeper could keep up with changing the prices. Salaries
+were still being paid in lei, of course, and the state kept raising
+them to keep pace with inflation, which only made the inflation
+worse. The numbers grew surreal. A bottle of Coca-Cola cost 1,000
+lei. A loaf of bread, 2,000. Not long before, a decent monthly salary
+had been 2,000 lei. Currency exchange offices sprouted on every street
+corner, and if you were lucky enough to have hard currency, or knew
+someone who did, you could get by. Most people were not that lucky.
+
+At the university, where I was working as a TA alongside my final year
+of studies, payday brought its own particular absurdity. The
+hyperinflation had outpaced the supply of banknotes, and one month the
+cashier paid us in bills that had sand on them — they had been pulled
+from a batch already set aside for recycling, destined to be pulped or
+burned. That was our salary: stacks of nearly worthless notes that
+smelled of the furnace they had narrowly escaped.
 
 At the time we were in the senior year at the university, and many of
 our schoolmates were in a state of agitation about some of our
