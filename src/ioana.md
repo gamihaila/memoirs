@@ -141,7 +141,7 @@ childhood friend, Marian, who had been my music supplier for years
 (where was he sourcing the newest releases of Western music I would
 ever know). There were speeches, dances, wining and dining, and of
 course gossiping. Dana was there at the students’ table together with
-other of our closest friends from our class.  I would later catch on
+all our closest friends from our class.  I would later catch on
 to some of their conversations on the videotape: another girl was
 telling Dana that Ioana will have priority on the governmental job
 assignments to pick a position in the same town as me, now that we
