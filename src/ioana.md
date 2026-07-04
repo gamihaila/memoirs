@@ -128,17 +128,89 @@ this out.
 By junior year, we got engaged and married in the summer of 1989,
 before senior year.
 
-The wedding ceremony consisted of two parts: the civil marriage at 
-City Hall and the Orthodox marriage service in Church. For reasons I 
-don't quite recall now, we were not able to schedule both in the same 
-day. So it was that we were officially married but I was not allowed 
-to sleep over before we were married in Church, which luckily happened 
-the next day. The entire civil wedding ceremony, the religious wedding, and the reception were being professionally videotaped. The wedding reception was a lavish affair, with over 200 guests, friends and relatives from both families. We had music provided by my best childhood friend, Marian, who had been my music supplier for years (where was he sourcing the newest releases of Western music I would ever know). There were speeches, dances, wining and dining, and of course gossiping. Dana was there at the students’ table together with other of our closest friends from our class.  I would later catch on to some of their conversations on the videotape: another girl was telling Dana that Ioana will have priority on the governmental job assignments to pick a position in the same town as me, now that we were married. Since I was higher on that list, that would allow Ioana to jump the list. Later, when the dance began, I had of course a lovely first dance with my bride, then my father danced with her, with everybody dancing around us. At some point in the party, between two songs, as I was standing on the dance floor, Dana and her best friend (also called Dana, by the way), were plotting together something. Moments later, they both came to me and wrapped their arms around my neck, as a joke, of course, while the videographer was getting it all on tape. This other Dana, by the way, later recounted at the students’ table how she had once sat next to me in our freshman year and was half-jokingly trying to persuade me to dump Ioana and marry her instead, assuring me that her family would be best positioned to provide me with the best conditions to concentrate on academic research, sparing us from the day to day chores. At the wedding she was insisting that this had been a joke, borne of intense boredom at that uninspiring class on the comprehensive classification of all possible flowcharts with two decisions. Everybody was laughing, including Ioana, who had nothing to fear anymore from any of them. 
+The wedding ceremony consisted of two parts: the civil marriage at
+City Hall and the Orthodox marriage service in Church. For reasons I
+don't quite recall now, we were not able to schedule both in the same
+day. So it was that we were officially married but I was not allowed
+to sleep over before we were married in Church, which luckily happened
+the next day. The entire civil wedding ceremony, the religious
+wedding, and the reception were being professionally videotaped. The
+wedding reception was a lavish affair, with over 200 guests, friends
+and relatives from both families. We had music provided by my best
+childhood friend, Marian, who had been my music supplier for years
+(where was he sourcing the newest releases of Western music I would
+ever know). There were speeches, dances, wining and dining, and of
+course gossiping. Dana was there at the students’ table together with
+other of our closest friends from our class.  I would later catch on
+to some of their conversations on the videotape: another girl was
+telling Dana that Ioana will have priority on the governmental job
+assignments to pick a position in the same town as me, now that we
+were married. Since I was higher on that list, that would allow Ioana
+to jump the list. Later, when the dance began, I had of course a
+lovely first dance with my bride, then my father danced with her, with
+everybody dancing around us. At some point in the party, between two
+songs, as I was standing on the dance floor, Dana and her best friend
+(also called Dana, by the way), were plotting together
+something. Moments later, they both came to me and wrapped their arms
+around my neck, as a joke, of course, while the videographer was
+getting it all on tape. This other Dana, by the way, later recounted
+at the students’ table how she had once sat next to me in our freshman
+year and was half-jokingly trying to persuade me to dump Ioana and
+marry her instead, assuring me that her family would be best
+positioned to provide me with the best conditions to concentrate on
+academic research, sparing us from the day to day chores. At the
+wedding she was insisting that this had been a joke, borne of intense
+boredom at that uninspiring class on the comprehensive classification
+of all possible flowcharts with two decisions. Everybody was laughing,
+including Ioana, who had nothing to fear anymore from any of them.
 
-Eventually, the reception was over, everybody left, and we went to her parents’ place to get ready for our honeymoon trip to Mamaia on the Black Sea Coast. We had an early train, and we were not done packing, so we didn’t sleep at all. At one point, Ioana was so overwhelmed that she suggested I go by myself to secure our hotel room and that she would follow with an afternoon train! Of course I couldn’t agree to that, how could she think to send me to our honeymoon alone, I remember thinking, and I had a first twinge of anxiety about our just a few hours old marriage. In the end I helped her pack and we made our train in the morning. I remember she had brought two heavy suitcases for herself, that I had to lug from the train station to our hotel.
+Eventually, the reception was over, everybody left, and we went to her
+parents’ place to get ready for our honeymoon trip to Mamaia on the
+Black Sea Coast. We had an early train, and we were not done packing,
+so we didn’t sleep at all. At one point, Ioana was so overwhelmed that
+she suggested I go by myself to secure our hotel room and that she
+would follow with an afternoon train! Of course I couldn’t agree to
+that, how could she think to send me to our honeymoon alone, I
+remember thinking, and I had a first twinge of anxiety about our just
+a few hours old marriage. In the end I helped her pack and we made our
+train in the morning. I remember she had brought two heavy suitcases
+for herself, that I had to lug from the train station to our hotel. We
+finally arrived to our hotel, checked in, and crashed: I think we
+slept most of the day, waking up late afternoon for dinner. After
+spending a few days at the beach we received an invitation from my
+research mentor, prof. Cazanescu who was also vacationing with his
+family in a nearby hotel. We had already published a paper together,
+and we were working on a second one at the time. So, we went to visit
+him in his very large hotel suite where he was staying with his wife
+and children. After his wife brought us coffees, he took Ioana on the
+side and proceeded to give her a lecture about how she should support
+me in my reasearch work, just how his own wife had been supporting
+him, exempting him of all domestic chores so he could dedicate his
+life to science. He was essentially asking her to make all the
+necessary sacrificies to ensure I have all the conditions to reach my
+full potential.
 
-We didn’t yet have a place of our own, so we commuted back and forth
-between my parents’ apartment and her parents’ apartment for the first
-few months until our small apartment (bought by her parents) was
-ready. Small as it was, it was our own and we were grateful to have
-it.
+Ioana didn't take this very well, I'm afraid. You see, she was
+ambitious herself, and didn't see any reason to place herself on a
+supporting role, after all we were both in the same Computer Science
+program and she was among the top students too. After that fateful
+visit, I think she started resenting me and my so-called research
+potential. Aside from our professor, she was suspecting that my own
+family had put these ideas into my head, given that my father had a
+brilliant research career and my mother had essentially given up on
+hers when she withdrew from the doctoral program and settled into the
+less glamorous role of editor so that she could have more time for the
+family. She was not wrong about that. Personally, I had serious doubts
+that I had what it takes to pursue an academic career, much less to
+a level anywhere near what my father had accomplished. The
+expectations from my family were enormous, but my imposter syndrome
+was just as powerful. So I tried to reassure Ioana that I have no such
+expectations of her, despite what anyone else may try to persuade her.
+
+After a few more days, the honeymoon trip came to an end, and we went
+to Constanta to catch our train back. I lugged the suitcases into our
+compartment, and, as we still had a few more minutes until the train's
+departure, Ioand stepped out to get something to drink from the
+station. I was getting anxious as the minutes passed and Ioana was
+nowhere to be found. Eventually, the train started, and Ioana was
+still not back. 
