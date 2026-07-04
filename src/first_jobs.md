@@ -47,7 +47,3 @@ thing I remember about that was the trouble caused by rounding for
 accounting applications, where the monetary amounts had to match
 precisely, down to cents.
 
-
-
-While working there we applied for Permanent Resident status at the
-Canadian Consulate.
