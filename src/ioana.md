@@ -71,7 +71,7 @@ Ioana. Time to move on and explore, I was telling myself, don't settle
 for the very first girl that gave you the slightest attention. College
 just started and our cohort was full of pretty girls. However, that
 turned out to be easier said than done, with Ioana by my side at all
-times. Everybody was was already considering us an official couple: we
+times. Everybody was already considering us an official couple: we
 were always sitting next to each other in all the classes and we were
 always going home together on the same bus.
 
