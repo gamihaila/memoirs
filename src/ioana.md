@@ -213,4 +213,5 @@ compartment, and, as we still had a few more minutes until the train's
 departure, Ioand stepped out to get something to drink from the
 station. I was getting anxious as the minutes passed and Ioana was
 nowhere to be found. Eventually, the train started, and Ioana was
-still not back. 
+still not back. She did arrive a few minutes later, while I was in
+full panick mode thinking she already left me. 
