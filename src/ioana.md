@@ -135,6 +135,7 @@ day. So it was that we were officially married but I was not allowed
 to sleep over before we were married in Church, which luckily happened
 the next day. The entire civil wedding ceremony, the religious
 wedding, and the reception were being professionally videotaped. The
+<<<<<<< HEAD
 wedding reception was a lavish affair, with over 200 guests, friends
 and relatives from both families. We had music provided by my best
 childhood friend, Marian, who had been my music supplier for years
@@ -159,6 +160,32 @@ year and was half-jokingly trying to persuade me to dump Ioana and
 marry her instead, assuring me that her family would be best
 positioned to provide me with the best conditions to concentrate on
 academic research, sparing us from the day to day chores. At the
+=======
+wedding reception was a lavish affair, with over 200 guests (paid for
+by my parents), friends and relatives from both families. We had music
+provided by my best childhood friend, Marian, who had been my music
+supplier for years (where was he sourcing the newest releases of
+Western music I would ever know). There were speeches, dances, wining
+and dining, and of course gossiping. Dana was there at the students’
+table together with other of our closest friends from our class.  I
+would later catch on to some of their conversations on the videotape:
+another girl was telling Dana that Ioana will have priority on the
+governmental job assignments to pick a position in the same town as
+me, now that we were married. Since I was higher on that list, that
+would allow Ioana to jump the list. Later, when the dance began, I had
+of course a lovely first dance with my bride, then my father danced
+with her, with everybody dancing around us. At some point in the
+party, between two songs, as I was standing on the dance floor, Dana
+and her best friend (also called Dana, by the way), were plotting
+together something. Moments later, they both came to me and wrapped
+their arms around my neck, as a joke, of course, while the
+videographer was getting it all on tape. This other Dana, by the way,
+later recounted at the students’ table how she had once sat next to me
+in our freshman year and was half-jokingly trying to persuade me to
+dump Ioana and marry her instead, assuring me that her family would be
+best positioned to provide me with the best conditions to concentrate
+on academic research, sparing us from the day to day chores. At the
+>>>>>>> 855a168 (i)
 wedding she was insisting that this had been a joke, borne of intense
 boredom at that uninspiring class on the comprehensive classification
 of all possible flowcharts with two decisions. Everybody was laughing,
@@ -200,12 +227,18 @@ family had put these ideas into my head, given that my father had a
 brilliant research career and my mother had essentially given up on
 hers when she withdrew from the doctoral program and settled into the
 less glamorous role of editor so that she could have more time for the
-family. She was not wrong about that. Personally, I had serious doubts
-that I had what it takes to pursue an academic career, much less to
-a level anywhere near what my father had accomplished. The
-expectations from my family were enormous, but my imposter syndrome
-was just as powerful. So I tried to reassure Ioana that I have no such
-expectations of her, despite what anyone else may try to persuade her.
+family. She was not wrong about that. Growing up, this was all I would
+hear from my mother. 
+
+Personally, I had serious doubts that I had what it takes to pursue an
+academic career, much less to a level anywhere near what my father had
+accomplished. The expectations from my family were enormous, but my
+imposter syndrome was just as powerful. So I tried to reassure Ioana
+that I have no such expectations of her, despite what anyone else may
+try to persuade her. She was not convinced. We had a long discussion
+in which she made it very clear that she had no intention to assume
+the role of supporting character in my supposedly shining future
+academic career. 
 
 After a few more days, the honeymoon trip came to an end, and we went
 to Constanta to catch our train back. I lugged the suitcases into our
@@ -214,4 +247,51 @@ departure, Ioand stepped out to get something to drink from the
 station. I was getting anxious as the minutes passed and Ioana was
 nowhere to be found. Eventually, the train started, and Ioana was
 still not back. She did arrive a few minutes later, while I was in
-full panic mode thinking she already left me. 
+full panic mode thinking she had already left me. I am not completely
+sure she didn't intentionally board a different car and spent a few
+minutes there to punish me. Whether or not that was the case, the
+marriage was not starting on the best foot.
+
+A few weeks later, still in the summer of 1989, her parents had
+planned a road trip to Istanbul, with no hotel reservations, intending
+to sleep in the car to save money. I wasn't eager to join them in
+these conditions, but I reluctantly applied for a passport, hoping it
+will not be ready on time. Thanks to the slow-moving bureaucracy, I
+only got the passport after they already had left without me. That was
+the second bad omen: why would Ioana chose to go on a trip without me,
+just a few short weeks after we got married? Left home, all alone, my
+father took pity on me and booked a hotel for the two of us in Venus,
+a modern Black Sea resort (my mom declined to join us because her
+health prevented her from going to the beach).
+
+We got back to Bucharest at the same time with Ioana's family. My
+parents invited all of them for lunch, eager to hear their travel
+impressions. Ioana's father proceeded to recount in great detail their
+visit to Istanbul Great Bazaar and market, where, I kid you not, a
+Turkish merchant offered 10 sheep to him in exchange for Ioana! Too
+bad she was already married. I didn't find the story that amusing, but
+pretended to laugh will them.
+
+After all the summer trips were over, we took turns living with our
+parents, one week staying in my old bedroom, the next in her old
+bedroom, waiting for the renovations to be done for a small one
+bedroom apartment Ioana's parent had bought years before and had been
+renting out to a young Roma family with two small children until we
+got married. Fall came and the renovations were still not done, so we
+continued our nomadic life well into the first semester of our senior
+year at the University. My father was continuing his habit of waking
+me up, now waking both of us and getting us ready to go to
+school. Ioana would sometimes sleep in and skip the first class,
+despite my father's disapproving admonitions (he was still a professor
+in that very same university and hated it when his own students were
+absent). Not a great way to start a marriage, I'll tell you that
+much. Looking back, we should have postponed that wedding at least
+until the apartment was ready, but we were impatient be officially
+married and not have to sneak behind her parents' back, with the
+neighbors watching us from behind their curtains.
+
+After a few long months, the apartment was finally ready and we moved
+there. It was tiny, but it was ours, away from either parents'
+interference. We started feeling better together, and slowly grew into
+a peaceful union. We had absolutely no idea that the Communist regime
+was about to fall in a few weeks time.
