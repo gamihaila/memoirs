@@ -135,39 +135,13 @@ day. So it was that we were officially married but I was not allowed
 to sleep over before we were married in Church, which luckily happened
 the next day. The entire civil wedding ceremony, the religious
 wedding, and the reception were being professionally videotaped. The
-<<<<<<< HEAD
-wedding reception was a lavish affair, with over 200 guests, friends
-and relatives from both families. We had music provided by my best
-childhood friend, Marian, who had been my music supplier for years
-(where was he sourcing the newest releases of Western music I would
-ever know). There were speeches, dances, wining and dining, and of
-course gossiping. Dana was there at the students’ table together with
-all our closest friends from our class.  I would later catch on
-to some of their conversations on the videotape: another girl was
-telling Dana that Ioana will have priority on the governmental job
-assignments to pick a position in the same town as me, now that we
-were married. Since I was higher on that list, that would allow Ioana
-to jump the list. Later, when the dance began, I had of course a
-lovely first dance with my bride, then my father danced with her, with
-everybody dancing around us. At some point in the party, between two
-songs, as I was standing on the dance floor, Dana and her best friend
-(also called Dana, by the way), were plotting together
-something. Moments later, they both came to me and wrapped their arms
-around my neck, as a joke, of course, while the videographer was
-getting it all on tape. This other Dana, by the way, later recounted
-at the students’ table how she had once sat next to me in our freshman
-year and was half-jokingly trying to persuade me to dump Ioana and
-marry her instead, assuring me that her family would be best
-positioned to provide me with the best conditions to concentrate on
-academic research, sparing us from the day to day chores. At the
-=======
 wedding reception was a lavish affair, with over 200 guests (paid for
 by my parents), friends and relatives from both families. We had music
 provided by my best childhood friend, Marian, who had been my music
 supplier for years (where was he sourcing the newest releases of
 Western music I would ever know). There were speeches, dances, wining
 and dining, and of course gossiping. Dana was there at the students’
-table together with other of our closest friends from our class.  I
+table together with all our closest friends from our class.  I
 would later catch on to some of their conversations on the videotape:
 another girl was telling Dana that Ioana will have priority on the
 governmental job assignments to pick a position in the same town as
@@ -185,7 +159,6 @@ in our freshman year and was half-jokingly trying to persuade me to
 dump Ioana and marry her instead, assuring me that her family would be
 best positioned to provide me with the best conditions to concentrate
 on academic research, sparing us from the day to day chores. At the
->>>>>>> 855a168 (i)
 wedding she was insisting that this had been a joke, borne of intense
 boredom at that uninspiring class on the comprehensive classification
 of all possible flowcharts with two decisions. Everybody was laughing,
