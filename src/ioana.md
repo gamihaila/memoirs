@@ -100,29 +100,83 @@ Bucharest for a few days to spend time with her boyfriend. However,
 the students who were officially on the campers list would be the ones
 who needed to go in the first day and check in, obviously. So, Dana
 and I took the train together in the morning and checked in our
-respective cabins, while Ioana took a later train. We had a few
-hours to kill until her arrival, so we went to the city park and sat
-on a bench, with Dana resting her head on my lap. You see, she was
-fully aware I liked her, so she started taunting me: "Say, George,
-what if we don't wait for Ioana at the train station, she won't know
-where to find the camp cabins, and she's not officially a camper, so
-she couldn't go ask anyone". I was suffering. It took a lot of
-restraint not to lift her head up and kiss her. I knew she wasn't
-serious, of course, but she was so beautiful, and seemed so playful
-and approachable, more than she ever was with me, that for a split
-second I really wanted to believe she liked me. But I couldn't do
+respective cabins, while Ioana took a later train. We had a few hours
+to kill until her arrival, so we went to the city park and sat on a
+bench, with Dana resting her head on my lap. You see, she was fully
+aware I liked her, so she started taunting me: "Say, George, what if
+we don't wait for Ioana at the train station, she won't know where to
+find the camp cabins, and she's not officially a camper, so she
+couldn't go ask anyone". I was suffering. It took a lot of restraint
+not to lift her head up and kiss her. I knew she wasn't serious, of
+course, but she was so beautiful, and seemed so playful and
+approachable, more than she ever was with me, that for a split second
+I really wanted to believe she liked me. But I couldn't do
 it. Eventually, the magic was gone, we got up, and got Ioana from the
-train. I don't remember much from that camp, just the regret of not
-pursuing the one I truly wanted, even if I didn't think I have any
-chances. Even on the train ride back, when I stepped out of the
-compartment for a bit, Dana came after me and said: "Hey, what if we
-got off at the next station and left Ioana in the train, what do you
-say?". Aarrghhh!
+train.
 
-In the summer vacations we went camping at the beach in a larger
-group, for plausible deniability reasons, and her parents pretended
-not to figure this out. By junior year, we got engaged and married in
-the summer of 1989, before senior year.
+The camp schedule was pretty relaxed, other than the fixed
+times for meals we were free to do whatever we wanted. As we were the
+only ones from our school and we didn't know anyone else we naturally
+hang out together, the three of us. We ate together at the camp's
+cafeteria a few times, but the food was pretty uninspiring.
+
+"Come with me", Dana said one day, after a hike, "let me take you guys
+to a place where we can eat some actual food".
+
+The thing is, at that time all restaurants had pretty basic menus, and
+in any case they were above our budget. So me and Ioana followed Dana
+somewhat reluctantly, not quite knowing what to expect. To our
+surprise, she led us to a very elegant, recently renovated building,
+that looked like an inn, but was completely unmarked and it didn't
+look like it was open to the public. She knocked on the door, someone
+opened, she told them who she was, and we were all invited inside, in
+a cozy wood-paneled hall with nice tables. Seeing our bewildered
+faces, Dana explained to us discreetly that this was a secret
+restaurant that was only serving the Communist Party leadership and
+their families. The menu was first-class, and the prices were much
+lower than anything we ever saw in a public restaurant for low quality
+meals! We ate a copious dinner together and we paid very little. We
+were grateful to Dana for including us, of course, but I couldn't stop
+thinking to myself: "so this is how the Party leadership is living, no
+wonder they are so loyal to the regime".
+
+After that memorable meal, we went for a stroll in the city park and
+eventually sat down on a bench, all three of us, with me in the
+middle. We must have looked peculiar, because at one point, an
+American tourist with a wide cowboy hat and a heavy Texan accent,
+after walking past us, turned around and asked me: "Do you love them
+both?". Taken by surprise I mumbled something about all of us being
+friends, but deep inside I wasn't so sure.
+
+Eventually, the camp came to an end. On the train ride back, when I
+stepped out of the compartment for a bit, Dana came after me and said:
+"Hey, what if we got off at the next station and left Ioana in the
+train, what do you say?". Aarrghhh!
+
+Afer that summer camp, me and Ioana went camping at the beach in a
+larger group, for plausible deniability reasons, and her parents
+pretended not to figure this out. I remember we got to the camping
+site late in the evening, after the office was closed, so we couldn't
+register properly until the office opened again in the morning. Since
+it was late and we couldn't go anywhere we found an empty spot and we
+pitched our tents: me and Ioana in one tent, her sister Ruxandra and
+anther girl, Claudia, in a second tent, and two other students in the
+third. In the early morning hours, we get awakened by a loud call:
+"Hello?". It was an inspection of camping permits going around to all
+the tents. Ruxandra, half asleep, when hearing this, mumbled "Ioana,
+can you pick up the phone, please?". The officer started laughing and
+didn't fine us for the unpaid night. We just paid for the camping permit
+for the remaining days. Then we went to the beach and later walked
+around the town (a Black Sea resort called Neptun). As we were walking
+we bumped into Dana, who was staying at a fancy hotel with her
+sister. Again, she invited us to have lunch with her at the hotel's
+restaurant, and again we noticed the food was exceptional. "This is
+the Party's hotel", explained Dana, "See those blonde girls? Their
+father is the Minister of Interior". We enjoyed the subsidized feast
+and didn't ask any more questions.
+
+By junior year, we got engaged and married in the summer of 1989,
+before senior year.
 
 The wedding ceremony consisted of two parts: the civil marriage at
 City Hall and the Orthodox marriage service in Church. For reasons I
