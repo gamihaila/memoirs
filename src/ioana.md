@@ -228,7 +228,7 @@ around, everyone was gone on trips to the mountains or the beach. When
 the school year started again in the Fall, however, we couldn't avoid
 each other so one day on our way back from school we sat down again on
 our favorite park bench and had a long talk. I told her gently that
-I'm not mad at her, but that we should be seeing each other anymore,
+I'm not mad at her, but that we shouldn't be seeing each other anymore,
 the engagement was off. I was bracing myself for tears, but I wasn't
 expecting what came next: between sobs, she started telling me that
 she could no longer feel the left side of her face, and indeed it
