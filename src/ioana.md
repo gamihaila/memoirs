@@ -247,7 +247,9 @@ my hard work. It wouldn't be fair!"
 
 I listened to her in disbelief, but in the back of my mind I knew
 there was some truth to her statements. I was also flattered by her
-determination, so we got back together and got married in the summer of 1989,
+determination.
+
+Predictably, we got back together and got married in the summer of 1989,
 before senior year.
 
 The wedding ceremony consisted of two parts: the civil marriage at
