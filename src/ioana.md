@@ -119,14 +119,10 @@ compartment for a bit, Dana came after me and said: "Hey, what if we
 got off at the next station and left Ioana in the train, what do you
 say?". Aarrghhh!
 
-
-In the
-summer vacations we went camping at the beach in a larger group, for
-plausible deniability reasons, and her parents pretended not to figure
-this out.
-
-By junior year, we got engaged and married in the summer of 1989,
-before senior year.
+In the summer vacations we went camping at the beach in a larger
+group, for plausible deniability reasons, and her parents pretended
+not to figure this out. By junior year, we got engaged and married in
+the summer of 1989, before senior year.
 
 The wedding ceremony consisted of two parts: the civil marriage at
 City Hall and the Orthodox marriage service in Church. For reasons I
