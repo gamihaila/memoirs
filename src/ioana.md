@@ -85,32 +85,33 @@ the University building, just behind the Central Committee
 headquarters, in fact. So, even though her father was a highly ranked
 official in the totalitarian regime, nobody held that against
 Dana. She was just too gorgeous and just perfect in every possible
-way. Alas, she also had an official boyfriend, from another college.
+way. Alas, she also had an official boyfriend, from another
+college. So I quickly resigned myself that she was out of my league.
 
-In the summer vacation after our second year there was a summer camp
-in Sinaia, the best known resort in the Carpathian Mountains. The camp
-was completely free of charge, but many students from the whole
-country applied to go and the spots were given in the order of the
-GPAs. Me and Dana got in, Ioana didn't. No matter, a lot of students
-would sneak in their friends in the cabins, and the organizers were
-known to silently tolerate this, as long as people were discreet about
-it. So, since we were all friends, Dana offered to sneak Ioana in so
-we can be together, especially since she was planning to go back to
-Bucharest for a few days to spend time with her boyfriend. However,
-the students who were officially on the campers list would be the ones
-who needed to go in the first day and check in, obviously. So, Dana
-and I took the train together in the morning and checked in our
-respective cabins, while Ioana took a later train. We had a few hours
-to kill until her arrival, so we went to the city park and sat on a
-bench, with Dana resting her head on my lap. You see, she was fully
-aware I liked her, so she started taunting me: "Say, George, what if
-we don't wait for Ioana at the train station, she won't know where to
-find the camp cabins, and she's not officially a camper, so she
-couldn't go ask anyone". I was suffering. It took a lot of restraint
-not to lift her head up and kiss her. I knew she wasn't serious, of
-course, but she was so beautiful, and seemed so playful and
-approachable, more than she ever was with me, that for a split second
-I really wanted to believe she liked me. But I couldn't do
+However, in the summer vacation after our second year there was a
+summer camp in Sinaia, the best known resort in the Carpathian
+Mountains. The camp was completely free of charge, but many students
+from the whole country applied to go and the spots were given in the
+order of the GPAs. Me and Dana got in, Ioana didn't. No matter, a lot
+of students would sneak in their friends in the cabins, and the
+organizers were known to silently tolerate this, as long as people
+were discreet about it. So, since we were all friends, Dana offered to
+sneak Ioana in so we can be together, especially since she was
+planning to go back to Bucharest for a few days to spend time with her
+boyfriend. However, the students who were officially on the campers
+list would be the ones who needed to go in the first day and check in,
+obviously. So, Dana and I took the train together in the morning and
+checked in our respective cabins, while Ioana took a later train. We
+had a few hours to kill until her arrival, so we went to the city park
+and sat on a bench, with Dana resting her head on my lap. You see, she
+was fully aware I liked her, so she started taunting me: "Say, George,
+what if we don't wait for Ioana at the train station, she won't know
+where to find the camp cabins, and she's not officially a camper, so
+she couldn't go ask anyone". I was suffering. It took a lot of
+restraint not to lift her head up and kiss her. I knew she wasn't
+serious, of course, but she was so beautiful, and seemed so playful
+and approachable, more than she ever was with me, that for a split
+second I really wanted to believe she liked me. But I couldn't do
 it. Eventually, the magic was gone, we got up, and got Ioana from the
 train.
 
@@ -175,7 +176,76 @@ the Party's hotel", explained Dana, "See those blonde girls? Their
 father is the Minister of Interior". We enjoyed the subsidized feast
 and didn't ask any more questions.
 
-By junior year, we got engaged and married in the summer of 1989,
+In all honesty, I could be myself around Ioana, we could talk for
+hours, and we would never get tired. On the way home from school we
+had our favorite park, behind the bus station where our ways
+separated, and we lingered there every day, letting bus after bus pass
+by. Ioana was fun to be around: an intelligent and cultured girl, she
+read the same books as me and more, liked the same music as me, and
+she was clearly into me. That felt good. Everything was settling into
+a quiet familiarity. On one of our trips to the beach I asked her if she
+wanted to be my wife. She agreed without the slightest hesitation, it
+was the obvious direction we were heading. I was sure nothing could
+possibly go wrong now. I was mistaken.
+
+On my twentieth bithday, my parents organized a big party for me. I
+invited many our schoolmates from college and some of my former
+highschool friends. I had just bought my first computer, the ZX
+Spectrum, and I had it powered on in my bedroom, loaded with games
+(including the ones I implemented myself). A lot of the guests were
+clamoring around the computer, cheering for the players, who took
+turns to play. I was walking around the apartment, checking out on the
+other guests. When I got to my sister's bedroom I saw there an old
+highschool crush of mine: she was staring out the window, alone. Oh,
+how many times I had tried to sweet talk her on our bus rides home,
+without much luck. She was always laughing at my jokes, and was
+clearly aware I liked her, but she had never given me much
+attention. Not wanting her to feel left out, I went next to her by the
+window and started talking, asking her about her college, innocent
+chit-chat. She was much more friendly and open to me now, I was
+noticing. I wound find out later that someone saw us together and told
+Ioana. At the time we were just having a good time, oblivious to any
+drama. After a few minutes of reminiscing about highschool, we left
+the window and I continued my rounds in the apartment,
+alone. Eventually I made it to my parent's bedroom (they had left us
+alone for the party), and towards their balcony. In the balcony,
+Marius, one of my close friends from highschool was kissing Ioana!
+When they saw me, they stopped, and Ioana started making excuses, how
+she saw me with my former crush, got upset, and went to the balcony,
+and then Marius tried to console her and then they got carried
+away. Marius left the party soon after that, but made sure to take me
+aside before leaving to tell me his side of the story: namely, that
+Ioana fell into his lap without much effort. "Beware", he said, "I'm
+telling you as a friend, Ioana is not someone you can trust for
+marriage". I was angry at him in the moment, but after some more
+thinking I started to consider that he may be on to something,
+especially since I knew he had had a lot more experience with girls
+than me.
+
+After that party, I stopped seeing Ioana. I spent that summer alone,
+trying to make sense of the situation. I didn't have any other friends
+around, everyone was gone on trips to the mountains or the beach. When
+the school year started again in the Fall, however, we couldn't avoid
+each other so one day on our way back from school we sat down again on
+our favorite park bench and had a long talk. I told her gently that
+I'm not mad at her, but that we should be seeing each other anymore,
+the engagement was off. I was bracing myself for tears, but I wasn't
+expecting what came next: between sobs, she started telling me that
+she could no longer feel the left side of her face, and indeed it
+seemed immobile to me too, like a partial paralysis. She was
+panicking, and I didn't know what to do either, other than try to calm
+her down by taking it all back. After a while she calmed down
+somewhat, and went home. The next day, at school, she was better, and
+told me something along these lines:
+
+"George, when I met you, you were an immature, silly boy. I made you
+into who you are now. You are my creation. I couldn't stand the
+thought that another girl would get you now and reap the fruits of all
+my hard work. It wouldn't be fair!"
+
+I listened to her in disbelief, but in the back of my mind I knew
+there was some truth to her statements. I was also flattered by her
+determination, so we got back together and got married in the summer of 1989,
 before senior year.
 
 The wedding ceremony consisted of two parts: the civil marriage at
