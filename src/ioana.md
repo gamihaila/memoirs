@@ -235,8 +235,10 @@ she could no longer feel the left side of her face, and indeed it
 seemed immobile to me too, like a partial paralysis. She was
 panicking, and I didn't know what to do either, other than try to calm
 her down by taking it all back. After a while she calmed down
-somewhat, and went home. The next day, at school, she was better, and
-told me something along these lines:
+somewhat, and went home.
+
+The next day, at school, she was better, and told me something along
+these lines:
 
 "George, when I met you, you were an immature, silly boy. I made you
 into who you are now. You are my creation. I couldn't stand the
