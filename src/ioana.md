@@ -365,7 +365,7 @@ We got back to Bucharest at the same time with Ioana's family. My
 parents invited all of them for lunch, eager to hear their travel
 impressions. Ioana's father proceeded to recount in great detail their
 visit to Istanbul Great Bazaar and market, where, I kid you not, a
-Turkish merchant offered 10 sheep to him in exchange for Ioana! Too
+Turkish merchant offered 100 sheep to him in exchange for Ioana! Too
 bad she was already married. I didn't find the story that amusing, but
 pretended to laugh will them.
 
