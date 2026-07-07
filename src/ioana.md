@@ -355,7 +355,7 @@ to sleep in the car to save money. I wasn't eager to join them in
 these conditions, but I reluctantly applied for a passport, hoping it
 will not be ready on time. Thanks to the slow-moving bureaucracy, I
 only got the passport after they already had left without me. That was
-the second bad omen: why would Ioana chose to go on a trip without me,
+the second bad omen: why would Ioana choose to go on a trip without me,
 just a few short weeks after we got married? Left home, all alone, my
 father took pity on me and booked a hotel for the two of us in Venus,
 a modern Black Sea resort (my mom declined to join us because her
