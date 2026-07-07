@@ -316,7 +316,7 @@ full potential.
 
 Ioana didn't take this very well, I'm afraid. You see, she was
 ambitious herself, and didn't see any reason to place herself on a
-supporting role, after all we were both in the same Computer Science
+supporting role. After all, we were both in the same Computer Science
 program and she was among the top students too. After that fateful
 visit, I think she started resenting me and my so-called research
 potential. Aside from our professor, she was suspecting that my own
