@@ -196,9 +196,9 @@ Spectrum, and I had it powered on in my bedroom, loaded with games
 clamoring around the computer, cheering for the players, who took
 turns to play. I was walking around the apartment, checking out on the
 other guests. When I got to my sister's bedroom I saw there an old
-highschool crush of mine: she was staring out the window, alone. Oh,
+highschool crush of mine, Anca: she was staring out the window, alone. Oh,
 how many times I had tried to sweet talk her on our bus rides home,
-without much luck. She was always laughing at my jokes, and was
+without much luck. Anca was always laughing at my jokes, and was
 clearly aware I liked her, but she had never given me much
 attention. Not wanting her to feel left out, I went next to her by the
 window and started talking, asking her about her college, innocent
