@@ -218,7 +218,7 @@ aside before leaving to tell me his side of the story: namely, that
 Ioana fell into his lap without much effort. "Beware", he said, "I'm
 telling you as a friend, Ioana is not someone you can trust for
 marriage". I was angry at him in the moment, but after some more
-thinking I started to consider that he may be on to something,
+thinking I started to consider that he may be onto something,
 especially since I knew he had had a lot more experience with girls
 than me.
 
@@ -264,7 +264,7 @@ This wasn't the last hiccup we had on the way to our eventual marriage.
 
 It was the finals week in Spring of 1989. I was preparing for the
 exams the only way I knew how, by transcribing and expanding on the
-lecture notes had scribbled in class, when I received a phone call: it
+lecture notes I had scribbled in class, when I received a phone call: it
 was Dana, who was doing the same and wanted to ask me if it would be
 alright if she came by so we can compare our notes and fill in
 whatever gaps either of us had. "Of course, you can come over
