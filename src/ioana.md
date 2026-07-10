@@ -262,22 +262,49 @@ suppose I was flattered by her determination, so we got back together.
 
 This wasn't the last hiccup we had on the way to our eventual marriage.
 
-It was the finals week in Spring of 1989. We were lining up for the
-oral examination for a particularly hard course, I forget which one. I
-got called in first, in alphabetical order, picked the question from a
-basket with folded papers, luckily it was somthing familiar, and went
-to the blackboard to solve it. After I was done, I walked out and saw
-Ioana walking in. Outside, all the students who finished were
-celebrating, happy that it was all over (it was the last exam of the
-week). At one point Dana suggested we all go have fancy profiterol
-icecreams at Athenee Palace Cafe, a ten minute walk from the
-University building. Without thinking much, I joined them. When we got
-back, the professor was out in the hallway talking to the remaining
-students. Something dreadful had happened: Ioana went in, and
-immediately after picking her exam question had panicked and had to be
-taken out of the room. The professor was kind enough and told her to
-come the following week to take the exam again. Ioana had since went
-home. 
+It was the finals week in Spring of 1989. I was preparing for the
+exams the only way I knew how, by transcribing and expanding on the
+lecture notes had scribbled in class, when I received a phone call: it
+was Dana, who was doing the same and wanted to ask me if it would be
+alright if she came by so we can compare our notes and fill in
+whatever gaps either of us had. "Of course, you can come over
+anytime", I answered, happy for such an unexpected visit. In less than
+an hour, Dana showed up at my door. My mom opened up and invited her
+in. It so happened that we also received some grocery delivery and had
+to go pick it up from downstairs (we lived on the third floor). To my
+Mom's surprise, Dana insisted to come with us and help carry it
+upstairs, not letting my mom pick up anything heavy. "What a well
+brought-up girl", my mom would remark afterwards to me, "I would have
+thought that she would be spoiled, coming from such a highly placed
+family." Anyway, after we brought all the groceries in, Dana came into
+my room and we sat down at my table and studied together for the exam
+for a good couple of hours. It really helped, as the subject was quite
+difficult. At some point, Ioana called to ask me how the studying is
+going and I didn't see any reason to lie to her, after all, we were all
+friends. Ioana pretended to be non-chalant about it, and even chatted a
+bit with Dana on the phone about the upcoming exam.
+
+The next day, we were lining up for the oral examination, in
+alphabetical order by last name. Dana went in in the first batch. I
+went in some time afterwards, picked the question from a basket with
+folded papers, luckily it was somthing familiar, and went to the
+blackboard to solve it. After I was done, I walked out and saw Ioana
+walking in. Outside, all the students who finished were celebrating,
+happy that it was all over (it was the last exam of the week). At one
+point Dana suggested we all go have fancy profiterol icecreams at
+Athenee Palace Cafe, a ten minute walk from the University
+building. Without thinking much, I joined them. When we got back, the
+professor was out in the hallway talking to the remaining
+students. Something bad had happened: Ioana went in, and immediately
+after picking her exam question had panicked and had to be taken out
+of the room. The professor was kind enough and told her to come the
+following week to take the exam again. Ioana had since went home. I
+called her as soon as I got home, but she was upset with me because I
+wasn't there when she needed me and our colleagues had told her I went
+out with Dana to have icecream. How was I supposed to know this was
+going to happen? After all, we were gone less than 30 minutes
+altogether. Eventually, she calmed down, but she held a grudge for a
+long time after that.
 
 
 
