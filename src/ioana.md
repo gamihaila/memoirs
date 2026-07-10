@@ -306,42 +306,76 @@ going to happen? After all, we were gone less than 30 minutes
 altogether. Eventually, she calmed down, but she held a grudge for a
 long time after that.
 
+Regardless, we continued to go out together, and started planning our
+wedding for the upcoming summer. By now our families were visiting
+each other too. During one of Ioana's family visits at our place, my
+mom called me to the kitchen, ostensibly to help out with the meal,
+but once I got there, she shut the door and asked me, with a serious
+look on her face:
 
+"Son, are you absolutely certain that you want to marry this
+particular girl, and not any other one?"
 
-In the end, despite all this back-and-forth, we got married in the
-summer of 1989, in between junior and senior year of college.
+"Yes, mom, of course". 
 
-The wedding ceremony consisted of two parts: the civil marriage at
-City Hall and the Orthodox marriage service in Church. For reasons I
-don't quite recall now, we were not able to schedule both in the same
-day. So it was that we were officially married but I was not allowed
-to sleep over before we were married in Church, which luckily happened
-the next day. The entire civil wedding ceremony, the religious
-wedding, and the reception were being professionally videotaped. The
-wedding reception was a lavish affair, with over 200 guests (paid for
-by my parents), friends and relatives from both families. We had music
-provided by my best childhood friend, Marian, who had been my music
-supplier for years (where was he sourcing the newest releases of
-Western music I would ever know). There were speeches, dances, wining
-and dining, and of course gossiping. Dana was there at the students’
-table together with all our closest friends from our class.  I
-would later catch on to some of their conversations on the videotape:
-another girl was telling Dana that Ioana will have priority on the
-governmental job assignments to pick a position in the same town as
-me, now that we were married. Since I was higher on that list, that
-would allow Ioana to jump the list. Later, when the dance began, I had
-of course a lovely first dance with my bride, then my father danced
-with her, with everybody dancing around us. At some point in the
-party, between two songs, as I was standing on the dance floor, Dana
-and her best friend (also called Dana, by the way), were plotting
-together something. Moments later, they both came to me and wrapped
-their arms around my neck, as a joke, of course, while the
-videographer was getting it all on tape. This other Dana, by the way,
-later recounted at the students’ table how she had once sat next to me
-in our freshman year and was half-jokingly trying to persuade me to
-dump Ioana and marry her instead, assuring me that her family would be
-best positioned to provide me with the best conditions to concentrate
-on academic research, sparing us from the day to day chores. At the
+"I have to ask", she pressed, "I hope you don't have obligations
+towards Ioana, right?"
+
+"No, of course not", I lied. What else could I have said at this
+point?
+
+"In this case, are you sure you wouldn't rather want Dana? If you had
+obligations for Ioana, you would have to marry her no matter what, but
+since you're telling me you don't, are you sure you want to pick her?"
+
+You see, I was very close to my mom and had told her everything about
+Dana, and she also met her a few times and somehow wasn't as convinced
+as I was that Dana didn't care for me at all. However, at that point
+in our relationship it was much too late to be asking these kinds of
+questions, with Ioana's parents in the living room, expecting a formal
+proposal from me. So we went back to the living room, carrying the
+delicious food my mom had cooked for them, sat down, and then I
+formally asked Ioana's father for his daughter's hand.
+
+Outwardly everything unfolded according to the expectations. Inwardly
+though, things were a bit more complicated: it's not that I didn't
+love Ioana, I did, but recently I had been consumed by the nagging
+feeling that perhaps Dana wasn't that unattainable after
+all. Especially after she had broken up with her boyfriend a few
+months earlier. Way too late, though to be thinking about that now.
+
+A few months later we got married. The wedding ceremony consisted of
+two parts: the civil marriage at City Hall and the Orthodox marriage
+service in Church. For reasons I don't quite recall now, we were not
+able to schedule both in the same day. So it was that we were
+officially married but I was not allowed to sleep over before we were
+married in Church, which luckily happened the next day. The entire
+civil wedding ceremony, the religious wedding, and the reception were
+being professionally videotaped. The wedding reception was a lavish
+affair, with over 200 guests (paid for by my parents), friends and
+relatives from both families. We had music provided by my best
+childhood friend, Marian, who had been my music supplier for years
+(where was he sourcing the newest releases of Western music I would
+ever know). There were speeches, dances, wining and dining, and of
+course gossiping. Dana was there at the students’ table together with
+all our closest friends from our class.  I would later catch on to
+some of their conversations on the videotape: another girl was telling
+Dana that Ioana will have priority on the governmental job assignments
+to pick a position in the same town as me, now that we were
+married. Since I was higher on that list, that would allow Ioana to
+jump the list. Later, when the dance began, I had of course a lovely
+first dance with my bride, then my father danced with her, with
+everybody dancing around us. At some point in the party, between two
+songs, as I was standing on the dance floor, Dana and her best friend
+(also called Dana, by the way), were plotting together
+something. Moments later, they both came to me and wrapped their arms
+around my neck, as a joke, of course, while the videographer was
+getting it all on tape. This other Dana, by the way, later recounted
+at the students’ table how she had once sat next to me in our freshman
+year and was half-jokingly trying to persuade me to dump Ioana and
+marry her instead, assuring me that her family would be best
+positioned to provide me with the best conditions to concentrate on
+academic research, sparing us from the day to day chores. At the
 wedding she was insisting that this had been a joke, borne of intense
 boredom at that uninspiring class on the comprehensive classification
 of all possible flowcharts with two decisions. Everybody was laughing,
