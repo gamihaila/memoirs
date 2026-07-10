@@ -245,12 +245,44 @@ into who you are now. You are my creation. I couldn't stand the
 thought that another girl would get you now and reap the fruits of all
 my hard work. It wouldn't be fair!"
 
-I listened to her in disbelief, but in the back of my mind I knew
-there was some truth to her statements. I was also flattered by her
-determination.
+Listening to her I had a weird feeling of deja-vu, vaguely remembering
+that Elena might have said something similar to me back in seventh
+grade. In some fundamental way, it was true, I suppose, we are all the
+end product of all the people we interact with. All past experiences
+shape us one way or another. But I never thought that Ioana was
+deliberately educating me, turning me into boyfriend material. Could
+that be true? Nah, that can't be, I was telling myself, there is so
+much more to my inner life that Ioana can't possibly have access to,
+right? For my part, I knew I can only observe the outward
+manifestation of a tiny fraction of Ioana's full personality, and by
+analogy I was assuming the same must be true for her, or anyone else
+by that matter, regardless of how close. But what I took from her
+words was that she was really serious about wanting to be with me. I
+suppose I was flattered by her determination, so we got back together.
 
-Predictably, we got back together and got married in the summer of 1989,
-before senior year.
+This wasn't the last hiccup we had on the way to our eventual marriage.
+
+It was the finals week in Spring of 1989. We were lining up for the
+oral examination for a particularly hard course, I forget which one. I
+got called in first, in alphabetical order, picked the question from a
+basket with folded papers, luckily it was somthing familiar, and went
+to the blackboard to solve it. After I was done, I walked out and saw
+Ioana walking in. Outside, all the students who finished were
+celebrating, happy that it was all over (it was the last exam of the
+week). At one point Dana suggested we all go have fancy profiterol
+icecreams at Athenee Palace Cafe, a ten minute walk from the
+University building. Without thinking much, I joined them. When we got
+back, the professor was out in the hallway talking to the remaining
+students. Something dreadful had happened: Ioana went in, and
+immediately after picking her exam question had panicked and had to be
+taken out of the room. The professor was kind enough and told her to
+come the following week to take the exam again. Ioana had since went
+home. 
+
+
+
+In the end, despite all this back-and-forth, we got married in the
+summer of 1989, in between junior and senior year of college.
 
 The wedding ceremony consisted of two parts: the civil marriage at
 City Hall and the Orthodox marriage service in Church. For reasons I
