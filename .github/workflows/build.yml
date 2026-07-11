@@ -1,4 +1,6 @@
 name: Build index.html
+  working-directory: docs
+  run: python3 build.py
 
 on:
   push:
