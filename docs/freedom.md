@@ -104,7 +104,8 @@ asking questions. They asked me a bunch of questions about our classes
 and then asked me if I did any coding for fun. I told them about my
 Tetris implementation and they were apparently pretty impressed,
 because they hired me. They also hired three of my
-colleagues. Everyone else was dismissed.
+colleagues, including Dana (yes, that Dana!). Everyone else was dismissed.
+
 
 Going back to that meeting for picking from the state jobs. The time
 came and we were all gathered together in a large class. We were
