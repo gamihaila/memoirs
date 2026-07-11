@@ -28,7 +28,7 @@ the time at work too?"
 
 It took us a second to process his question, and then we answered:
 
-"Oh, but we're not married!", Dana clarified.
+"Oh, we're not married!"
 
 "Oh, sorry", said the manager, slightly confused, "in that case, welcome to our
 team!"
