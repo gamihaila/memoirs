@@ -8,7 +8,7 @@ graduate school in Moscow University and was granted a doctorate
 there. My mom followed him initially, but gave up after a few months
 because of the harsh climate and lack of heating in the dorms. My
 sister was similarly inclined towards languages and ended up getting a
-PhD in French literature from the University of Bucharest too.
+PhD in French literature from the University of Bucharest too and eventually becoming a full professor there too. 
 
 My first distinct memory is a summer evening in a backyard of a house
 by the Black Sea where we were spending our vacation. I remember clearly how
