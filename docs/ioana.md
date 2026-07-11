@@ -154,7 +154,7 @@ stepped out of the compartment for a bit, Dana came after me and said:
 "Hey, what if we got off at the next station and left Ioana in the
 train, what do you say?". Aarrghhh!
 
-Afer that summer camp, me and Ioana went camping at the beach in a
+After that summer camp, me and Ioana went camping at the beach in a
 larger group, for plausible deniability reasons, and her parents
 pretended not to figure this out. I remember we got to the camping
 site late in the evening, after the office was closed, so we couldn't
@@ -188,15 +188,15 @@ wanted to be my wife. She agreed without the slightest hesitation, it
 was the obvious direction we were heading. I was sure nothing could
 possibly go wrong now. I was mistaken.
 
-On my twentieth bithday, my parents organized a big party for me. I
+On my twentieth birthday, my parents organized a big party for me. I
 invited many our schoolmates from college and some of my former
-highschool friends. I had just bought my first computer, the ZX
+high school friends. I had just bought my first computer, the ZX
 Spectrum, and I had it powered on in my bedroom, loaded with games
 (including the ones I implemented myself). A lot of the guests were
 clamoring around the computer, cheering for the players, who took
 turns to play. I was walking around the apartment, checking out on the
 other guests. When I got to my sister's bedroom I saw there an old
-highschool crush of mine, Anca: she was staring out the window, alone. Oh,
+high school crush of mine, Anca: she was staring out the window, alone. Oh,
 how many times I had tried to sweet talk her on our bus rides home,
 without much luck. Anca was always laughing at my jokes, and was
 clearly aware I liked her, but she had never given me much
@@ -205,11 +205,11 @@ window and started talking, asking her about her college, innocent
 chit-chat. She was much more friendly and open to me now, I was
 noticing. I wound find out later that someone saw us together and told
 Ioana. At the time we were just having a good time, oblivious to any
-drama. After a few minutes of reminiscing about highschool, we left
+drama. After a few minutes of reminiscing about high school, we left
 the window and I continued my rounds in the apartment,
 alone. Eventually I made it to my parent's bedroom (they had left us
 alone for the party), and towards their balcony. In the balcony,
-Marius, one of my close friends from highschool was kissing Ioana!
+Marius, one of my close friends from high school was kissing Ioana!
 When they saw me, they stopped, and Ioana started making excuses, how
 she saw me with my former crush, got upset, and went to the balcony,
 and then Marius tried to console her and then they got carried
@@ -281,17 +281,17 @@ my room and we sat down at my table and studied together for the exam
 for a good couple of hours. It really helped, as the subject was quite
 difficult. At some point, Ioana called to ask me how the studying is
 going and I didn't see any reason to lie to her, after all, we were all
-friends. Ioana pretended to be non-chalant about it, and even chatted a
+friends. Ioana pretended to be nonchalant about it, and even chatted a
 bit with Dana on the phone about the upcoming exam.
 
 The next day, we were lining up for the oral examination, in
 alphabetical order by last name. Dana went in in the first batch. I
 went in some time afterwards, picked the question from a basket with
-folded papers, luckily it was somthing familiar, and went to the
+folded papers, luckily it was something familiar, and went to the
 blackboard to solve it. After I was done, I walked out and saw Ioana
 walking in. Outside, all the students who finished were celebrating,
 happy that it was all over (it was the last exam of the week). At one
-point Dana suggested we all go have fancy profiterol icecreams at
+point Dana suggested we all go have fancy profiterole ice creams at
 Athenee Palace Cafe, a ten minute walk from the University
 building. Without thinking much, I joined them. When we got back, the
 professor was out in the hallway talking to the remaining
@@ -301,7 +301,7 @@ of the room. The professor was kind enough and told her to come the
 following week to take the exam again. Ioana had since went home. I
 called her as soon as I got home, but she was upset with me because I
 wasn't there when she needed me and our colleagues had told her I went
-out with Dana to have icecream. How was I supposed to know this was
+out with Dana to have ice cream. How was I supposed to know this was
 going to happen? After all, we were gone less than 30 minutes
 altogether. Eventually, she calmed down, but she held a grudge for a
 long time after that.
@@ -401,10 +401,10 @@ and we were working on a second one at the time. So, we went to visit
 him in his very large hotel suite where he was staying with his wife
 and children. After his wife brought us coffees, he took Ioana on the
 side and proceeded to give her a lecture about how she should support
-me in my reasearch work, just how his own wife had been supporting
+me in my research work, just how his own wife had been supporting
 him, exempting him of all domestic chores so he could dedicate his
 life to science. He was essentially asking her to make all the
-necessary sacrificies to ensure I have all the conditions to reach my
+necessary sacrifices to ensure I have all the conditions to reach my
 full potential.
 
 Ioana didn't take this very well, I'm afraid. You see, she was
@@ -423,7 +423,7 @@ hear from my mother.
 Personally, I had serious doubts that I had what it takes to pursue an
 academic career, much less to a level anywhere near what my father had
 accomplished. The expectations from my family were enormous, but my
-imposter syndrome was just as powerful. So I tried to reassure Ioana
+impostor syndrome was just as powerful. So I tried to reassure Ioana
 that I have no such expectations of her, despite what anyone else may
 try to persuade her. She was not convinced. We had a long discussion
 in which she made it very clear that she had no intention to assume
@@ -433,7 +433,7 @@ academic career.
 After a few more days, the honeymoon trip came to an end, and we went
 to Constanta to catch our train back. I lugged the suitcases into our
 compartment, and, as we still had a few more minutes until the train's
-departure, Ioand stepped out to get something to drink from the
+departure, Ioana stepped out to get something to drink from the
 station. I was getting anxious as the minutes passed and Ioana was
 nowhere to be found. Eventually, the train started, and Ioana was
 still not back. She did arrive a few minutes later, while I was in
