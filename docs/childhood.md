@@ -2,7 +2,7 @@
 I was born in Bucharest in June 1967, the second child of the family,
 eight years after my sister Ileana. My father was a university
 professor and my mother was working at a large publishing house as an
-editor. They had both studied languages at the University of
+editor.   They had both studied languages at the University of
 Bucharest, where they met. My father continued his studies for
 graduate school in Moscow University and was granted a doctorate
 there. My mom followed him initially, but gave up after a few months
