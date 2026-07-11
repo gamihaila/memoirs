@@ -54,6 +54,15 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     lang = meta.get('language', 'en')
     cover = meta.get('cover', '')
 
+    # Reuse a single Markdown instance and reset() per chapter with UNIQUE_IDS
+    # so footnote ids (fn:1, fnref:1, ...) get a per-chapter prefix. Otherwise
+    # every chapter restarts numbering at 1 and the ids collide, making all
+    # footnote links jump to the first chapter's footnotes.
+    md = markdown.Markdown(
+        extensions=['footnotes', 'smarty'],
+        extension_configs={'footnotes': {'UNIQUE_IDS': True}},
+    )
+
     toc_items = []
     chapter_html = []
     for i, ch in enumerate(chapters, 1):
@@ -61,7 +70,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
         ctitle = ch.get('title', fname)
         cid = 'ch' + str(i)
         with open(fname, encoding='utf-8') as f:
-            md = markdown.Markdown(extensions=['footnotes', 'smarty'])
+            md.reset()
             body = md.convert(f.read())
         toc_items.append(
             f'      <li><a href="#{cid}"><span class="toc-num">{i}</span>'
