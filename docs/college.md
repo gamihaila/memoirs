@@ -1,4 +1,4 @@
-So, Mathematics-Informatics it was. I, of course, didn’t have the
+So, Mathematics-Informatics it  was.   I, of course, didn’t have the
 faintest idea what kind of work I would be doing after
 graduating—perhaps some coding in a state-run data center, still
 better than being sent to teach math in some remote village. This was
