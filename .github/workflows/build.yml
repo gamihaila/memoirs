@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run build scrip
+      - name: Run build script
         working-directory: docs
         run: python3 build.py
 
