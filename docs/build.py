@@ -56,14 +56,23 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 
     toc_items = []
     chapter_html = []
-    for i, ch in enumerate(chapters, 1):
+        for i, ch in enumerate(chapters, 1):
         fname = ch['file']
         ctitle = ch.get('title', fname)
         cid = 'ch' + str(i)
         with open(fname, encoding='utf-8') as f:
-         
             md = markdown.Markdown(extensions=['footnotes', 'smarty'])
             body = md.convert(f.read())
+        toc_items.append(
+            f'      <li><a href="#{cid}"><span class="toc-num">{i}</span>'
+            f'<span class="toc-title">{html.escape(ctitle)}</span></a></li>')
+        chapter_html.append(f'''    <section class="chapter" id="{cid}">
+      <p class="chapter-num">Chapter {i}</p>
+      <h2>{html.escape(ctitle)}</h2>
+{body}
+      <p class="top-link"><a href="#top">&uarr; Contents</a></p>
+    </section>''')
+
             
     toc = '\n'.join(toc_items)
     chapters_joined = '\n'.join(chapter_html)
