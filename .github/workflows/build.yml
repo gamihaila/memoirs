@@ -1,5 +1,4 @@
-name: Build index
-
+name: Build index.html
 
 on:
   push:
