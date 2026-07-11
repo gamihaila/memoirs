@@ -46,20 +46,6 @@ def parse_contents(path='contents.yaml'):
             chapters.append(cur)
     return meta, chapters
 
-
-def md_to_paragraphs(text):
-    """Split plain-text markdown into HTML-escaped paragraphs on blank lines."""
-    blocks = re.split(r'\n\s*\n', text.strip())
-    out = []
-    for b in blocks:
-        # collapse internal single newlines into spaces
-        p = ' '.join(seg.strip() for seg in b.split('\n'))
-        p = html.escape(p)
-        if p:
-            out.append(p)
-    return out
-
-
 def build(contents_path='contents.yaml', out_path='index.html'):
     meta, chapters = parse_contents(contents_path)
 
