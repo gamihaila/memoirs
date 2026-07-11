@@ -1,6 +1,6 @@
 
 I remember our first day at the Research Institute for Informatics: we were
-asked to pick a research group to join. I as at a loss: so far all my research
+asked to pick a research group to join. I was at a loss: so far all my research
 was purely theoretical, using algebraic objects to describe the structure of
 flowcharts. Nobody was working on anything remotely related to that in the
 institute, they were mostly focused on more traditional areas like Operating
