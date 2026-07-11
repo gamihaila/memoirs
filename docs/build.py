@@ -56,7 +56,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 
     toc_items = []
     chapter_html = []
-        for i, ch in enumerate(chapters, 1):
+    for i, ch in enumerate(chapters, 1):
         fname = ch['file']
         ctitle = ch.get('title', fname)
         cid = 'ch' + str(i)
