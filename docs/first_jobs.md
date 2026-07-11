@@ -26,7 +26,7 @@ problems to solve. I do have one thing I want to warn the two of you about,
 though: are you sure you want to work in the same team and see each other all
 the time at work too?"
 
-It took us a second to process his question, and then we answered:
+It took us a second to process his question, and then we answered in unison:
 
 "Oh, we're not married!"
 
