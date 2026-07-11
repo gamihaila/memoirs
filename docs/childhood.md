@@ -5,7 +5,7 @@ professor and my mother was working at a large publishing house as an
 editor. They had both studied languages at the University of
 Bucharest, where they met. My father continued his studies for
 graduate school in Moscow University and was granted a doctorate
-there. My mom followed him initially, but gave up after a few months
+there.  My mom followed him initially, but gave up after a few months
 because of the harsh climate and lack of heating in the dorms. My
 sister was similarly inclined towards languages and ended up getting a
 PhD in French literature from the University of Bucharest too and eventually becoming a full professor there too. 
