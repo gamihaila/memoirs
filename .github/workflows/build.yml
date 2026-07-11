@@ -1,6 +1,5 @@
-- name: Run build script
-        working-directory: docs
-        run: python3 build.py
+name: Build index
+
 
 on:
   push:
@@ -18,7 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run build script
+      - name: Run build scrip
+        working-directory: docs
         run: python3 build.py
 
       - name: Commit updated index.html
