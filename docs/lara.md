@@ -14,7 +14,7 @@ I had a longer conversation with one girl called Jenny, a
 Canadian. Later we became friends, but never more than that. Meeting
 her proved to be very impactful to my life, but in a very unexpected
 way. Let me explain how. A month later, on Canadian Thanksgiving,
-another girl I met during the same orientation party invited me to go
+an Italian girl I met during the same orientation party invited me to go
 with her and some other friends to a Thanksgiving dinner at a Catholic
 church. I wasn't a churchgoer at the time so I was reluctant to go but
 she insisted and the meal was just $5 so I decided to go.
