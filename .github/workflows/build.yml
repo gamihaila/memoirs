@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: pip install markdown
+
       - name: Run build script
         working-directory: docs
         run: python3 build.py
