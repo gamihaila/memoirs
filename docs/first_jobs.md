@@ -34,7 +34,7 @@ It took us a second to process his question, and then we answered in unison:
 team!"
 
 So we joined the Database Research group and got assigned seats in their lab
-right away.  There was however no onboarding, no mentorship, and no oversight to
+right away.  There was however no on-boarding, no mentorship, and no oversight to
 our work. I think I did less work there than ever before and nobody was really
 interested. It was quite a letdown after all the hard classes and the
 undergraduate research I did. I kept busy implementing side projects for fun on
@@ -60,7 +60,7 @@ assets accessible from C code. I also started learning C++ there, from Bjarne
 Stroustrup’s book. I needed that for the next project, a research GUI for
 analyzing proteins. There were some edge-detection algorithms there, but I don’t
 remember much about that project other than the fact we were using graphical
-workstations running X11 and the mice were optical with a special mousepad with
+workstations running X11 and the mice were optical with a special mouse pad with
 a grid on it. I also had my first contact there with running remote sessions
 over the LAN on my colleagues' workstations. We were playing pranks on each
 other by opening windows on someone else’s screen. It was there I first heard of
