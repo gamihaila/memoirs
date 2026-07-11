@@ -13,8 +13,7 @@ them to keep pace with inflation, which only made the inflation
 worse. The numbers grew surreal. A bottle of Coca-Cola cost 1,000
 lei. A loaf of bread, 2,000. Not long before, a decent monthly salary
 had been 2,000 lei. Currency exchange offices sprouted on every street
-corner, and if you were lucky enough to have hard currency, or knew
-someone who did, you could get by. Most people were not that lucky.
+corner.
 
 At the university, where I was working as a TA alongside my final year
 of studies, payday brought its own particular absurdity. The
