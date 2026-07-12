@@ -98,12 +98,12 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 <title>{html.escape(title)}</title>
 <style>
   :root {{
-    --bg: #f4f1ea;
-    --paper: #fffdf8;
-    --ink: #2b2620;
-    --muted: #8a8172;
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
     --accent: #7c5c3b;
-    --rule: #e3dccd;
+    --rule: #e8dfc4;
   }}
   * {{ box-sizing: border-box; }}
   html {{ scroll-behavior: smooth; }}
@@ -112,7 +112,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     background: var(--bg);
     color: var(--ink);
     font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
-    line-height: 1.75;
+    line-height: 1.85;
     font-size: 19px;
   }}
   a {{ color: var(--accent); text-decoration: none; }}
@@ -187,27 +187,22 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     padding: 0 32px;
   }}
   section.chapter {{
-    background: var(--paper);
-    padding: 8vh 6% 6vh;
+    background: var(--bg);
+    padding: 6vh 4% 5vh;
     margin: 40px 0;
-    border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(0,0,0,.06);
+    border-radius: 0;
+    box-shadow: none;
   }}
   section.chapter .chapter-num {{
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    font-size: .78rem;
-    color: var(--muted);
-    margin: 0 0 .3em;
+    display: none;
   }}
   section.chapter h2 {{
-    text-align: center;
-    font-size: 2rem;
-    font-weight: 600;
+    text-align: left;
+    font-size: 2.4rem;
+    font-weight: 700;
     margin: 0 0 1.6em;
-    padding-bottom: .6em;
-    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0;
+    border-bottom: none;
   }}
   section.chapter p {{ margin: 0 0 1.1em; text-align: justify; hyphens: auto; }}
   .top-link {{
