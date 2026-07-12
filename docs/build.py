@@ -220,7 +220,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
   }}
 
   @media (max-width: 600px) {{
-    body {{ font-size: 17px; }}
+    body {{ font-size: 23px; }}
     header.title-page h1 {{ font-size: 2rem; }}
     section.chapter {{ padding: 6vh 7% 5vh; }}
   }}
