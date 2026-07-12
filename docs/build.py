@@ -113,7 +113,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     color: var(--ink);
     font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
     line-height: 1.85;
-    font-size: 19px;
+    font-size: 23px;
   }}
   a {{ color: var(--accent); text-decoration: none; }}
   a:hover {{ text-decoration: underline; }}
