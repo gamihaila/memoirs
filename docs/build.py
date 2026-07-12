@@ -184,7 +184,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
   main {{
     max-width: 720px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 28px;
   }}
   section.chapter {{
     background: var(--bg);
@@ -222,7 +222,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
   @media (max-width: 600px) {{
     body {{ font-size: 21px; }}
     header.title-page h1 {{ font-size: 2rem; }}
-    main {{ padding: 0 16px; }}
+    main {{ padding: 0 22px; }}
     section.chapter {{ padding: 4vh 0 3vh; }}
   }}
 </style>
