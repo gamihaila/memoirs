@@ -8,6 +8,9 @@ chapters:
   - file: childhood.md
     title: Childhood
 
+  - file: high_school.md
+    title: High School 
+
   - file: college.md
     title: University of Bucharest
 
