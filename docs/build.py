@@ -113,7 +113,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     color: var(--ink);
     font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
     line-height: 1.85;
-    font-size: 23px;
+    font-size: 22px;
   }}
   a {{ color: var(--accent); text-decoration: none; }}
   a:hover {{ text-decoration: underline; }}
@@ -220,7 +220,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
   }}
 
   @media (max-width: 600px) {{
-    body {{ font-size: 23px; }}
+    body {{ font-size: 21px; }}
     header.title-page h1 {{ font-size: 2rem; }}
     section.chapter {{ padding: 6vh 7% 5vh; }}
   }}
@@ -259,4 +259,3 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 
 if __name__ == '__main__':
     build()
-
