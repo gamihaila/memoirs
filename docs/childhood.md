@@ -93,7 +93,7 @@ than a year we had to move. I was in fifth grade.
 I was sad to leave the school and all my friends, and especially a
 girl I had a crush on, named Corina. I had not really spoken with her
 much, but before leaving I lent her one of my favorite books at the
-time, "Cismigiu et. comp.", a popular high-school tale. I guess I was
+time, "Cismigiu et comp.", a popular high-school tale. I guess I was
 hoping we'll have to keep in touch so she can return the book, but
 I never saw her again.
 
