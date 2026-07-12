@@ -260,3 +260,4 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 
 if __name__ == '__main__':
     build()
+    
