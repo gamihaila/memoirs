@@ -248,9 +248,7 @@ already arrived from Romania, to help with the baby. She was terribly
 disappointed when she saw us, and so were we, although we were mostly exhausted
 from the sleepless night spent at the hospital. After a couple of days though we
 were finally allowed to take Maria home! We were overjoyed, but also terrified,
-there she was, a tiny human, entirely dependent on us. And she made her presence
-known, at all hours of the day, and especially at night. Just like the
-radiologist had warned us!
+there she was, a tiny human, entirely dependent on us. 
 
 
 
