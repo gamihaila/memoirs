@@ -91,7 +91,7 @@ fairly new to the country I thought this must be normal, like a new employer
 asking for references from your past employers. I'm sure Ioana had a good laugh
 too. Not too late after this conversation they met each other in person at a
 friend's wedding we were both invited (actually it was me and Lara who
-introduced him to Lara's best friend and they got married, imagine that!). Lara
+introduced the groom, Ovidiu,  to Lara's best friend Ottile and they got married, imagine that!). Lara
 made an extra effort to gaze lovingly into my eyes while slow dancing making
 sure Ioana can see us on the dance floor. Then she went to her and thanked her
 again for the nightgowns and for the boyfriend (!). She was like that, never
@@ -122,7 +122,7 @@ there on the reservation ground, and I even tried to persuade Lara to go for it,
 unsuccessfully, of course. 
 
 On one of my trips to Romania, Lara gave me an authentic Native American dream
-catcher as a present for my mom. My mom liked it so much she hang it on the wall
+catcher as a present for my mom. My mom liked it so much she hung it on the wall
 next to her bed, where it still sits to this day, years after her passing,
 charged with all of our mom's dreams, as my sister tells everyone who asks. I
 remember during that trip Lara would call me constantly on the phone (she had
