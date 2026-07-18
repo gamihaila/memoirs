@@ -34,4 +34,4 @@ engine for the generated code. We named the new language WebSQL and
 published a paper on it.
 
 Meanwhile, Ioana was working on a Simulated Annealing algorithm for
-graph coloring.
+graph coloring, related to Ramsey theory. Very cool stuff! 
