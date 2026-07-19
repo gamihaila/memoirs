@@ -42,7 +42,7 @@ the work PC, and getting used to the newest peripheral, the mouse, of course in
 text mode, but still a great improvement over arrow keys. I left that job after
 about six months. Dana left around the same time too: she had applied for
 graduate school in France, and had obtained a scholarship at the famous École
-normale supérieure in Paris.
+Normale Supérieure in Paris.
 
 My next job was in a startup called Omnis Group. This is where I first saw a
 graphical operating system, the new Microsoft Windows 3.1, in 1991. I learned
