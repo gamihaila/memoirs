@@ -35,7 +35,7 @@ secretary, an old Russian lady called Tamara. Right around that time my parents
 were visiting from Romania, and I took them with me to visit my new prospective
 office at Columbia University. When we got there, I introduced them to
 Tamara. My father started talking to her in Russian, telling her about his PhD
-from Moscow's State University and was currently the head of the Slavic
+from Moscow's State University and his current work as the head of the Slavic
 Languages department at the University of Bucharest. I don't know what else they
 talked about, but the net result was that Tamara managed to squeeze the highest
 pay rate for my class, ten thousand dollars per quarter. Not bad at all for a
