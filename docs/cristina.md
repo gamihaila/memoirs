@@ -72,6 +72,5 @@ Monaco, but it was painful to be next to her and yet so far, emotionally.  After
 I got back to Toronto I kept writing to her and calling her, but she never
 answered, except to tell me to stop calling.
 
-[^1]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la
-    Huchette since 1957.
+[^1]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
 [^2]: About Time, 2013

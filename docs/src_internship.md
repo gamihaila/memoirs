@@ -240,9 +240,4 @@ following Lara's push to go meet Laura's best friend, despite my reluctance. Had
 I made any other choice in any one of these steps, my daughters would not have
 been born. But let's not jump ahead.
 
-[^1]Actually, that's not quite true: a year later, during a conference trip to
-Amsterdam I called her on the phone and she invited me to visit her in Paris. I
-hopped on the TGV train and four hours later I was there. She was waiting for me
-at the train station. She was looking much better now and was clearly happy: she
-was in a committed relationship with another French man. They got married the
-following year.
+[^1]: Actually, that's not quite true: a year later, during a conference trip to Amsterdam I called her on the phone and she invited me to visit her in Paris. I hopped on the TGV train and four hours later I was there. She was waiting for me at the train station. She was looking much better now and was clearly happy: she was in a committed relationship with another French man. They got married the following year.
