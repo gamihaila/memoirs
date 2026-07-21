@@ -108,7 +108,7 @@ It so happened that both start-ups were in Seattle so they could share the
 travel expenses for my interviews. So I got on a plane and flew to Seattle, all
 expenses paid. First, I interviewed at Crossgain: they had me meet with several
 engineers and code on the whiteboard, then Adam invited me in his office to
-offer me software engineer job. I told him I already have an offer for research
+offer me a software engineer job. I told him I already have an offer for a research
 position from IBM but I took his written offer and told him I'll give him an
 answer soon.
 
