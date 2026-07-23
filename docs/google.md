@@ -17,7 +17,7 @@ it into actual products that people used? Not many. You see, I had this nagging
 feeling that my effort was largely irrelevant, removed as I was from production.
 
 This was what made the Google offer so attractive: I was finally going to
-directly contribute to a product used everyday by so many people.
+directly contribute to a product used every day by so many people.
 
 And Google understood how to curate an exciting and fun on-boarding experience
 for the new hires, which in turn allowed people to become productive faster. Let
