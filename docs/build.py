@@ -15,24 +15,32 @@ import markdown
 
 
 def parse_contents(path='contents.yaml'):
-    """Parse the simple, tailored contents.yaml into (meta, chapters)."""
+    """Parse the simple, tailored contents.yaml into (meta, chapters).
+
+    The `metadata:` block is a list of single-key items (`- key: value`)
+    rather than nested mappings, so its entries are flattened straight
+    into the same `meta` dict as the top-level `title`/`author`/etc. keys.
+    """
     meta = {}
     chapters = []
     cur = None
+    section = None  # None | 'metadata' | 'chapters'
     with open(path, encoding='utf-8') as f:
-        in_chapters = False
         for raw in f:
             line = raw.rstrip('\n')
             if not line.strip():
                 continue
-            if line.startswith('chapters:'):
-                in_chapters = True
+            if line.startswith('metadata:'):
+                section = 'metadata'
                 continue
-            if not in_chapters:
-                if ':' in line:
-                    k, v = line.split(':', 1)
-                    meta[k.strip()] = v.strip()
-            else:
+            if line.startswith('chapters:'):
+                section = 'chapters'
+                continue
+            if section == 'metadata':
+                m = re.match(r'\s*-\s*(\w+):\s*(.*)', line)
+                if m:
+                    meta[m.group(1).strip()] = m.group(2).strip()
+            elif section == 'chapters':
                 m = re.match(r'\s*-\s*file:\s*(.+)', line)
                 if m:
                     if cur:
@@ -42,6 +50,9 @@ def parse_contents(path='contents.yaml'):
                     m2 = re.match(r'\s*title:\s*(.+)', line)
                     if m2 and cur is not None:
                         cur['title'] = m2.group(1).strip()
+            elif ':' in line:
+                k, v = line.split(':', 1)
+                meta[k.strip()] = v.strip()
         if cur:
             chapters.append(cur)
     return meta, chapters
@@ -53,6 +64,11 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     author = meta.get('author', '')
     lang = meta.get('language', 'en')
     cover = meta.get('cover', '')
+    cover_author = meta.get('cover_author', '')
+    publication_date = meta.get('publication_date', '')
+    copyright_holder = meta.get('copyright', '') or author
+    revision_date = meta.get('revision_date', '')
+    dedication = meta.get('dedication', '')
 
     # Reuse a single Markdown instance and reset() per chapter with UNIQUE_IDS
     # so footnote ids (fn:1, fnref:1, ...) get a per-chapter prefix. Otherwise
@@ -85,16 +101,47 @@ def build(contents_path='contents.yaml', out_path='index.html'):
             
     toc = '\n'.join(toc_items)
     chapters_joined = '\n'.join(chapter_html)
-    cover_html = (
-        f'    <img class="cover" src="{html.escape(cover)}" alt="Cover">\n'
-        if cover else '')
+
+    cover_html = ''
+    if cover:
+        cover_html = f'    <img class="cover" src="{html.escape(cover)}" alt="Cover">\n'
+        if cover_author:
+            cover_html += (
+                f'    <p class="cover-credit">Cover art by '
+                f'{html.escape(cover_author)}</p>\n')
+
+    dedication_html = ''
+    if dedication:
+        dedication_html = f'''
+<section class="dedication">
+  <p>{html.escape(dedication)}</p>
+</section>
+'''
+
+    meta_tag_lines = [f'<meta name="author" content="{html.escape(author)}">']
+    if publication_date:
+        meta_tag_lines.append(
+            f'<meta name="dcterms.date" content="{html.escape(publication_date)}">')
+    if revision_date:
+        meta_tag_lines.append(
+            f'<meta name="dcterms.modified" content="{html.escape(revision_date)}">')
+    if copyright_holder:
+        meta_tag_lines.append(
+            f'<meta name="copyright" content="{html.escape(copyright_holder)}">')
+    meta_tags = '\n'.join(meta_tag_lines)
+
+    footer_sub = ' &middot; '.join(
+        part for part in [
+            f'Published {html.escape(publication_date)}' if publication_date else '',
+            f'Revised {html.escape(revision_date)}' if revision_date else '',
+        ] if part)
 
     doc = f'''<!DOCTYPE html>
 <html lang="{html.escape(lang)}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="{html.escape(author)}">
+{meta_tags}
 <title>{html.escape(title)}</title>
 <style>
   :root {{
@@ -144,6 +191,20 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     color: var(--muted);
     font-style: italic;
     margin: 0;
+  }}
+  header.title-page .cover-credit {{
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }}
+
+  section.dedication {{
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
   }}
 
   nav.toc {{
@@ -218,6 +279,9 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     font-size: .8rem;
     padding: 4vh 32px 8vh;
   }}
+  footer .revision {{
+    margin-top: .4em;
+  }}
 
   @media (max-width: 600px) {{
     body {{ font-size: 21px; }}
@@ -233,7 +297,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 {cover_html}    <h1>{html.escape(title)}</h1>
     <p class="author">{html.escape(author)}</p>
 </header>
-
+{dedication_html}
 <nav class="toc">
   <h2>Contents</h2>
   <ol>
@@ -246,7 +310,8 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 </main>
 
 <footer>
-  &copy; {html.escape(author)}
+  <p>&copy; {html.escape(copyright_holder)}</p>
+{f'  <p class="revision">{footer_sub}</p>' if footer_sub else ''}
 </footer>
 </body>
 </html>

@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="July 23, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
 <title>From Bucharest to California</title>
 <style>
   :root {
@@ -53,6 +56,20 @@
     color: var(--muted);
     font-style: italic;
     margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
   }
 
   nav.toc {
@@ -127,6 +144,9 @@
     font-size: .8rem;
     padding: 4vh 32px 8vh;
   }
+  footer .revision {
+    margin-top: .4em;
+  }
 
   @media (max-width: 600px) {
     body { font-size: 21px; }
@@ -140,9 +160,14 @@
 <a id="top"></a>
 <header class="title-page">
     <img class="cover" src="cover.jpg" alt="Cover">
+    <p class="cover-credit">Cover art by Sabina Xenia Mihaila</p>
     <h1>From Bucharest to California</h1>
     <p class="author">George A. Mihaila</p>
 </header>
+
+<section class="dedication">
+  <p>To my parents.</p>
+</section>
 
 <nav class="toc">
   <h2>Contents</h2>
@@ -2195,7 +2220,8 @@ California, after that internship in 1999, and after the long winters in New Yor
 </main>
 
 <footer>
-  &copy; George A. Mihaila
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised July 23, 2026</p>
 </footer>
 </body>
 </html>

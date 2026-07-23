@@ -2,7 +2,14 @@ title: From Bucharest to California
 author: George A. Mihaila
 language: en
 
-cover: cover.jpg              
+cover: cover.jpg
+
+metadata:
+  - cover_author: Sabina Xenia Mihaila
+  - publication_date: June 18, 2026
+  - copyright: George Andrei Mihaila
+  - revision_date: July 23, 2026
+  - dedication: To my parents.
 
 chapters:
   - file: childhood.md
