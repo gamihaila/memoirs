@@ -73,15 +73,13 @@ had to conform to the internal style guidelines, and be reviewed by an engineer
 who had "readability certification" for that specific programming language. A
 new hire could only apply for that certification after writing some substantial
 amount of original code in that language. The justification that was often
-invoked was that "a program is read by a computer only once (when it is
-compiled), but it is read by humans many times (whenever it needs to be
-changed)". 
+invoked was that "source code is read by a computer only once, but it is read by humans many times". 
 
 And the senior engineers were dead serious on not approving anything until it
-was perfectly designed and thoroughly tested. As you can imaging, this slowed me
+was perfectly designed and thoroughly tested. As you can imagine, this slowed me
 down significantly. I had my first results relatively quickly but I couldn't
 merge my code for weeks. Meanwhile, the code around my pieces would change, and
-I had to constantly readjust my own pieces to fit the new structures.
+I had to constantly readjust my own code to fit the new structures.
 
 Finally, after about six months my new feature was ready to launch! I cannot
 express in words the joy I experienced when I typed my first query on my
