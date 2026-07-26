@@ -30,4 +30,60 @@ use the Google internal source control system), "Word count with MapReduce" (how
 to use the massively parallel computing environment to process large amounts of
 data quickly), "Borg" (the internal cloud infrastructure), and others like
 these.  It really felt like we were briefed on a highly advanced software
-engineering wonderland, because that's exactly what this was!
+engineering wonderland, because that's exactly what this was! Everything was
+carefully designed for maximum effect, from the playfully colored interior
+design and the free food and gourmet coffee, to the design of the internal
+websites we used every day. The internal classes didn't end after the first two
+weeks, there were lots more hands-on "labs" available on the intranet, each one
+of them personalized for each engineer, already configured to work
+out-of-the-box with one's work account. 
+
+But the thing that shocked me the most was the availability of seemingly
+unlimited computing resources. Let me explain. For my starter project I was
+assigned a new feature for an experimental question-answering system. The system
+was designed to provide short answers to factual entity-attribute type
+questions, like "What is the height of the Empire State Building?". My task was
+to extend this system to also handle questions where the answer was a list, like
+"What is the cast of Casablanca?". In order to do that, I had to implement a
+MapReduce job to extracted lists from the Web and associate them with
+entity-attribute pairs (eg. Casablanca-cast). I implemented a first solution
+using what I had just learned from the introductory class and it was time to
+test it. I asked a teammate if I can test it on some sample data, and he looked
+at me surprised and said: 
+
+"Why bother with sample data, just run it on the whole Web corpus.".
+
+"Wouldn't that take a long time?", I asked. 
+
+"No, just submit it to Borg and ask for 5,000 machines. It will be done in an
+hour or so."
+
+I could not believe it! At any other previous job, including IBM, I would need
+to have a good reason to request access to a cluster of 10 servers, most of my
+work was done on a single machine. Here, I could request 5,000 machines just
+like that, and process the whole Web in an hour! It was amazing.
+
+Now, that's not to say it was easy getting things done. I had not been a
+professional software engineer for over 15 years now, all the coding I've done
+lately was for research prototypes, working mostly on my own. Here, all the code
+had to go through peer review before it could be committed into the
+repository. For new hires, there was an additional "readability review", in
+addition to the regular code review. To be approved, every code change I made
+had to conform to the internal style guidelines, and be reviewed by an engineer
+who had "readability certification" for that specific programming language. A
+new hire could only apply for that certification after writing some substantial
+amount of original code in that language. The justification that was often
+invoked was that "a program is read by a computer only once (when it is
+compiled), but it is read by humans many times (whenever it needs to be
+changed)". 
+
+And the senior engineers were dead serious on not approving anything until it
+was perfectly designed and thoroughly tested. As you can imaging, this slowed me
+down significantly. I had my first results relatively quickly but I couldn't
+merge my code for weeks. Meanwhile, the code around my pieces would change, and
+I had to constantly readjust my own pieces to fit the new structures.
+
+Finally, after about six months my new feature was ready to launch! I cannot
+express in words the joy I experienced when I typed my first query on my
+Android phone "Who are the four Beatles?" on google.com and I saw the results
+prominently shown on the top of the results page!
