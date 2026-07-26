@@ -45,9 +45,9 @@ was designed to provide short answers to factual entity-attribute type
 questions, like "What is the height of the Empire State Building?". My task was
 to extend this system to also handle questions where the answer was a list, like
 "What is the cast of Casablanca?". In order to do that, I had to implement a
-MapReduce job to extracted lists from the Web and associate them with
+program to extract lists from the Web and associate them with
 entity-attribute pairs (eg. Casablanca-cast). I implemented a first solution
-using what I had just learned from the introductory class and it was time to
+using what I had just learned from the introductory MapReduce class and it was time to
 test it. I asked a teammate if I can test it on some sample data, and he looked
 at me surprised and said: 
 
