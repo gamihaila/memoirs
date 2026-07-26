@@ -2249,7 +2249,55 @@ use the Google internal source control system), &ldquo;Word count with MapReduce
 to use the massively parallel computing environment to process large amounts of
 data quickly), &ldquo;Borg&rdquo; (the internal cloud infrastructure), and others like
 these.  It really felt like we were briefed on a highly advanced software
-engineering wonderland, because that&rsquo;s exactly what this was!</p>
+engineering wonderland, because that&rsquo;s exactly what this was! Everything was
+carefully designed for maximum effect, from the playfully colored interior
+design and the free food and gourmet coffee, to the design of the internal
+websites we used every day. The internal classes didn&rsquo;t end after the first two
+weeks, there were lots more hands-on &ldquo;labs&rdquo; available on the intranet, each one
+of them personalized for each engineer, already configured to work
+out-of-the-box with one&rsquo;s work account. </p>
+<p>But the thing that shocked me the most was the availability of seemingly
+unlimited computing resources. Let me explain. For my starter project I was
+assigned a new feature for an experimental question-answering system. The system
+was designed to provide short answers to factual entity-attribute type
+questions, like &ldquo;What is the height of the Empire State Building?&rdquo;. My task was
+to extend this system to also handle questions where the answer was a list, like
+&ldquo;What is the cast of Casablanca?&rdquo;. In order to do that, I had to implement a
+MapReduce job to extracted lists from the Web and associate them with
+entity-attribute pairs (eg. Casablanca-cast). I implemented a first solution
+using what I had just learned from the introductory class and it was time to
+test it. I asked a teammate if I can test it on some sample data, and he looked
+at me surprised and said: </p>
+<p>&ldquo;Why bother with sample data, just run it on the whole Web corpus.&rdquo;.</p>
+<p>&ldquo;Wouldn&rsquo;t that take a long time?&rdquo;, I asked. </p>
+<p>&ldquo;No, just submit it to Borg and ask for 5,000 machines. It will be done in an
+hour or so.&rdquo;</p>
+<p>I could not believe it! At any other previous job, including IBM, I would need
+to have a good reason to request access to a cluster of 10 servers, most of my
+work was done on a single machine. Here, I could request 5,000 machines just
+like that, and process the whole Web in an hour! It was amazing.</p>
+<p>Now, that&rsquo;s not to say it was easy getting things done. I had not been a
+professional software engineer for over 15 years now, all the coding I&rsquo;ve done
+lately was for research prototypes, working mostly on my own. Here, all the code
+had to go through peer review before it could be committed into the
+repository. For new hires, there was an additional &ldquo;readability review&rdquo;, in
+addition to the regular code review. To be approved, every code change I made
+had to conform to the internal style guidelines, and be reviewed by an engineer
+who had &ldquo;readability certification&rdquo; for that specific programming language. A
+new hire could only apply for that certification after writing some substantial
+amount of original code in that language. The justification that was often
+invoked was that &ldquo;a program is read by a computer only once (when it is
+compiled), but it is read by humans many times (whenever it needs to be
+changed)&rdquo;. </p>
+<p>And the senior engineers were dead serious on not approving anything until it
+was perfectly designed and thoroughly tested. As you can imaging, this slowed me
+down significantly. I had my first results relatively quickly but I couldn&rsquo;t
+merge my code for weeks. Meanwhile, the code around my pieces would change, and
+I had to constantly readjust my own pieces to fit the new structures.</p>
+<p>Finally, after about six months my new feature was ready to launch! I cannot
+express in words the joy I experienced when I typed my first query on my
+Android phone &ldquo;Who are the four Beatles?&rdquo; on google.com and I saw the results
+prominently shown on the top of the results page!</p>
       <p class="top-link"><a href="#top">&uarr; Contents</a></p>
     </section>
 </main>
