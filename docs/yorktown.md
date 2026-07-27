@@ -57,7 +57,7 @@ to wait too long: Irina was born four years after Maria, in 2005, followed by
 Ileana in 2007. Our youngest daughter Xenia waited four more years after that.
 
 By 2010, though, after ten years of IBM Research, I got a call from a Google
-recruiter: "Hello, remember us, you rejected our offer back in 2001. Did you get
+recruiter: "Hello, remember us, you rejected our offer back in 2000. Did you get
 enough of IBM by now? You know, we just opened an office in New York and we
 would love to invite you to visit for an interview, no obligations, what do you
 say? You wouldn't even need to move." Hmm, at that time, I have to say, my work
