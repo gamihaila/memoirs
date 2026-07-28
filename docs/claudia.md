@@ -78,17 +78,23 @@ from other friends, that was my impression too. So, I stayed in
 Toronto and continued my doctoral studies, but I kept coming back for
 summer vacations every year.
 
-I remember one of these times, circa 1997, she took me to a piano bar
-downtown, and we listened to jazz while sipping wine. It was a very
-different Bucharest compared to the one I had left behind in 1993,
-sophisticated and high class, not that different from the Toronto jazz
-scene.  Another time I borrowed a VCR from my friend Marian and we
-watched together a tape with Woody Allen's Bananas movie, with me
-translating the more difficult parts for her (she was learning English
-at the time).  
+I remember one of these times, circa 1997, she took me to a piano bar downtown,
+and we listened to jazz while sipping wine. It was a very different Bucharest
+compared to the one I had left behind in 1993, sophisticated and high class, not
+that different from the Toronto jazz scene.  Another time I borrowed a VCR from
+my friend Marian and we watched together a tape with Woody Allen's Bananas
+movie, with me translating the more difficult parts for her (she was learning
+English at the time).
 
-On my 30th birthday, my parents had a small party for me in their apartment. Other than my sister Ileana and her son Mihai, only my childhood friend Marian and his wife Ana-Maria were coming. Most of my other friends had since left the country; the few that were still around I had lost contact with. 
-I invited Claudia too, and she dropped everything and came. We all sat around the large living room table and had a lively conversation with my parents about, among other things, the various small business attempts our friends tried over the years since the Revolution, all of them failed or barely scraping by. It was a lovely little party, with none of the drama of my 20th birthday party. 
+On my 30th birthday, my parents had a small party for me in their
+apartment. Other than my sister Ileana and her son Mihai, only my childhood
+friend Marian and his wife Ana-Maria were coming. Most of my other friends had
+since left the country; the few that were still around I had lost contact with.
+I invited Claudia too, and she dropped everything and came. We all sat around
+the large living room table and had a lively conversation with my parents about,
+among other things, the various small business attempts our friends tried over
+the years since the Revolution, all of them failed or barely scraping by. It was
+a lovely little party, with none of the drama of my 20th birthday party.
 
 
 Evert summmer I went with Claudia and her

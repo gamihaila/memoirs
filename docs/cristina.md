@@ -150,6 +150,37 @@ yet so far, emotionally.  After I got back to Toronto I kept writing
 to her and calling her, but she never answered, except to tell me to
 stop calling.
 
+The following summer I was back in Paris, for a second INRIA internship, to
+continue working with Louiqa and Anthony on the project we started, which had
+since become the main topic of my doctoral research: WebSemantics, a system of
+publishing, locating and querying Web-accessible data sources.
+
+Naturally, as soon as I arrived to the Résidence André Honnorat, I looked for
+Cristina but she wasn't living there anymore. The concierge to the rescue: I
+asked her if she Cristina had left a forwarding address by any chance. She
+hadn't. However, thanks to the Minitel again, the concierge was able to find her
+new phone number for me. 
+
+I called her and left a message on her answering machine. A few days later she
+came to the Cite Universitaire and we met again. She was in a good mood, telling
+me about this French guy she was now dating, how he has a private plane and was
+flying her all over France. I was over her by now, but was happy to see her
+again.
+
+In the following weeks I met several American girls who were there on exchange
+programs for the summer, and I was more than happy to act as their chaperon on
+their visits to the Eiffel Tower, the Sacré-Cœur Bassilica, the Latin Quarters,
+and even the Versailles castle and gardens. I had figured out an infallible
+system: whenever I would go for dinner at the Cite Universitaire cafeteria
+(which had great food at subsidized prices, by the way), I would find a table
+with two or three girls sitting by themselves, and ask them in English if I
+could join them. I figured out pretty quickly that they were much more open to
+meeting new people than back home, since they were in Paris now, away from their
+regular friends from college. Also, I was older than them, trustworthy looking,
+spoke both English and French well, and they figured they would rather have me
+accompany them on their visits than go alone and face the relentless passes from
+French guys on the street. It was a win-win situation!
+
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 [^2]: "Ah, one of our residents is from Romania too."
 [^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
