@@ -31,7 +31,7 @@ when we were walking back from the dining hall together, we had a longer walk
 holding hands and at one point Ioana found a nice spot on a stone bench and
 suggested we could sit down and listen to the music (somebody was playing the
 guitar in the distance). So we did, and she was gazing into my eyes and smiling
-in such a way that even I understood and I kissed her. This was my very first
+in such a way that even I understood and kissed her. This was my very first
 kiss, and I got so carried away that I blurted "I love you, Ioana!". She started
 laughing and pointed out: "Love me? You barely know me". I was mortified and
 could not speak another word for the rest of our walk back to the dorms. She
@@ -82,7 +82,7 @@ of my league.
 However, in the summer vacation after our second year there was a summer camp in
 Sinaia, the best known resort in the Carpathian Mountains. The camp was
 completely free of charge, but many students from the whole country applied to
-go and the spots were given in the order of the GPAs. Me and Dana got in, Ioana
+go and the spots were given in the order of the GPAs. Dana and I got in, Ioana
 didn't. No matter, a lot of students would sneak in their friends in the cabins,
 and the organizers were known to silently tolerate this, as long as people were
 discreet about it. So, since we were all friends, Dana offered to sneak Ioana in
@@ -112,7 +112,7 @@ uninspiring.
 place where we can eat some actual food".
 
 The thing is, at that time all restaurants had pretty basic menus, and in any
-case they were above our budget. So me and Ioana followed Dana somewhat
+case they were above our budget. So Ioana and I followed Dana somewhat
 reluctantly, not quite knowing what to expect. To our surprise, she led us to a
 very elegant, recently renovated building, that looked like an inn, but was
 completely unmarked and it didn't look like it was open to the public. She
@@ -138,7 +138,7 @@ of the compartment for a bit, Dana came after me and said: "Hey, what if we got
 off at the next station and left Ioana in the train, what do you
 say?". Aarrghhh!
 
-After that summer camp, me and Ioana went camping at the beach in a larger
+After that summer camp, Ioana and I went camping at the beach in a larger
 group, for plausible deniability reasons, and her parents pretended not to
 figure this out. I remember we got to the camping site late in the evening,
 after the office was closed, so we couldn't register properly until the office
