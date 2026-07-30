@@ -191,8 +191,9 @@
       <li><a href="#ch17"><span class="toc-num">17</span><span class="toc-title">Reconciliation</span></a></li>
       <li><a href="#ch18"><span class="toc-num">18</span><span class="toc-title">Moving to America</span></a></li>
       <li><a href="#ch19"><span class="toc-num">19</span><span class="toc-title">Yorktown Heights</span></a></li>
-      <li><a href="#ch20"><span class="toc-num">20</span><span class="toc-title">Google</span></a></li>
+      <li><a href="#ch20"><span class="toc-num">20</span><span class="toc-title">Google New York</span></a></li>
       <li><a href="#ch21"><span class="toc-num">21</span><span class="toc-title">Moving to California</span></a></li>
+      <li><a href="#ch22"><span class="toc-num">22</span><span class="toc-title">Google Mountain View</span></a></li>
   </ol>
 </nav>
 
@@ -2221,7 +2222,7 @@ California, after that internship in 1999, and after the long winters in New Yor
     </section>
     <section class="chapter" id="ch20">
       <p class="chapter-num">Chapter 20</p>
-      <h2>Google</h2>
+      <h2>Google New York</h2>
 <p>I started my new job at Google in December 2010, ten years after I rejected
 their first offer. After actually experiencing the day to day life of a
 researcher, I was now going full circle to an engineering position, the very
@@ -2390,7 +2391,72 @@ breaking the one year lease early, but it was worth it: we got our
 daughters into good schools and my commute became walking distance! I
 actually started walking or cycling to the office almost every day, an
 amazing improvement after the two-hour commute to the New York office!</p>
+      <p class="top-link"><a href="#top">&uarr; Contents</a></p>
+    </section>
+    <section class="chapter" id="ch22">
+      <p class="chapter-num">Chapter 22</p>
+      <h2>Google Mountain View</h2>
 <p>At work, the project was going well, we were still meeting with my
+former teammates regularly over videoconference, with me working
+inside the Research team this time. It seemed to be everything I ever
+wanted from a Research position, but with actual product impact. That
+arrangement didn’t last long, it did however morph into something
+better, although I didn’t quite see it at the time. Let me explain.</p>
+<p>It started with one of the engineers in the Research team announcing
+his transfer into a product team within Search. It was a team that was
+planning to develop a long-form question answering system, that is, a
+system that would answer in complete sentences, not just short factual
+answers to entity-attribute queries.  A few days after that, we got
+invited to a meeting with the architect of that new system on neutral
+ground, in a meeting room half-way across the campus, between the
+Research building and the Search building, on Shoreline boulevard. It
+was a momentous and consequential moment, although I had no idea at
+the time. A couple of days later, the manager of that team came to see
+me and ask me if I would like to join his team. As I had just
+transferred into my current team, I declined, saying that I quite
+enjoyed working with my new team, and also that I would have to
+consult with my manager. That’s when he clarified: “Oh, I already
+spoke to your manager, your entire team is joining our project.”</p>
+<p>That completely changed the situation: unbeknownst to me, there was a
+Google-wide effort underway to “embed” researchers into the product
+teams, to have them work side by side with the software engineers to
+build products. A totally reasonable idea, in my opinion, as I had
+already seen the challenges of keeping Research separate from
+Engineering in IBM’s case. The best way it was described to me was
+that trying to get research ideas into production as like pushing on a
+rope: it only works if the other party (Engineering) is pulling. So,
+we all moved into the Search Division and got assigned to this new
+project. Of course, short answers would get incorporated into the long
+answers, and our short answer candidates would be a critical signal
+for scoring the candidate sentences. There was a lot more that needed
+to be figured out though. So the team grew more, and many different
+subsystems were developed to realize this vision.</p>
+<p>I learned a lot during that process: I remember our new manager coming
+to our desks to ask why our experimental system was giving a wrong
+answer, and we didn’t have an easy way to answer that. “We would need
+to add some debugging print statements, compile the code, and run it
+again to trace the exact scores produced by the subsystems”. “No”, he
+said, “I know you can do that for this particular case, but I want to
+be able to debug the scoring myself anytime I see a wrong answer”. It
+hadn’t occurred to me that a simple observability change like this
+could be so valuable. So we set out to add a detailed “debug mode”
+internal URL parameter he could use anytime and get a detailed view of
+each and every scoring signal computed by the system for any given
+query. In retrospect, we should have thought about that. It reminded
+me of my manager from my first job in Toronto who was always telling
+us to “never build something that you can’t monitor”.</p>
+<p>The system grew more and more complex over time, but with each quality
+improvement it became slower and slower, to the point where it was
+frequently exceeding the timeout of 100 milliseconds the Google search
+process allocated to our question answering system. Unfortunately, a
+system that could give great answers but times out is not very useful,
+so a new team was formed to address this. A manager with a good track
+record of radical performance improvements started looking for
+engineers to work on this. He approached me with a small challenge:
+cut the running time of one of the scoring systems. I don’t remember
+now what I did, but he asked me to join his team. We first tried the
+usual tricks: run the scoring systems in paralle
+At work, the project was going well, we were still meeting with my
 former teammates regularly over videoconference, with me working
 inside the Research team this time. It seemed to be everything I ever
 wanted from a Research position, but with actual product impact. That
