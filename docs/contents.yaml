@@ -70,10 +70,13 @@ chapters:
     title: Yorktown Heights
 
   - file: google.md
-    title: Google
+    title: Google New York
 
   - file: moving_to_california.md
     title: Moving to California
 
+  - file: google_mtv.md
+    title: Google Mountain View
+    
 	 
 
