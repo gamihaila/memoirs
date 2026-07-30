@@ -64,7 +64,7 @@ map it looked like it was pretty close to Mountain View and it was the
 only place we could afford for a house of that size. We had sold our
 Yorktown Heights house at a loss (we had paid $415,000 in 2003, and we
 sold it for $299,000 in 2012, a few years after the sub-prime mortgage
-crash).
+crash). 
 
 We enjoyed our stay in Milpitas, especially the inexpensive and
 delicious Asian food there, but pretty soon we realized that the
