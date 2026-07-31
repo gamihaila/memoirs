@@ -100,10 +100,10 @@ had already filed for divorce in Canada and I had signed the papers,
 but it turns out that in Romania we were still legally married. I
 suppose we could have applied to get our Canadian divorce papers
 translated and notarized in Romania, but that was a lengthly
-process. The easiest way, by far, was to file for divorce with the Bucahrest
-Family Court, especially since our marriage was registered there. So
-since we were both in the country for vacation at the time
-we went in front of a judge for a prelimiary hearing. I remember we
+process. The easiest way, by far, was to file for divorce with the
+Bucharest Family Court, especially since our marriage was registered
+there. So since we were both in the country for vacation at the time
+we went in front of a judge for a preliminary hearing. I remember we
 were very civil to each other, to the point that the judge was
 genuinely puzzled why we were there: "Are you really sure you want to
 do this? You seem to be on such good terms with each other. Please
@@ -137,7 +137,10 @@ her up, and we would pick up right where we left off. In the meantime
 she and Mugur had split too, so for my 30th birthday I invited Claudia
 to my parents apartment for a small party. My best friend from middle
 school Marian also came, together with his wife Ana-Maria and their
-children. My sister Ileana and her young son was there too. Throughout the party, Claudia acted like a possible future fiancé, always smiling at me, complimenting my mom and having intelligent conversations with my dad and my sister. 
+children. My sister Ileana and her young son was there too. Throughout
+the party, Claudia acted like a possible future fiancé, always smiling
+at me, complimenting my mom and having intelligent conversations with
+my dad and my sister.
 
 It was the closest her orbit ever got to mine, either before or after. 
 
