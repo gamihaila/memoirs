@@ -137,6 +137,6 @@ her up, and we would pick up right where we left off. In the meantime
 she and Mugur had split too, so for my 30th birthday I invited Claudia
 to my parents apartment for a small party. My best friend from middle
 school Marian also came, together with his wife Ana-Maria and their
-two children. Interesting story I heard from Marian: he had first met
+children (he had first met
 Ana-Maria at a birthday party where Ioana and I went too, and I
-broguht him with me.
+broguht him with me).
