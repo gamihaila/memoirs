@@ -41,15 +41,15 @@ would climb ladders and pick a bag full of apples, then get down and
 unload the back into a container, and climb back up. The officers were
 keeping tallies and each evening a leaderboard would get updated with
 the top pickers. I didn't care for getting on the top of that
-leaderboard, so I picked at a leasurly pace, as did most of my peers,
-with few exceptions that were consistenly on top (I'll never know what
+leaderboard, so I picked at a leisurely pace, as did most of my peers,
+with few exceptions that were consistently on top (I'll never know what
 motivated these kids, but good for them, I guess). I never ate this
 many apples in my life, they were really delicious, a real treat,
 especially after the army food we were served. After we got back to
 the barracks in Focșani I realized that food was actually more
-nutritios than what we got afterwards, during regular training: each
+nutritious than what we got afterwards, during regular training: each
 meal, breakfast, lunch and dinner we had a variety of bean-based
-recipies, nothing else, except for the occasional fish cans and bread.
+recipes, nothing else, except for the occasional fish cans and bread.
 
 So after the harvest session, we were back in the barracks for the
 actual instruction: half of it was in-class and the other half was
@@ -70,7 +70,7 @@ topographic instruments in the field to triangulate our position using
 known landmarks, and then calculate the exact angles for the cannon to
 reach a target with known coordinates, this was the only time I
 actually got first-hand experience applying geometry in real life! I
-could not have imagined at the time that fourty years later I would be
+could not have imagined at the time that forty years later I would be
 using the same geo-coordinates from GPS-enabled iPhones for my job at
 Apple Maps.
 
@@ -84,7 +84,7 @@ hardest part, as we would soon find out.
 What could be worse, you ask? Two words: sentinel service! In the
 minus thirty degrees weather, up in the sentinel tower, in the middle
 of the night. The shift from 2 to 5 am was the worst of all. We had
-three hour shifts, follwed by six hour rest, for three days in a
+three hour shifts, followed by six hour rest, for three days in a
 row. After each of these, I was looking forward to the regular
 instruction, even the outdoors one. It turns out that Einstein was
 right: everything was relative. No matter how bad a situation is, we
@@ -98,10 +98,10 @@ patrolling back and forth at irregular intervals, my eyes could not
 stay open, I had an overpowering sleepiness but I had to stay awake
 and alert. It was torture. I would trade that for the tower anytime.
 
-After a few months of theoretical training, we went into the montains
+After a few months of theoretical training, we went into the mountains
 and actually fired some canons at targets, using our new skills. We
 failed miserably, all our projectiles fell far away from the targets,
-to the great embarassement of our commanding officers in front of
+to the great embarrassment of our commanding officers in front of
 their superiors.
 
 Finally, the nine months were coming to an end, and we could hardly
