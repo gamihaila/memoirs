@@ -8,7 +8,7 @@ metadata:
   - cover_author: Sabina Xenia Mihaila
   - publication_date: June 18, 2026
   - copyright: George Andrei Mihaila
-  - revision_date: July 30, 2026
+  - revision_date: July 31, 2026
   - dedication: To my parents.
 
 chapters:
@@ -52,13 +52,13 @@ chapters:
     title: Claudia
 
   - file: cristina.md
-    title: Cristina
+    title: INRIA Rocquencourt
 
   - file: lara.md
     title: Lara
 
   - file: src_internship.md
-    title: California 1999
+    title: SRC Palo Alto
 
   - file: gratiela.md
     title: Grațiela 
@@ -70,7 +70,7 @@ chapters:
     title: Moving to America
 
   - file: yorktown.md
-    title: Yorktown Heights
+    title: IBM Yorktown Heights
 
   - file: google.md
     title: Google New York
