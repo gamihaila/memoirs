@@ -1,4 +1,4 @@
-Finally, after spending nine months in the Army, it was time to start college, an Informatics (Computer Sciece) major in the Mathematics department of the University of Bucharest. 
+Finally, after spending nine months in the Army, it was time to start college, an Informatics (Computer Science) major in the Mathematics department of the University of Bucharest. 
 
 I, of course, didn’t have the
 faintest idea what kind of work I would be doing after
