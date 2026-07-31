@@ -18,8 +18,11 @@ chapters:
   - file: high_school.md
     title: High School 
 
+  - file: army.md
+    title: Millitary Service
+
   - file: college.md
-    title: University of Bucharest
+    title: University
 
   - file: ioana.md
     title: Ioana

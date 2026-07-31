@@ -177,35 +177,39 @@ in the dorm until she can find a place to stay", she said.
 It was a fateful moment. I remember precisely how I jumped at the
 opportunity:
 
-"Oh, I don't know how to say it, and please don't take it the wrong way, but I
-do have a spare room in my apartment, and you're welcome to stay there until you
-find a place of your own". It was true, when Ioana left, I continued to rent our
-one bedroom apartment in the graduate students' family housing high rise on
-Charles Street, just minutes walking distance from campus (why would I give that
-up, just because I wasn't married anymore, it was a great deal!). In my mind I
-was sure Laura would decline, but to my surprise she gladly accepted my
-offer. She had her luggage with her and we walked together to my place right
-away. As we were walking, she told me she had just gotten married in Romania and
-her husband was going to follow her in a few months. Even though this took me by
-surprise, I didn't flinch:
+"Oh, I don't know how to say it, and please don't take it the wrong
+way, but I do have a spare room in my apartment, and you're welcome to
+stay there until you find a place of your own". It was true, when
+Ioana left, I continued to rent our one bedroom apartment in the
+graduate students' family housing high rise on Charles Street, just
+minutes walking distance from campus (why would I give that up, just
+because I wasn't married anymore, it was a great deal!). In my mind I
+was sure Laura would decline, but to my surprise she gladly accepted
+my offer. She had her luggage with her and we walked together to my
+place right away. As we were walking, she told me she had just gotten
+married in Romania and her husband was going to follow her in a few
+months. Even though this took me by surprise, I didn't flinch:
 
-"Oh, hopefully by the time he comes you can find your own place, but if you
-don't, he's welcome to stay in my living room with you, of course!"
+"Oh, hopefully by the time he comes you can find your own place, but
+if you don't, you're both welcome to stay in my living room as long as
+you need."
 
-Laura was overjoyed to hear this. She had a great disposition by nature, and she
-was naturally happy for this unexpected turn of events: just that morning she
-was sharing a tiny dorm room with her friend and now she was moving into a nice
-apartment for a very good rent (half of my $500 a month subsidized student
-rent). And I must have looked trustworthy enough to her to move in with me
-(rightfully so, if I may say so myself). I introduced her to Lara, who didn't
-see any issue in us sharing a place. That put Laura at ease even more and she
-cheerfully described the arrangement in her email messages to her former dorm
-roommate in Bucharest, Gratiela:
+Laura was overjoyed to hear this. She had a great disposition by
+nature, and she was naturally happy for this unexpected turn of
+events: just that morning she was sharing a tiny dorm room with her
+friend and now she was moving into a nice apartment for a very good
+rent (half of my $500 a month subsidized student rent). And I must
+have looked trustworthy enough to her to move in with me (rightfully
+so, if I may say so myself). I introduced her to Lara, who didn't see
+any issue in us sharing a place. That put Laura at ease even more and
+she cheerfully described the arrangement in her email messages to her
+former dorm roommate in Bucharest, Grațiela:
 
-"I am living with a CS grad student George in his one bedroom apartment next to
-campus. On weekends we go cycling to the lake and we have picnics at the
-beach. Don't worry, he has a girlfriend, a native girl named Lara, although I'm
-not sure how serious that relationship really is."
+"I am living with a CS grad student George in his one bedroom
+apartment next to campus. On weekends we go cycling to the lake and we
+have picnics at the beach. Don't worry, he has a girlfriend, a native
+girl named Lara, although I'm not sure how serious that relationship
+really is."
 
 
 It was really nice living with Laura, we became good friends right
