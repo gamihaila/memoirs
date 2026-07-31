@@ -33,5 +33,6 @@ risk: we would be talking to each other exclusively in French,
 pretending to be foreigners, on the assumption that the local
 policemen would never risk harrasing foreign tourists. She was right,
 the entire vacation we had half-price meals pretending to be a French
-couple! I have to say, I quite enjoyed pretending to be her boyfriend,
-French or no French. 
+couple! 
+
+Fast forward a couple of years, in the spring of 1992 when I left Omnis Group thinking I could focus on my teaching job at the University. I was wrong. My in-laws started to ask me to run errands for them the moment I was out from my full-time job: I apparently had too much time on my hands. I clearly needed another full-time job, and fast. Hearing me say that, Claudia offered to talk to her boss about me. She was a salesperson at the Romanian branch of Ciel!, a French accounting software company. 
