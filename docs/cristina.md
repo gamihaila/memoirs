@@ -56,8 +56,9 @@ the top tier, the graduates of the Ecole Normale Superieure, which
 were guaranteed life-long employment in the State instututions. I was
 ready to face my peers at the INRIA!
 
-When I arrived at the Résidence André Honnorat inside the Cité
-Universitaire, I first went to the office to get my room keys. The
+The next day I went to the Résidence André Honnorat inside the Cité
+Universitaire. 
+Once there, I first went to the office to get my room keys. The
 administrator lady was super friendly, asking me all kinds of
 questions about where I'm from and what brings me to Paris. I was
 happy to practice my French with her and I mentioned that I'm
