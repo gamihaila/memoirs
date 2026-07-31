@@ -137,6 +137,7 @@ her up, and we would pick up right where we left off. In the meantime
 she and Mugur had split too, so for my 30th birthday I invited Claudia
 to my parents apartment for a small party. My best friend from middle
 school Marian also came, together with his wife Ana-Maria and their
-children (he had first met
-Ana-Maria at a birthday party where Ioana and I went too, and I
-broguht him with me).
+children. My sister Ileana and her young son was there too. Throughout the party, Claudia acted like a possible future fiancé, always smiling at me, complimenting my mom and having intelligent conversations with my dad and my sister. 
+
+It was the closest her orbit ever got to mine, either before or after. 
+
