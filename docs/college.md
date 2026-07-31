@@ -1,8 +1,10 @@
-So, Mathematics-Informatics it  was.   I, of course, didn’t have the
+Finally, after spending nine months in the Army, it was time to start college, an Informatics (Computer Sciece) major in the Mathematics department of the University of Bucharest. 
+
+I, of course, didn’t have the
 faintest idea what kind of work I would be doing after
 graduating—perhaps some coding in a state-run data center, still
 better than being sent to teach math in some remote village. This was
-1985 Romania, and I still hadn’t seen an actual computer, much less
+1986 Romania, and I still hadn’t seen an actual computer, much less
 run any code on it. All the programs I had written so far were
 handwritten on paper and “executed” by hand, by tracing them.
 
