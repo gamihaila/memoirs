@@ -34,7 +34,7 @@ I got out of the airport and looked for the city shuttle. I checked
 the bus sign, it was going to Hotel Meridien, as Dana had said. So I
 got onboard, and after a long drive we arrived. I did notice we were
 heading towards the edge of the city, which was a little odd, because
-Dana told me she lives close to to the center, but the hotel had the
+Dana told me she lives close to the center, but the hotel had the
 right name: Hotel Meridien. So I got off with my luggage and
 waited. And waited. And waited some more. At first, I didn't get too
 worrired, as punctuality was never Dana's strongest suit. But after an
