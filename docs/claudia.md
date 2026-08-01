@@ -43,7 +43,7 @@ too much time on my hands. I clearly needed another full-time job, and
 fast. Hearing me say that, Claudia offered to talk to her boss about
 me. She was a salesperson at the Romanian branch of Ciel!, a French
 accounting software company. And wouldn't you know it, he called me
-for an interview the very next week! I remember going to their office
+for an interview the very next week! on the appointed day I went to their office
 in the Bucharest Hotel, remembering how I had carried bricks when the
 hotel was being built during my high school mandatory "volunteering"
 weeks (we were all taken out of regular classes for two weeks to work
@@ -114,11 +114,11 @@ hearing. As this date was after we were due back in Toronto, I gave
 power of attorney to my sister, and Ioana to her dad. So six months
 later, my sister and Ioana's dad got us divorced by proxy.
 
-As I still had some time left from my vacation, I joined Claudia and
+The subsequent summer, in 1997, 
+I joined Claudia and
 Mugur on a trip to the Black Sea. They were nice enough to invite me,
 and in my naivete I thought we were all going to share a room, as good
-friends. Claudia was purposely keeping things vague, and I honestly
-didn't know that in the meantime she and Mugur had gotten closer. To
+friends. Claudia was purposely keeping things vague. To
 this day, I don't quite know what that was, because at no point did
 she admit to be in an official relationship with him. We all went in
 Mugur's car, he drove the whole way to Eforie Nord (a Black Sea
@@ -134,7 +134,9 @@ looks.
 
 In the following years, every time I visited my parents I would call
 her up, and we would pick up right where we left off. In the meantime
-she and Mugur had split too, so for my 30th birthday I invited Claudia
+she and Mugur had split up too.
+
+For my 30th birthday I invited her
 to my parents apartment for a small party. My best friend from middle
 school Marian also came, together with his wife Ana-Maria and their
 children. My sister Ileana and her young son was there too. Throughout
@@ -142,5 +144,17 @@ the party, Claudia acted like a possible future fiancé, always smiling
 at me, complimenting my mom and having intelligent conversations with
 my dad and my sister.
 
-It was the closest her orbit ever got to mine, either before or after. 
+The subsequent summer, in 1998, I mustered enough courage and asked her out, on an official date and she accepted! 
+
+I showed up at the Ciel! office at five, said hello to my former teammates, and took her to the Herăstrău Park. We had dinner at a nice outdoor terrace by the lake, and then we rented a rowboat and I took her on a lovely ride under the willows. After we got back on land, she took my hand and didn't let go until we got to her apartment building . She invited me upstairs to her apartment, we laid down on her bed, but when I tried to kiss her, she pulled back and said "No, I don't want to." I wax puzzled, after what I thought as a perfect date. She looked me in the eyes and said: 
+
+"Look George, you're a nice guy, I honestly wanted to give this relationship a fair chance,  but I'm afraid I can't imagine you as my M.O.M.L. I tried and tried during our date, but I just don't feel the chemistry."
+
+"Huh, what's M.O.M.L.?"
+
+"The Man Of My Life.", she clarified. "I liked Mugur too, but he wasn't my M.O.M.L. either. There is only one on this Earth for me. I haven't met him yet, but I know he's there. When I will meet him, I will love him completely!"
+
+It was the closest her orbit ever got to mine, either before or after. We remained friends to this day, and even met again a few times, whenever I visited Romania with my new family. My wife became good friends with her too. 
+
+She was still single the last time we saw her. 
 
