@@ -95,7 +95,7 @@ well-meaning French old lady as we were getting out of the Place
 Pigalle Metro station: "Faites attention aux pickpockets Roumains, il
 sont partout!". We looked her in the eyes and said: "Mais nous sommes
 Roumains aussi!". She stared at us in disbelief: "Non, avec ces yeux
-clairs?[^1] Well, it's true that right after that we identified a Roma
+clairs?"[^1] Well, it's true that right after that we identified a Roma
 young boy who was following us, and when we turned to him suddenly and
 asked him in Romanian what his business was, he answered back in
 Romanian in a whining voice "What... nothing, mister, I didn't do
