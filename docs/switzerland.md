@@ -22,16 +22,16 @@ going to Europe for vacation, and in any case I'm not looking to
 transfer there. He didn't have any more objections after that, so I
 started planning my trip.
 
-I remembered that back in 1999, during the SRC internship, I
-had participated in a brainstorming session for internet startup
-ideas. At the time, well before AirBnB, I came up with an idea of a
-website for vacation house swapping: suppose someone from New York
-wanted to visit Paris; they would post their preferred travel dates
-and details about their home on this website; then, the system would
-match them with someone from Paris who wants to visit New York during
-that same period; this way, since they would be swapping houses, they
-would trust each other to not damage the property and avoid paying for
-hotels.
+I remembered that back in 1999, during the SRC internship, I had
+participated in a brainstorming session for internet startup ideas. At
+the time, well before AirBnB, I came up with an idea of a website for
+vacation house swapping: suppose someone from New York wanted to visit
+Paris; they would post their preferred travel dates and details about
+their home on this website; then, the system would match them with
+someone from Paris who wants to visit New York during that same
+period; this way, since they would be swapping houses, I argued, they
+would trust each other to not damage their homes. The decision factors
+at SRC turned it down because of the trust and liability issues.
 
 I did a quick search on MoMa, the Google Intranet, and wouldn't you
 know it, there was an internal website that did exactly that, for
