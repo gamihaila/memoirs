@@ -49,10 +49,7 @@ chapters:
     title: Graduate School
 
   - file: divorce.md
-    title: Divorce
-
-  - file: claudia.md
-    title: Claudia
+  - title: Divorce
 
   - file: cristina.md
     title: Cristina
