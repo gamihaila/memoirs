@@ -51,7 +51,7 @@ compensation by 40%. Interested?
 "Thank you, Alon! I'll give you my answer before the end of the
 week.", I said.
 
-A bit of background is warranted here. As you saw in the previous chapters I really liked Google: I had a few successful launches, I was respected,and finally feeling my contributions mattered. However, getting to the next level felt out of reach. I already had several career progression conversations with my manager but no concrete plans. That meant my compensation was hitting a ceiling too. Now, I've never been one to chase money above all else, but at the same time we were still renting, four years after we sold our house, and the way the Bay Area real estate market was trending, we were never going to catch up. 
+A bit of background is warranted here. As you saw in the previous chapters I really liked Google: I had a few successful launches, I was respected, and finally feeling my contributions mattered. However, getting to the next level felt out of reach. I already had several career progression conversations with my manager but no concrete plans. That meant my compensation was hitting a ceiling too. Now, I've never been one to chase money above all else, but at the same time we were still renting, four years after we sold our house, and the way the Bay Area real estate market was trending, we were never going to catch up. 
 
 So I called Alon and told him I'm in. Now I had the delicate task of announcing my resignation. I grabbed my manager, we went for a walk in the beautiful Google campus, and I explained my reasoning. He asked me if there is anything he could do to make me stay. There wasn't. 
 
