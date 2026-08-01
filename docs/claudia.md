@@ -146,7 +146,7 @@ my dad and my sister.
 
 The subsequent summer, in 1998, I mustered enough courage and asked her out, on an official date and she accepted! 
 
-I showed up at the Ciel! office at five, said hello to my former teammates, and took her to the Herăstrău Park. We had dinner at a nice outdoor terrace by the lake, and then we rented a rowboat and I took her on a lovely ride under the willows. After we got back on land, she took my hand and didn't let go until we got to her apartment building . She invited me upstairs to her apartment, but when I tried to kiss her, she pulled back and said "No, I don't want to." 
+I showed up at the Ciel! office at five, said hello to my former teammates, and took her to the Herăstrău Park. We had dinner at a nice outdoor terrace by the lake, and then we rented a rowboat and I took her on a lovely ride under the willows. After we got back on land, she took my hand and didn't let go until we got to her apartment building. She invited me upstairs to her apartment, but when I tried to kiss her, she pulled back and said "No, I don't want to." 
 
 I was puzzled, especially after what I thought was a perfect date. She looked me in the eyes and said: 
 
