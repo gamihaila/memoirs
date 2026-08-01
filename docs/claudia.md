@@ -35,7 +35,7 @@ policemen would never risk harrasing foreign tourists. She was right,
 the entire vacation we had half-price meals pretending to be a French
 couple! 
 
-After Ioana and I got married, sometime around 1992, Ioana went abroad to Italy for a week, I believe for some professional training on Education. It so happened that my birthday fell during that week. I was alone at our place, when I doorbell rang: it was Claudia, with a bottle of Kiwi sparkling juice, my favorite. She knew it was my birthday and didn't want me to be alone. I will never forget this small act of kindness, it really lifted up my spirits!
+After Ioana and I got married, sometime around 1992, Ioana went abroad to Italy for a week, I believe for some professional training on Education. It so happened that my birthday fell during that week. I was alone at our place, when the doorbell rang: it was Claudia, with a bottle of Kiwi sparkling juice, my favorite. She knew it was my birthday and didn't want me to be alone. I will never forget this small act of kindness, it really lifted up my spirits!
 
 When I left
 Omnis Group thinking I could focus on my teaching job at the
