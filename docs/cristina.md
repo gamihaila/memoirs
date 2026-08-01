@@ -47,7 +47,7 @@ in front of the hotel.
 
 We arrived in front of Dana's building, and as the taxi pulled over,
 she got out at her window and waved at us. "Oh, la, la, ta petite amie
-est tres jolie", said the driver, and I agreed but in my mind I was
+est tres jolie"[^1], said the driver, and I agreed but in my mind I was
 thinking "yeah, I wish she was". Dana welcomed me very warmly, and I
 spent the night in her apartment until the next day, when my dorm room
 at the Cité Universitaire was ready. During my visit she briefed me on
@@ -64,7 +64,8 @@ questions about where I'm from and what brings me to Paris. I was
 happy to practice my French with her and I mentioned that I'm
 originally from Romania.
 
-"Ah," she replied, "one of our current residents is from Romania too."
+"Ah, oui? Une des nos résidentes viens du Roumanie aussi!"[^2] 
+
 
 She didn't have to say anything more than that; the list of residents
 was posted outside her office. I quickly scanned it and found the only
@@ -84,7 +85,7 @@ Once I got back to my dorm room that night, I went straight to
 Cristina's door and rang the doorbell.  A blonde petite girl opened
 the door. I introduced myself in French and asked her if she spoke
 Romanian by any chance. She did. We started chatting in Romanian and
-she right away mentioned a play by Eugène Ionesco[^1] we could go to
+she right away mentioned a play by Eugène Ionesco[^3] we could go to
 one day. Of course I got tickets and we went together that
 weekend. Sensing that she didn't dislike me, I took her hand during
 the play. Then we went for a long walk on the bridges of Paris.
@@ -93,7 +94,7 @@ On the following days we started commuting together to work: by chance
 our commute routes shared the first half, by RER train, metro, and
 regular train from Paris Montparnasse Station. This made the commute
 something to look forward to. Looking back, it really was just like
-the underground scenes from one of my favorite movies[^2].
+the London underground scenes from one of my favorite movies[^4].
 
 Our relationship was going so well she suggested we could take a short
 vacation together on the French Riviera.  I mentioned this to a
@@ -149,5 +150,7 @@ yet so far, emotionally.  After I got back to Toronto I kept writing
 to her and calling her, but she never answered, except to tell me to
 stop calling.
 
-[^1]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
-[^2]: About Time, 2013
+[^1]: "Oh, wow, your girlfriend is really pretty!"
+[^2]: "Ah, one of our residents is from Romania too."
+[^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
+[^4]: About Time, 2013
