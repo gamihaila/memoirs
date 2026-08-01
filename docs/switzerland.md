@@ -42,11 +42,11 @@ details on this website and waited. In a couple of weeks I got
 contacted by a Swiss engineer that was planning a trip to the Mountain
 View office in July. We exchanged several messages and we were both
 excited to save money this way, unfortunatelly at the last minute he
-had to cancel becaue his kid's school rejected his request to pull the
+had to cancel becaue his kids' school rejected his request to pull the
 kids off for a whole month (in Switzerland, kids have short vacations
 throughout the year instead of an extended summer vacation).
 
-Oh well, the back up option was AirBnB: after quite a bit of looking
+Oh well, the back-up option was AirBnB: after quite a bit of looking
 around on the site, I finally found a three bedroom apartment in
 Kusnacht, a little town on the East shore of the Lake Zurich, not too
 far from the Google office. The owner was a retired American diplomat,
