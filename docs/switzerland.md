@@ -75,8 +75,8 @@ In Switzerland, I was going to work during the week, but every weekend
 we were going to the mountains by train. One time we went to Fribourg
 to visit some family friends we met in the Saint Vladimir Seminary in
 Crestwood, New York: he was a Swiss man who was training to become an
-Orthodox priest married to a Romanian woman, and they had five kids
-about the same age as ours. I remember we had lengthy discussions
+Orthodox priest, married to a Romanian woman, and they had five kids
+about the same ages as ours. I remember we had lengthy discussions
 about life in Switzerland, part of the reason for our trip being to
 get a sense if we would ever want to move there.
 
@@ -91,15 +91,19 @@ a pretty bad reputation in Western Europe, especially Switzerland,
 because of a few illegal migrants who were getting in trouble with the
 law. We had experienced this first-hand a couple of years earlier,
 when we were vacationing in Paris and we got approached by an
-well-meaning old French lady as we were getting out of the Place
+well-meaning French old lady as we were getting out of the Place
 Pigalle Metro station: "Faites attention aux pickpockets Roumains, il
 sont partout!". We looked her in the eyes and said: "Mais nous sommes
 Roumains aussi!". She stared at us in disbelief: "Non, avec ces yeux
-clairs?[^1]
+clairs?[^1] Well, it's true that right after that we identified a Roma
+young boy who was following us, and when we turned to him suddenly and
+asked him in Romanian what his business was, he answered back in
+Romanian in a whining voice "What... nothing, mister, I didn't do
+anything!"
 
 So, as much as we liked our vacation there, we couldn't see ourselves
 leaving California for Switzerland. Come to think of it, I still can't
-imagine a better place for us.
+imagine a better place for us than America.
 
 
 
