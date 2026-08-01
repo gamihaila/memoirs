@@ -37,7 +37,7 @@ couple!
 
 After Ioana and I got married, sometime around 1992, Ioana went abroad to Italy for a week, I believe for some professional training on Education. It so happened that my birthday fell during that week. I was alone at our place, when the doorbell rang: it was Claudia, with a bottle of Kiwi sparkling juice, my favorite. She knew it was my birthday and didn't want me to be alone. I will never forget this small act of kindness, it really lifted up my spirits!
 
-When I left
+A couple months later I left my job at
 Omnis Group thinking I could focus on my teaching job at the
 University. I was wrong. My in-laws started to ask me to run errands
 for them the moment I was out from my full-time job: I apparently had
