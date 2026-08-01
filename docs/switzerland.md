@@ -1,6 +1,6 @@
 
-After that successful project, we earned the repect of our peers. From
-then on, everytime there was a performance regression introduced by a
+After that successful project, we earned the respect of our peers. From
+then on, every time there was a performance regression introduced by a
 new feature, they would come to us to advise them how to fix it. Also,
 since I was one of the engineers that set up the deployment workflows
 when we first launched the system, they would also come to me to learn
@@ -17,7 +17,7 @@ So, the next time the manager of the Zurich team came to Mountain View
 I approached him and offered to come work with his people for a
 month, in the summer. This was back in 2016. The manager was initially
 suspicious of my request, but I quickly made it clear that I'm going
-to cover all the travel and loging expenses by myself as I was anyway
+to cover all the travel and lodging expenses by myself as I was anyway
 going to Europe for vacation, and in any case I'm not looking to
 transfer there. He didn't have any more objections after that, so I
 started planning my trip.
@@ -41,25 +41,25 @@ easier. So I put my preferred travel period and my Palo Alto townhouse
 details on this website and waited. In a couple of weeks I got
 contacted by a Swiss engineer that was planning a trip to the Mountain
 View office in July. We exchanged several messages and we were both
-excited to save money this way, unfortunatelly at the last minute he
-had to cancel becaue his kids' school rejected his request to pull the
+excited to save money this way, unfortunately at the last minute he
+had to cancel because his kids' school rejected his request to pull the
 kids off for a whole month (in Switzerland, kids have short vacations
 throughout the year instead of an extended summer vacation).
 
 Oh well, the back-up option was AirBnB: after quite a bit of looking
 around on the site, I finally found a three bedroom apartment in
-Kusnacht, a little town on the East shore of the Lake Zurich, not too
+Küsnacht, a little town on the East shore of the Lake Zurich, not too
 far from the Google office. The owner was a retired American diplomat,
 who was spending his summer in the States, and he was offering his
 place at a very reasonable rate (I guess he was quite well-off to care
 about turning a profit from rentals). I jumped at this opportunity and
 wrote to the host right away, describing who I was and he agreed to
 rent his place to us. He was very helpful with local tips about things
-to do around Kusnacht, and how to keep the kids busy: he recommended a
+to do around Küsnacht, and how to keep the kids busy: he recommended a
 day camp called Milandia half an hour away by train that picked up the
 campers from their local train stations every morning and dropped them
 back in the evening. We registered two of our daughters, Irina and
-Ileana, who were 11 and 9 at the time. Our oldest daugher Maria wasn't
+Ileana, who were 11 and 9 at the time. Our oldest daughter Maria wasn't
 interested and Xenia was too young.
 
 Before Switzerland, we went to Bucharest, rented a car, and travelled
