@@ -99,8 +99,8 @@ she's not officially a camper, so she couldn't go ask anyone". I was
 suffering.
 I knew she wasn't serious, of course, but she was so beautiful, and seemed so
 playful and approachable, more than she ever was with me, that for a split
-second I really wanted to believe she liked me. But I couldn't do
-it. Eventually, the magic was gone, we got up, and got Ioana from the train.
+second I really wanted to believe she liked me. 
+But I didn't say anything. Eventually, the magic was gone, we got up, and got Ioana from the train.
 
 The camp schedule was pretty relaxed, other than the fixed times for meals we
 were free to do whatever we wanted. As we were the only ones from our school and
