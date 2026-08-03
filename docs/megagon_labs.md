@@ -97,7 +97,7 @@ has complete autonomy on the research direction of the lab and said
 that the Japanese senior enginner overstepped his authority.
 
 Not too long after this exchange, both Alon and I left Megagon
-Labs. Most of the othe senior researchers and engineers left within
+Labs. Most of the other senior researchers and engineers left within
 the year.
 
 
