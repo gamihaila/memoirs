@@ -23,7 +23,7 @@ community, eat healthy, spend time in nature, etc. Back in 2016, years
 before ChatGPT, this was a very ambitious goal, and we just didn't
 have the critical mass to pull it off.
 
-The chatbot user interface and backnd was being outsourced to
+The chatbot user interface and backend was being outsourced to
 contractors overseas, while the researchers onsite were focusing on
 the natural language understanding component. Both were advancing
 quite slowly at the time. I remember we were having a team lunch and I
