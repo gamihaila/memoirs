@@ -36,21 +36,27 @@ going to take place in Rio de Janeiro, Brazil. We had a couple of
 accepted papers at VLDB, including the one on the text extraction
 system I had worked on, so we all got to go! I even took Maria with
 me (I just had to pay for her plane ticket and student
-registration). Once there, Maria came with me to all the talks. At one
-of the tutorials, the one on semistructured data, the author included
-a slide mentioning one of my papers from the 90's. Maria's face lit
-up when she saw my name there; I didn't expect it either, so it really
-was a nice surprise for the both of us!
+registration). Our flight had an eight hour stopover in Panama, so we
+also got to see the Panama Canal on our way!
 
+Once in Rio, Maria came with me to all the talks. At one of the
+tutorials, the one on semistructured data, the author included a slide
+mentioning one of my papers from the 90's. Maria's face lit up when
+she saw my name there; I didn't expect it either, so it really was a
+nice surprise for the both of us! After the conference, Alon convinced
+all of us to take a flight to Iguaçu, to see the famous Falls. "Come
+on", I remember him saying to us, "how many times in your life would
+you have a chance to see this? Let's all go together!"  So we all
+went, including Maria, and had a great time.
 
-Pretty soon I realized that one of the major initiatives was
-developing a chatbot aiming to apply positive psychology techniques to
-improve wellbeing. Alon's vision was to build a chatbot that learned
-about you and gently nudges to do more activities that are known to
-make you happier: excercise, socialize, get involved in your
-community, eat healthy, spend time in nature, etc. Back in 2016, years
-before ChatGPT, this was a very ambitious goal, and we just didn't
-have the critical mass to pull it off.
+Pretty soon after we came back from Brasil I realized that one of the
+major initiatives was developing a chatbot aiming to apply positive
+psychology techniques to improve wellbeing. Alon's vision was to build
+a chatbot that learned about you and gently nudges to do more
+activities that are known to make you happier: excercise, socialize,
+get involved in your community, eat healthy, spend time in nature,
+etc. Back in 2016, years before ChatGPT, this was a very ambitious
+goal, and we just didn't have the critical mass to pull it off.
 
 The chatbot user interface and backend was being outsourced to
 contractors overseas, while the researchers onsite were focusing on
