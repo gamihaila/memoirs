@@ -81,3 +81,8 @@ place. Initially, she kept talking about going back to take the exam,
 but then everything shut down. Maria restarted classes at Foothill
 College, online this time. The following year she transferred to UC
 Davis.
+
+At work I was getting used to the team and the codebase, and gradually
+getting involved in the planning process. After six months, it was
+time to officialy announce my new management role.
+

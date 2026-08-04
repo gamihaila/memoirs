@@ -11,7 +11,32 @@ at scale, in a production environment. This being a research lab, all
 the code we wrote were of the proof-of-concept variety, which is a
 very different animal. Still, the projects were interesting: for a
 starter project I got to build a query language compiler and execution
-engine for a system that extracted entities from text.
+engine for a system that extracted entities from text; then I worked
+on a text classifier for a real estate application, a chatbot
+assisting a hotel concierge with typical questions from guests, and
+another one for ranking restaurants, hotels and tourist attractions on
+subjective criteria.
+
+A few months into my new job, Alon mentioned that the lab was going to
+get a new name: they had involved an external company specialized in
+naming companies (yes, such companies exist!), they created a short
+list of candidate names, and they picked one: Megagon. What is a
+megagon? Glad you asked: it's a regular polygon with one million
+edges! Looks indistinguishable from a circle, like the red one in the
+Japanese flag which symbolizes the raising Sun. The symbolism here was
+something like this: we are working on systems that are approximating
+human behavior so well as to be indistinuishable from real people. I
+remember Alon telling us to keep the name secret from everyone,
+including our families, until it was officially announced. It was a
+great name, not yet used, and we didn't want anyone else to snatch it!
+
+Soon after the new name was official, Megagon Labs became a platinum
+sponsor for VLDB (the conference on Very Large Databases), which was
+going to take place in Rio de Janeiro, Brazil. We had a couple of
+accepted papers at VLDB, including the one on the text extraction
+system I had worked on, so we all got to go! I even took Maria with
+me (I just had to pay for her plane ticket and student registration). 
+
 
 Pretty soon I realized that one of the major initiatives was
 developing a chatbot aiming to apply positive psychology techniques to
