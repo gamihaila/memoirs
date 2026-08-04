@@ -73,8 +73,11 @@ Bucharest. I was constantly worried for her. She agreed to keep
 sharing her location with us and we would compulsively check the
 FindMy app all the time: "She's at the dorm; she's at Starbucks; she's
 at her tutor; at the mall". She would call us on WhatsApp all the
-time, it was hard for her, but she was determined. Then, Covid hit!
-When we realized how serious this was, we got her on a plane home,
-just before the travel restrictions were put in place. Initially, she
-kept talking about going back to take the exam, but then everything
-shut down.
+time, it was hard for her, but she was determined.
+
+Then, Covid hit!  When we realized how serious this was, we got her on
+a plane home, just before the travel restrictions were put in
+place. Initially, she kept talking about going back to take the exam,
+but then everything shut down. Maria restarted classes at Foothill
+College, online this time. The following year she transferred to UC
+Davis.

@@ -1,4 +1,3 @@
-
 After a couple of weeks of vacation after I left Google, it was time
 to start my new job. The research lab I joined was called Recruit
 Institute of Technology at the time, and only later it changed its
