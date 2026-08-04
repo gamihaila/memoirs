@@ -351,7 +351,17 @@ hours old marriage. In the end I helped her pack and we made our train in the
 morning. I remember she had brought two heavy suitcases for herself, that I had
 to lug from the train station to our hotel. We finally arrived to our hotel,
 checked in, and crashed: I think we slept most of the day, waking up late
-afternoon for dinner. After spending a few days at the beach we received an
+afternoon for dinner. 
+
+We went downstairs to the hotel cafeteria in a hurry before closing time. 
+The hostess showed us to our assigned table, where an older couple was sitting. 
+The cafeteria was packed so everyone had to share tables. 
+We sat down, politely greeting the other people but they gave us very cold, disapproving looks. 
+We couldn't figure out why.
+Only after we got back to out room we realized in our haste we had forgotten to take our wedding bands!
+The older couple assumed we were just a couple of teenagers having a premarital affair at the beach! How scandalous!
+
+After spending a few days at the beach we received an
 invitation from my research mentor, prof. Cazanescu who was also vacationing
 with his family in a nearby hotel. We had already published a paper together,
 and we were working on a second one at the time. So, we went to visit him in his
