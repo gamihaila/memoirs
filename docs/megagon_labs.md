@@ -35,7 +35,12 @@ sponsor for VLDB (the conference on Very Large Databases), which was
 going to take place in Rio de Janeiro, Brazil. We had a couple of
 accepted papers at VLDB, including the one on the text extraction
 system I had worked on, so we all got to go! I even took Maria with
-me (I just had to pay for her plane ticket and student registration). 
+me (I just had to pay for her plane ticket and student
+registration). Once there, Maria came with me to all the talks. At one
+of the tutorials, the one on semistructured data, the author included
+a slide mentioning one of my papers from the 90's. Maria's face lit
+up when she saw my name there; I didn't expect it either, so it really
+was a nice surprise for the both of us!
 
 
 Pretty soon I realized that one of the major initiatives was
