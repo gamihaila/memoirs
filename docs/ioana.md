@@ -358,7 +358,7 @@ The hostess showed us to our assigned table, where an older couple was sitting.
 The cafeteria was packed so everyone had to share tables. 
 We sat down, politely greeting the other people but they gave us very cold, disapproving looks. 
 We couldn't figure out why.
-Only after we got back to out room we realized in our haste we had forgotten to take our wedding bands!
+Only after we got back to our room we realized in our haste we had forgotten to take our wedding bands!
 The older couple assumed we were just a couple of teenagers having a premarital affair at the beach! How scandalous!
 
 After spending a few days at the beach we received an
