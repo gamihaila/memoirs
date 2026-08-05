@@ -69,10 +69,12 @@ to any external network. There was an occasional connection through a modem and
 a leased telephone line, I heard, but that wasn’t part of my day-to-day work.
 
 After working there and being a teaching assistant at the University at
-the same time for a couple of years, I left and kept only my teaching
-job for a few months, then I started working at another startup called
-Ciel!, a Romanian subsidiary of a French accounting software
-company. There I worked on porting to Windows an old text-mode Clipper
+the same time for a couple of years, 
+I left my job at Omnis Group thinking I could focus on my teaching job at the University. I was wrong. My in-laws started to ask me to run errands for them the moment I was out from my full-time job: I apparently had too much time on my hands. I clearly needed another full-time job, and fast. Hearing me say that, Claudia offered to talk to her boss about me. She was a salesperson at the Romanian branch of Ciel!, a French accounting software company. And wouldn't you know it, he called me for an interview the very next week! on the appointed day I went to their office in the Bucharest Hotel, remembering how I had carried bricks when the hotel was being built during my high school mandatory "volunteering" weeks (we were all taken out of regular classes for two weeks to work on various construction sites each year).
+
+Anyway, I got to the manager's office and he showed me the company software suite on his PC. It was a comprehensive set of accounting applications they were adapting for the Romanian small businesses, all running in text mode, with drop down menus and text-based input forms. I looked at him and said: "This is good, but nowadays the competition has modern GUIs running inside Microsoft Windows. Give me six months and I will rewrite one of these applications completely from scratch in Windows, as a proof of concept." He hired me on the spot. 
+
+There I worked on porting to Windows an old text-mode Clipper
 accounting application called “Ciel! Dossiers Analytiques”. One
 thing I remember about that was the trouble caused by rounding for
 accounting applications, where the monetary amounts had to match
