@@ -95,11 +95,27 @@ I wasn't wrong. John took the desk next to mine and we worked side by
 side: we agreed on a protocol for the communication with the backend
 and we refined it over time, testing every change in the app.
 
-I still had to build the database layer, and the API server and figure
-out how to deploy them on the AWS cloud using Kubernetes (so clunky,
-compared to Borg), but in a few months we had a functional system we
-could iterate on, and integrate the natural language understanding
-component.
+A couple of months after I became the de facto architect of the new
+system, one early morning Alon turned around with his chair (his desk
+was just behind mine), and said:
+
+"George, do you have some management or mentorship experience? You must
+have supervised summer interns, right?"
+
+"Yes, I mentored a few summer interns at IBM and Google"
+
+"Good. How would you like to manage all the software engineers in the
+lab?", he followed.
+
+At that time, there were only a handful of full-time software
+engineers there plus a couple of contractors, including John. I had a
+reasonably good idea of the projects they were working on, so I
+agreed, on the condition that I can still spend enough time actually
+writing software myself. I still had to build the database layer, and
+the API server and figure out how to deploy them on the AWS cloud
+using Kubernetes (so clunky, compared to Borg), but in a few months we
+had a functional system we could iterate on, and integrate the natural
+language understanding component.
 
 At some point a group of senior people from the Tokyo lab came to
 visit and one of them invited me to a small conference room for a

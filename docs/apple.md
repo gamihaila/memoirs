@@ -83,6 +83,11 @@ College, online this time. The following year she transferred to UC
 Davis.
 
 At work I was getting used to the team and the codebase, and gradually
-getting involved in the planning process. After six months, it was
-time to officialy announce my new management role.
+getting involved in the planning process. My manager also asked me to
+have informal discussions with some engineers from another team and
+pick two I would like to be transferred to our team.  After six
+months, it was time to officialy announce my new management role. My
+manager had brief one-on-ones with all the engineers in my new team
+asking them if they had any concerns, and then it was official!
+Exciting and scary at the same time.
 
