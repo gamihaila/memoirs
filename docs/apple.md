@@ -23,7 +23,7 @@ applications", she corrected me. "There are plenty of exciting
 challenges for someone like you!"
 
 From the outside, I had no idea, but the way she explained it, it made
-sense. So I decided to apply. I remember she came to visit us home in
+sense. So I decided to apply. I remember she came to visit us at our home in
 Mountain View over Christmas break and sat with me for hours, helping
 me bring my resume up to date, focusing on my leadership
 contributions. She really belived I should apply for a management
@@ -114,7 +114,7 @@ cases. And ideed, once we deployed it in a staging environment running
 at scale, it would frequently take more than double the allotted time
 to complete. Worst of all, there wasn't an easy way to fix it as long
 as we kept that approach. We needed to go back to the drawing board. I
-approached a couple of the enginners and asked them for ideas, got
+approached a couple of enginners and asked them for ideas, got
 some leads, but no concrete solution emerged, especially on short
 notice. This was late on a Friday afternoon. We called it a day and
 went home.
@@ -130,8 +130,8 @@ submitted it for review, and merged it. I was happy we were able to
 keep the original launch timeline, but my manager tempered my
 enthusiasm: "That's good we delivered the system on time, but I don't
 want you to go and implement things by yourself, you have engineers
-for that; if you keep doing things like this, they will come to rely
-on you over time, instead of working hard to come up with solutions
+for that; if you keep doing things like this, over time, they will
+come to rely on you, instead of working hard to come up with solutions
 themselves." Lesson number two.
 
 When the pandemic hit, everybody went home and we slowly adjusted to
@@ -147,11 +147,11 @@ noticed that (I kept complaining about it), and at one point asked me
 to take a few days off and just think about what gives me joy. I did,
 and wrote down a long list off all the aspects of my job that I
 enjoyed and another one with all the ones I dreaded. I sent him the
-list, unedited. When I got back to work, on our next one-on-one
+lists, unedited. When I got back to work, on our next one-on-one
 meeting I said:
 
 "Thank you for being supportive and allowing me to really spend some
-time figuring out what I want. When I read back the list I sent you
+time figuring out what I want. When I read back the lists I sent you
 it became quite clar that I would rather be a software engineer than a
 manager."
 

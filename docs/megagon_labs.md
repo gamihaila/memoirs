@@ -49,7 +49,7 @@ on", I remember him saying to us, "how many times in your life would
 you have a chance to see this? Let's all go together!"  So we all
 went, including Maria, and had a great time.
 
-Pretty soon after we came back from Brasil I realized that one of the
+Pretty soon after we came back from Brazil I realized that one of the
 major initiatives was developing a chatbot aiming to apply positive
 psychology techniques to improve wellbeing. Alon's vision was to build
 a chatbot that learned about you and gently nudges to do more
@@ -99,7 +99,7 @@ A couple of months after I became the de facto architect of the new
 system, one early morning Alon turned around with his chair (his desk
 was just behind mine), and said:
 
-"George, do you have some management or mentorship experience? You must
+"George, do you have any management or mentorship experience? You must
 have supervised summer interns, right?"
 
 "Yes, I mentored a few summer interns at IBM and Google"
