@@ -168,7 +168,7 @@ doing what I love! It wasn't easy, but it was the best decision. It
 took a while to figure things out, but after trying to be a
 researcher, then college professor, then software engineer, then
 manager, then software engineer again, I now know that there isn't
-anything else I'd rather do. And that's OK.
+anything else I'd rather do. And that's okay.
 
 
 
