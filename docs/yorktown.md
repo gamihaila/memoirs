@@ -12,7 +12,7 @@ though, she had moved to America with her parents during high school. Aside from
 us, our research group was a mix of Indians, Chinese, and German. Americans were
 conspicuously missing. 
 
-After about a year, our second-line manager, also Chinese, came to us with an
+After about a year, our second-line manager came to us with an
 unusual request: was any of us willing to do some part-time teaching at Columbia
 University in New York? A friend of his from the department of Industrial
 Engineering and Operations Research (IEOR) had contacted him because the previous
@@ -21,8 +21,8 @@ available and they had an urgent need of a replacement for the Fall semester. We
 discussed it among ourselves over lunch and nobody was interested: it was quite
 a bit of extra work, a long commute, and very little extra money. I had some
 teaching experience from the University of Bucharest and TA experience from the
-University of Toronto (everybody else in our group had been a TA too during
-graduate school). I also had one piece of advice from my father that stuck with
+University of Toronto. 
+I also had one piece of advice from my father that stuck with
 me. Whenever he would talk to me about his own career choices he would frame
 them using this guiding principle: "If at any time you are presented with two
 choices in your professional life, pick the hardest path!". So I went to our
@@ -52,9 +52,21 @@ Heights, the home of IBM Research' main campus (my office was in a satellite
 building, in Hawthorne). We ended up buying a four bedroom house in Yorktown,
 not too far from the "downtown area". The quotes are needed, because outside of
 a single Starbucks and a few department and grocery stores, there wasn't
-much. However, we had a backyard where our future kids could play. And we didn't have
+much of a downtown. 
+However, we had a backyard where our future kids could play. And we didn't have
 to wait too long: Irina was born four years after Maria, in 2005, followed by
 Ileana in 2007. Our youngest daughter Xenia waited four more years after that.
+
+Over the following years I was involved in many projects, but this isn't really the place to discuss their technical details. 
+Instead, I want to discuss some common traits that all these projects shared: we would spend a significant amount of time coming up with a problem to work on (mostly inspired by emerging technologies); 
+then, we would do a thorough search and read relevant papers and identify what wasn't already done; 
+we would pick an unsolved and interesting problem, come up with a solution, 
+implement it in isolation, measure its performance on (usually synthetic) data, 
+and write it up as a research paper. 
+Before submitting it to a conference though, we were required to prepare an invention disclosure presentation and present it to a committee that would decide whether the idea was novel enough to submit a patent application. 
+Most of the ideas were novel enough, because otherwise they wouldn't have been publishable in the first place. 
+IBM didn't want to publish any new idea as a research paper before sending it to the patent office first. 
+
 
 By 2010, though, after ten years of IBM Research, I got a call from a Google
 recruiter: "Hello, remember us, you rejected our offer back in 2000. Did you get
