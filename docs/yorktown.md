@@ -76,8 +76,8 @@ Unsurprisingly, this process yielded a lot of granted patents, especially becaus
 
 Once the application was submitted to the patent office we were free to pursue publication. Getting the paper published was a much harder process, involving submitting it to a conference or journal, waiting for the reviewers resposes, responding to them, and them waiting some more (months) for a decision. Most of our papers were rejected, at least on the first attempt; we would then revise them, address reviewer concerns, and send back either to the original venue or a different one. 
 
-Whenever a paper would be accepted, it was cause for celebration and one of us woul get to go and present it, usually in some cool city: over the years I presented my papers in places like Hong Kong, Bangalore, Honolulu, Santa Barbara, and other US cities. 
-For most of those I had Grațiela come with me, sometimes with the kids too. 
+Whenever a paper would be accepted, it was cause for celebration and one of us would get to go and present it, usually in some cool city: over the years I presented my papers in places like Hong Kong, Bangalore, Honolulu, Santa Barbara, and other large cities. 
+For most of those I had Grațiela come with me, sometimes with the kids too. This was the best part of the job, almost justifying the dreariness of all the years spent working in a window-less, fluorescent lit, depressing office craving a real-world impact that just didn't seem to materialize. Almost worth it, but not really, at least not for me. 
 
 
 By 2010, though, after ten years of IBM Research, I got a call from a Google
