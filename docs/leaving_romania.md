@@ -3,6 +3,28 @@ The hope we had felt in the immediate aftermath of the Revolution had been real 
 
 None of what we had hoped for happened. What happened instead was that the old apparatus simply rearranged itself. The people in charge had different titles now, but they were largely the same people, and the state media they controlled made sure that any alternative was discredited before it could take root. Three elections came and went, each won by a landslide. It became clear, gradually and then all at once, that the trajectory was not going to change, not soon enough to matter for us. We had good jobs by Romanian standards — my position at the university, my wife’s teaching post at the Informatics High School — but we could see exactly where those jobs led. We would never be able to afford an apartment of our own. Starting a family felt like an act of faith we weren’t sure we could make. Leaving wasn’t what we wanted. It was what was left.
 
+
+We started looking for ways to emigrate. We didn’t know where exactly at this point. First visit, the British Council. I remember that day quite well: Ioana and I went to the British Council compound, passed the armed security checkpoint, and walked in. We asked for a meeting with the cultural attaché. He was in a meeting, but his secretary was able to book the next slot for us. While we waited, we sat down on the comfortable couches next to some teens who were watching Pet Shop Boys music videos on a large color TV, and started leafing through some colorful catalogs with information on the UK universities. About an hour later, we were shown to an office for our meeting. The cultural attaché was a distinguished-looking gentleman. I asked him about possible scholarships that would be available to us to attend post-graduate school in the UK. He listened to me politely and then said:
+
+“Well, there are many funding opportunities for post-graduate education in the UK but they are only available to students from the British Commonwealth countries.”
+
+“What about private companies in the UK? Do they offer any financial assistance to students from non-Commonwealth countries, as an employment benefit, if I sign a multi-year employment contract?”
+
+“No, unfortunately, I never heard of anything like that either. Look, I see that you’re eager to study and work abroad, but you’ll see, the situation is going to improve in your own country”.
+
+We realized then that he had a ready-made answer for everybody that came to inquire about the UK. It was pretty hopeless. We thanked him and left, disappointed. One country to cross off our list. 
+
+Next visit, the American Library. There we didn't get any appointment with an official, we just browsed the higher education catalogs and talked with other Romanian students about the admissions process.
+One of them looked at us, incredulously and said:
+
+"What makes you think I would give you any clues about US universities? You are my direct competition, we'd be applying for the same spots."
+
+I was stunned by his answer, but I could see his point. In my mind, however I was thinking: 
+
+"Well, buddy, if you're worried about one other fellow Romanian taking your spot, I don't see how you're going to compete with the hundred of applicants from all over the world!"
+
+After asking around some more, we heard that Canada had a well established immigration system.
+
 We told our parents about our plans to emigrate to Canada. My wife’s parents were happy, they were always telling us we should look for opportunities abroad. My parents, on the other hand, were crushed. See, they were so hoping that now with the dictator out of the way, things were going to improve in Romania, and they wanted us to contribute to building a better country. We had similar views right after the Revolution, but had become disillusioned pretty quickly. The political landscape at the time was dominated with former Communist Party members, now re-branded as Social Democrats. When I raised this during a dinner party my Mom organized with a few of their friends, one of them told me, bluntly:
 
 “Well, if you don’t like any of the political parties, why don’t you start your own?”.
