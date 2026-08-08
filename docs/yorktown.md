@@ -48,7 +48,7 @@ Columbia!
 A year after Maria was born we started looking again for a house for our growing
 family. We couldn't afford any of the Southern Westchester towns, not even White
 Plains, so we had to look further away. We narrowed our search around Yorktown
-Heights, the home of IBM Research' main campus (my office was in a satellite
+Heights, the home of IBM Research's main campus (my office was in a satellite
 building, in Hawthorne). We ended up buying a four bedroom house in Yorktown,
 not too far from the "downtown area". The quotes are needed, because outside of
 a single Starbucks and a few department and grocery stores, there wasn't
@@ -66,7 +66,7 @@ and write it up as a research paper.
 
 If this sounds like research for the sake of research it's because, with rare exceptions, it was. 
 Most of our work had little to no connection to IBM's business, products, or customers. 
-We were inventing both the problems and the solutions, our only feedback coming from the broader reasearch community. I can't generalize, but at least in our group I can only think of a handful of ideas that had any kind of real product impact. Perhaps that's to be expected for a research powerhouse like IBM, but to me it didn't feel like enough. 
+We were inventing both the problems and the solutions, our only feedback coming from the broader research community. I can't generalize, but at least in our group I can only think of a handful of ideas that had any kind of real product impact. Perhaps that's to be expected for a research powerhouse like IBM, but to me it didn't feel like enough. 
 
 Before submitting a new idea to a conference though, we were required to prepare an invention disclosure presentation and present it to a committee that would decide whether the idea was novel enough to submit a patent application. 
 Most of the ideas were novel enough, because otherwise they wouldn't have been publishable in the first place. After preparing enough of these disclosures for my own work, my second line manager nominated me to join the evaluation committee. 
@@ -74,7 +74,7 @@ I learned a lot about the work going on in other research groups by listening to
 
 Unsurprisingly, this process yielded a lot of granted patents, especially because IBM hired experienced IP lawyers that worked with us to write up the patent applications in the proper legal language. Most of these lawyers had CS degrees in addition to their law degree and they only needed a rough draft of the research paper and a couple of brief meetings with the authors (sorry, they called us "inventors") to generate a professional patent application. 
 
-Once the application was submitted to the patent office we were free to pursue publication. Getting the paper published was a much harder process, involving submitting it to a conference or journal, waiting for the reviewers resposes, responding to them, and them waiting some more (months) for a decision. Most of our papers were rejected, at least on the first attempt; we would then revise them, address reviewer concerns, and send back either to the original venue or a different one. 
+Once the application was submitted to the patent office we were free to pursue publication. Getting the paper published was a much harder process, involving submitting it to a conference or journal, waiting for the reviewers responses, responding to them, and them waiting some more (months) for a decision. Most of our papers were rejected, at least on the first attempt; we would then revise them, address reviewer concerns, and send back either to the original venue or a different one. 
 
 Whenever a paper would be accepted, it was cause for celebration and one of us would get to go and present it, usually in some cool city: over the years I presented my papers in places like Hong Kong, Bangalore, Honolulu, Santa Barbara, and other large cities. 
 For most of those I had Grațiela come with me, sometimes with the kids too. This was the best part of the job, almost justifying the dreariness of all the years spent working in that window-less, fluorescent lit, depressing office, craving a real-world impact that just didn't seem to materialize. Almost worth it, but not really, at least not for me. 
