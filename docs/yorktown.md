@@ -63,9 +63,21 @@ then, we would do a thorough search and read relevant papers and identify what w
 we would pick an unsolved and interesting problem, come up with a solution, 
 implement it in isolation, measure its performance on (usually synthetic) data, 
 and write it up as a research paper. 
-Before submitting it to a conference though, we were required to prepare an invention disclosure presentation and present it to a committee that would decide whether the idea was novel enough to submit a patent application. 
-Most of the ideas were novel enough, because otherwise they wouldn't have been publishable in the first place. 
-IBM didn't want to publish any new idea as a research paper before sending it to the patent office first. 
+
+If this sounds like research for the sake of research it's because, with rare exceptions, it was. 
+Most of our work had little to no connection to IBM's business, products, or customers. 
+We were inventing both the problems and the solutions, our only feedback coming from the broader reasearch community. I can't generalize, but at least in our group I can only think of a handful of ideas that had any kind of real product impact. Perhaps that's to be expected for a research powerhouse like IBM, but to me it didn't feel like enough. 
+
+Before submitting a new idea to a conference though, we were required to prepare an invention disclosure presentation and present it to a committee that would decide whether the idea was novel enough to submit a patent application. 
+Most of the ideas were novel enough, because otherwise they wouldn't have been publishable in the first place. After preparing enough of these disclosures for my own work, my second line manager nominated me to join the evaluation committee. 
+I learned a lot about the work going on in other research groups by listening to their presentations and helping them tease out the novel parts and think about their discoverability (how would we design a test that would reveal if a competitor used that idea in a product). 
+
+Unsurprisingly, this process yielded a lot of granted patents, especially because IBM hired experienced IP lawyers that worked with us to write up the patent applications in the proper legal language. Most of these lawyers had CS degrees in addition to their law degree and they only needed a rough draft of the research paper and a couple of brief meetings with the authors (sorry, they called us "inventors") to generate a professional patent application. 
+
+Once the application was submitted to the patent office we were free to pursue publication. Getting the paper published was a much harder process, involving submitting it to a conference or journal, waiting for the reviewers resposes, responding to them, and them waiting some more (months) for a decision. Most of our papers were rejected, at least on the first attempt; we would then revise them, address reviewer concerns, and send back either to the original venue or a different one. 
+
+Whenever a paper would be accepted, it was cause for celebration and one of us woul get to go and present it, usually in some cool city: over the years I presented my papers in places like Hong Kong, Bangalore, Honolulu, Santa Barbara, and other US cities. 
+For most of those I had Grațiela come with me, sometimes with the kids too. 
 
 
 By 2010, though, after ten years of IBM Research, I got a call from a Google
