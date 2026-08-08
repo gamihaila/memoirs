@@ -15,13 +15,13 @@ We started looking for ways to emigrate. We didn’t know where exactly at this 
 We realized then that he had a ready-made answer for everybody that came to inquire about the UK. It was pretty hopeless. We thanked him and left, disappointed. One country to cross off our list. 
 
 Next visit, the American Library. There we didn't get any appointment with an official, we just browsed the higher education catalogs and talked with other Romanian students about the admissions process.
-One of them looked at us, incredulously and said:
+One of them looked at us incredulously and said:
 
 "What makes you think I would give you any clues about US universities? You are my direct competition, we'd be applying for the same spots."
 
 I was stunned by his answer, but I could see his point. In my mind, however I was thinking: 
 
-"Well, buddy, if you're worried about one other fellow Romanian taking your spot, I don't see how you're going to compete with the hundred of applicants from all over the world!"
+"Well, buddy, if you're worried about one other fellow Romanian taking your spot, I don't see how you're going to compete with the thousands of applicants from all over the world!"
 
 After asking around some more, we heard that Canada had a well established immigration system.
 
