@@ -8,7 +8,9 @@ The first time I got introduced to her was during college, circa
 1987. She was one of Ioana's closest friends, a high school schoolmate
 of hers, and a neighbor. Originally from a small town, she was now
 renting a small apartment close to Ioana's parents while enrolled in
-the Physics Department at the University of Bucharest. She was sharing
+the Physics Department at the University of Bucharest. 
+
+She was sharing
 that apartment with a friend, a student from the same department.
 Ioana and I would frequently get together with them, either at their
 place, or after we got married, at our place which was still walking
