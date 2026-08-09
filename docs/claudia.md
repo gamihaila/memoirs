@@ -85,7 +85,8 @@ watched together a tape with Woody Allen's Bananas movie, with me
 translating the more difficult parts for her (she was learning English
 at the time).  
 
-On my 30th birthday, my parents had a small party for me in their apartment. Other than my sister Ileana and her son Mihai, only my childhood friend Marian and his wife Ana-Maria were coming, I had lost contact with everyone else. I invited Claudia too, and she dropped everything and came. We all sat around the large living room table and had a lively conversation with my parents about, among other things, the various small business attempts our friends tried over the years since the Revolution, all of them failed or barely scraping by. It was a lovely little party, with none of the drama of my 20th birthday party. 
+On my 30th birthday, my parents had a small party for me in their apartment. Other than my sister Ileana and her son Mihai, only my childhood friend Marian and his wife Ana-Maria were coming. Most of my other friends had since left the country; the few that were still around I had lost contact with. 
+I invited Claudia too, and she dropped everything and came. We all sat around the large living room table and had a lively conversation with my parents about, among other things, the various small business attempts our friends tried over the years since the Revolution, all of them failed or barely scraping by. It was a lovely little party, with none of the drama of my 20th birthday party. 
 
 
 On more than one occasion I went with Claudia and her
