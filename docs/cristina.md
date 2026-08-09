@@ -169,7 +169,7 @@ again.
 
 In the following weeks I met several American girls who were there on exchange
 programs for the summer, and I was more than happy to act as their chaperon on
-their visits to the Eiffel Tower, the Sacré-Cœur Bassilica, the Latin Quarters,
+their visits to the Eiffel Tower, the Sacré-Cœur Basilica, the Latin Quarter,
 and even the Versailles castle and gardens. I had figured out an infallible
 system: whenever I would go for dinner at the Cite Universitaire cafeteria
 (which had great food at subsidized prices, by the way), I would find a table
