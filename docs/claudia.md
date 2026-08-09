@@ -37,10 +37,13 @@ us. Also, as a way to avoid any questions, she suggested we speak
 French to each other while in the cafeteria, pretending to be foreign
 tourists. She figured that nobody would dare harass foreigners, and
 she was right, nobody bothered us! After this success, we returned to
-the same cafeteria every day for the entire week. Being around Claudia
-always brought with it an element of adventure.  Many years later,
-when I watched Breakfast at Tiffanny's, Audrey Hepburn's character
-reminded me of Claudia.
+the same cafeteria every day for the entire week, practicing our
+French and laughing about it on the way back.
+
+Being around Claudia always brought with it an element of excitement
+and adventure!  Many years later, when I watched Breakfast at
+Tiffanny's, Audrey Hepburn's character reminded me of her. She had
+the same energy and sophistication.
 
 
 When I was between jobs, after college, it was Claudia who went out of
