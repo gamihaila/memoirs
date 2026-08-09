@@ -27,6 +27,22 @@ together, just talking, laughing, and drinking the juice together and
 then I walked her home.  I will never forget this small act of
 kindness, it really lifted up my spirits!
 
+In one of our camping trips to the beach, Claudia was sharing a tent
+with Ioana's sister Ruxandra. Ioana was watching her weight at the
+time and she would frequently skip lunch, but I was hungry and we pack
+any food. So Claudia and I decided to go have lunch at a nearby hotel
+cafeteria. Normally, those cafeterias were reserved for the hotel
+guests, but Claudia talked to a waiter and he agreed to serve
+us. Also, as a way to avoid any questions, she suggested we speak
+French to each other while in the cafeteria, pretending to be foreign
+tourists. She figured that nobody would dare harass foreigners, and
+she was right, nobody bothered us! After this success, we returned to
+the same cafeteria every day for the entire week. Being around Claudia
+always brought with it an element of adventure.  Many years later,
+when I watched Breakfast at Tiffanny's, Audrey Hepburn's character
+reminded me of Claudia.
+
+
 When I was between jobs, after college, it was Claudia who went out of
 her way to introduce me to her boss, and thanks to that I ended up
 joining the software startup she was working at and built up the work
@@ -37,14 +53,34 @@ After Ioana and I broke up, every time I went to Bucharest for
 vacation we would always meet up, talk about what was going on in our
 lives, and laugh about it all. She represented my connection with a
 happier time, a simpler time, before leaving everything behind only to
-end up alone in a foreign country.
+end up alone in a foreign country. I was going through some difficult
+times in Toronto at the time, to the point that I was seriously asking
+myself what was the point of emigrating in the first place, maybe I
+would be better off returning. As Claudia was working for a head
+hunter agency at the time, I asked her for advice: would I be able to
+find work if I came back? To my surprise herr answer was a definite
+no:
 
-I remember one of these times, she took me to a piano bar downtown,
-and we listened to jazz while sipping wine; another time I borrowed a
-VCR from my friend Marian and we watched together a tape with Woody
-Allen's Bananas movie. On more than one occasion I went with her and
-her friends to the beach, reminiscing our student camping vacations
-and creating new memories together.
+"George, there is nothing here for you. Sure, there are plenty of
+software developer jobs for multinational corporations now, but the
+workload is insane and the pay is low. As much as I would love to have
+you back, I must advise against it."
+
+I was disapointed, but trusted her asseement. Based on what I knew
+from other friends, that was my impression too. So, I stayed in
+Toronto and continued my doctoral studies, but I kept coming back for
+summer vacations every year.
+
+I remember one of these times, circa 1998, she took me to a piano bar
+downtown, and we listened to jazz while sipping wine. It was a very
+different Bucharest compared to the one I had left behind in 1993,
+sophisticated and high class, not that different from the Toronto jazz
+scene.  Another time I borrowed a VCR from my friend Marian and we
+watched together a tape with Woody Allen's Bananas movie, with me
+translating the more difficult parts for her (she was learning English
+at the time).  On more than one occasion I went with her and her
+friends to the beach, reminiscing our student camping vacations and
+creating new memories together.
 
 Speaking of memories, on one of our beach vacations, in Eforie Nord,
 after a full day of suntanning, when we were getting ready to leave,
