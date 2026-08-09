@@ -59,7 +59,7 @@ ready to face my peers at the INRIA!
 The next day I went to the Résidence André Honnorat inside the Cité
 Universitaire. 
 Once there, I first went to the office to get my room keys. The
-administrator lady was super friendly, asking me all kinds of
+concierge lady was super friendly, asking me all kinds of
 questions about where I'm from and what brings me to Paris. I was
 happy to practice my French with her and I mentioned that I'm
 originally from Romania.
@@ -157,7 +157,7 @@ publishing, locating and querying Web-accessible data sources.
 
 Naturally, as soon as I arrived to the Résidence André Honnorat, I looked for
 Cristina but she wasn't living there anymore. The concierge to the rescue: I
-asked her if she Cristina had left a forwarding address by any chance. She
+asked her if Cristina had left a forwarding address by any chance. She
 hadn't. However, thanks to the Minitel again, the concierge was able to find her
 new phone number for me. 
 
