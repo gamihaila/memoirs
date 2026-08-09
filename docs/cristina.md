@@ -46,8 +46,8 @@ into a taxi, which was waiting for me as I was the only passenger left
 in front of the hotel.
 
 We arrived in front of Dana's building, and as the taxi pulled over,
-she got out at her window and waved at us. "Oh, la, la, ta petite amie
-est tres jolie"[^1], said the driver, and I agreed but in my mind I was
+she got out at her window and waved at us. 
+"Oh, là, là, ta petite amie est très jolie !"[^1], said the driver, and I agreed but in my mind I was
 thinking "yeah, I wish she was". Dana welcomed me very warmly, and I
 spent the night in her apartment until the next day, when my dorm room
 at the Cité Universitaire was ready. During my visit she briefed me on
@@ -178,12 +178,21 @@ could join them. I figured out pretty quickly that they were much more open to
 meeting new people than back home, since they were in Paris now, away from their
 regular friends from college. Also, I was older than them, trustworthy looking,
 spoke both English and French well, and they figured they would rather have me
-accompany them on their visits than go alone and face the relentless passes from
+accompany them on their visits than go alone and face the relentless passes from random
 French guys on the street. It was a win-win situation!
 
 At INRIA too, there were several pretty girls in our research group and they would always go on long walks around the woods surrounding the campus and invite me along, either one on one or in larger groups. Once a week we would all go to the municipal pool in Roquencourt. One time, the whole group went on an official offsite at the Château de Chamerolles in the Loire Valley! After a morning full of research presentations we spent the rest of the day in the gardens, laying on the grass, and just enjoying each other's company; it was the best offsite I ever had!
+
+During my stay I also had the opportunity to learn some of the subtleties of the French language, the hard way. First one: I told one of my INRIA colleagues that I liked her and she replied cheerfully "Oh, mais moi aussi je t'aime bien, Georges !". That's how I learned the difference one single word can make. Second one: on another occasion I was telling the same girl "je cherche ma prochaine epouse" and she corrected me, laughing "tu veux dire: ma future epouse, pas ma prochaine epouse !"[^5], and then continued in English "you're not planning on having many more wives, are you?". Luckily French wasn't her first language either, so she understood my confusion. We laughed about that together every time we remembered that conversation.
 
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 [^2]: "Ah, one of our residents is from Romania too."
 [^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
 [^4]: About Time, 2013
+[^5]: "Oh, but I like you too, George!" ("like", not "love"). "I'm looking for my next wife". "You mean to say: I'm looking for my future wife, not my next wife!"
+
+
+
+
+
+
