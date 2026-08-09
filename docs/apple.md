@@ -3,7 +3,7 @@ Back at IBM Research I had this teammate, Roxana, who joined at the
 same time. We used to go for long walks after lunch talking about
 anything and everything, including her vision of wearable computing
 (this was before the iPhone). She moved to IBM Almaden at some point
-but we kept in touch. When we moved to Califoria, we re-started our
+but we kept in touch. When we moved to California, we re-started our
 lunch conversations: every couple of months or so, we would meet and
 have lunch together, first at the Google cafeterias, then, after I
 left, in downtown Mountain View. I remember when she called me to tell
@@ -145,7 +145,7 @@ spending more and more time in (virtual) meetings, and less and less
 time doing what I love, designing and building software. My manager
 noticed that (I kept complaining about it), and at one point asked me
 to take a few days off and just think about what gives me joy. I did,
-and wrote down a long list off all the aspects of my job that I
+and wrote down a long list of all the aspects of my job that I
 enjoyed and another one with all the ones I dreaded. I sent him the
 lists, unedited. When I got back to work, on our next one-on-one
 meeting I said:

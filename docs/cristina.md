@@ -39,7 +39,7 @@ right name: Hotel Meridien. So I got off with my luggage and
 waited. And waited. And waited some more. At first, I didn't get too
 worried, as punctuality was never Dana's strongest suit. But after an
 hour, I went to the payphone and called her. She had just gotten back
-home after waiting for me in front of the downton hotel: it turns out
+home after waiting for me in front of the downtown hotel: it turns out
 that Hotel Meridien had two locations in Paris, and there were two
 different airport shuttles going to each of them! Oh, well, I hopped
 into a taxi, which was waiting for me as I was the only passenger left

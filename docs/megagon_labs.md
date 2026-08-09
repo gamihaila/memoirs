@@ -23,7 +23,7 @@ naming companies (yes, such companies exist!), they created a short
 list of candidate names, and they picked one: Megagon. What is a
 megagon? Glad you asked: it's a regular polygon with one million
 edges! Looks indistinguishable from a circle, like the red one in the
-Japanese flag which symbolizes the raising Sun. The symbolism here was
+Japanese flag which symbolizes the rising Sun. The symbolism here was
 something like this: we are working on systems that are approximating
 human behavior so well as to be indistinguishable from real people. I
 remember Alon telling us to keep the name secret from everyone,
