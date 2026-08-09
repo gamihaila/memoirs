@@ -181,6 +181,8 @@ spoke both English and French well, and they figured they would rather have me
 accompany them on their visits than go alone and face the relentless passes from
 French guys on the street. It was a win-win situation!
 
+At INRIA too, there were several pretty girls in our research group and they would always go on long walks around the woods surrounding the campus and invite me along, either one on one or in larger groups. 
+
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 [^2]: "Ah, one of our residents is from Romania too."
 [^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
