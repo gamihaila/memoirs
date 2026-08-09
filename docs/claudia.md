@@ -76,7 +76,7 @@ from other friends, that was my impression too. So, I stayed in
 Toronto and continued my doctoral studies, but I kept coming back for
 summer vacations every year.
 
-I remember one of these times, circa 1998, she took me to a piano bar
+I remember one of these times, circa 1997, she took me to a piano bar
 downtown, and we listened to jazz while sipping wine. It was a very
 different Bucharest compared to the one I had left behind in 1993,
 sophisticated and high class, not that different from the Toronto jazz
