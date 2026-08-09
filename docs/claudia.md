@@ -29,16 +29,16 @@ kindness, it really lifted up my spirits!
 
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
-time and she would frequently skip lunch, but I was hungry and we pack
-any food. So Claudia and I decided to go have lunch at a nearby hotel
-cafeteria. Normally, those cafeterias were reserved for the hotel
-guests, but Claudia talked to a waiter and he agreed to serve
-us. Also, as a way to avoid any questions, she suggested we speak
-French to each other while in the cafeteria, pretending to be foreign
-tourists. She figured that nobody would dare harass foreigners, and
-she was right, nobody bothered us! After this success, we returned to
-the same cafeteria every day for the entire week, practicing our
-French and laughing about it on the way back.
+time and she would frequently skip lunch, but I was hungry and we
+hadn't packed any food. So Claudia and I decided to go have lunch at a
+nearby hotel cafeteria. Normally, those cafeterias were reserved for
+the hotel guests, but Claudia talked to a waiter and he agreed to
+serve us. Also, as a way to avoid any questions, she suggested we
+speak French to each other while in the cafeteria, pretending to be
+foreign tourists. She figured that nobody would dare harass
+foreigners, and she was right, nobody bothered us! After this success,
+we returned to the same cafeteria every day for the entire week,
+practicing our French and laughing about it on the way back.
 
 Being around Claudia always brought with it an element of excitement
 and adventure!  Many years later, when I watched Breakfast at
