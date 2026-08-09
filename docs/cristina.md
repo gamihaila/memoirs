@@ -143,6 +143,18 @@ real.
 trust me, they are not", she kept telling me. She pulled back
 completely, I barely saw her for weeks.
 
+During the day I was busy at the institute, but in the evenings I didn't have much to do. 
+My commute wasn't poetic anymore, without her, it was downright painful to go through the same metro stations alone again, every wall reminding me of her. 
+I was absentmindedly boarding the same trains, every day, to and from Versailles. 
+So absentmindedly in fact that on the day I collected my stipend (in cash, because I couldn't open a bank account as a foreigner), when I arrived home at my dorm I realized my wallet was gone, stolen probably in the crowded metro train as I was daydreaming. 
+Aside from my one month internship pay, some of my Canadian credit cards were in that wallet (luckily not all, and not my passport either). 
+I immediately called my bank in Toronto and reported the stolen cards.
+That part worked flawlessly and I didn't see any fraudulent charges afterwards. 
+After that I snapped right out of my absentmindedness, at least while traveling. 
+It wasn't the last time I lost money on that trip, though. 
+You see, Paris is a tricky place especially for naive foreigners. I was strolling in front of the famous Moulin Rouge when a restaurant host invited me inside a smaller cabaret hall. I fell into a perfectly designed tourist trap: minutes after I sat at a table, a pretty young French woman asked me if she could join me. It didn't occur to me that she was working there, she was making intelligent conversation with me, pretending to be interested in anything I had to say. At some point a waiter came and she ordered champagne. Not a big deal, I was thinking. Wrong! When the bill came that bottle was priced at $500!
+
+
 When the time for our Nice trip came, she decided we could still go
 together but as friends, nothing more.  It was beautiful there, we
 even took a drive to Monaco, but it was painful to be next to her and
