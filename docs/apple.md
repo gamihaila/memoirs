@@ -26,14 +26,14 @@ From the outside, I had no idea, but the way she explained it, it made
 sense. So I decided to apply. I remember she came to visit us at our home in
 Mountain View over Christmas break and sat with me for hours, helping
 me bring my resume up to date, focusing on my leadership
-contributions. She really belived I should apply for a management
+contributions. She really believed I should apply for a management
 position.
 
 At the same time I responded to multiple recruiters from other
 companies, and started interviewing in earnest. Within the span of a
 few weeks I had offers from LinkedIn, Open Storage, and Apple. For
 Apple I had interviewed in two different divisions: Maps and Siri. The
-Apple Siri recuiter told me they wanted to prepare an offer, but that
+Apple Siri recruiter told me they wanted to prepare an offer, but that
 I need to pick between them and Maps first. I picked Maps, in
 large part because of Roxana.
 
@@ -86,7 +86,7 @@ At work I was getting used to the team and the codebase, and gradually
 getting involved in the planning process. My manager also asked me to
 have informal discussions with some engineers from another team and
 pick two I would like to be transferred to our team.  After six
-months, it was time to officialy announce my new management role. My
+months, it was time to officially announce my new management role. My
 manager had brief one-on-ones with all the engineers in my new team
 asking them if they had any concerns, and then it was official!
 Exciting and scary at the same time: we were just about to deploy a
@@ -99,7 +99,7 @@ Less than a month after my promotion to management, two of the
 engineers in my new team left Apple, they had been interviewing with
 other companies for a while and got offers. One of them had just
 joined our team a couple of months before, through an internal
-transfer. Unfortunatelly, during this short time he had built a
+transfer. Unfortunately, during this short time he had built a
 component of the system that we were preparing to launch, and his code
 had not been completely reviewed yet. Actually, it turned out that he
 was developing this component on his own and nobody in the team fully
@@ -107,14 +107,14 @@ understood it yet. First hard-learned lesson: "Never let anybody build
 something nobody else understands!"
 
 Well, the lesson was good, but we still had to launch on time! I first
-tried to do a code walktrough together with another senior engineer
+tried to do a code walk-through together with another senior engineer
 but although we understood the main idea, neither of us was convinced
 that the code would run in a reasonable amount of time in all
-cases. And ideed, once we deployed it in a staging environment running
+cases. And indeed, once we deployed it in a staging environment running
 at scale, it would frequently take more than double the allotted time
 to complete. Worst of all, there wasn't an easy way to fix it as long
 as we kept that approach. We needed to go back to the drawing board. I
-approached a couple of enginners and asked them for ideas, got
+approached a couple of engineers and asked them for ideas, got
 some leads, but no concrete solution emerged, especially on short
 notice. This was late on a Friday afternoon. We called it a day and
 went home.

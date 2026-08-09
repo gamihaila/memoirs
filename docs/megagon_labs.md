@@ -145,7 +145,7 @@ He wasn't convinced, but we ended the conversation there. I took Alon
 aside the next day and told him everything. I ended with "Are you sure
 Recruit will continue to fund this project?" Alon assured me that he
 has complete autonomy on the research direction of the lab and said
-that the Japanese senior enginner overstepped his authority.
+that the Japanese senior engineer overstepped his authority.
 
 Not too long after this exchange, both Alon and I left Megagon
 Labs. Most of the other senior researchers and engineers left within

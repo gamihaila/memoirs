@@ -37,7 +37,7 @@ in Vienna the next day, in the afternoon and, as I had a few hours to
 spare until my connection, checked my luggage at the station and went
 out for a stroll, on the boulevard next to the station. First contact
 with the West! It was everything I imagined and more: expensive
-looking cars, elegant store windows, even a fancy McDonalds
+looking cars, elegant store windows, even a fancy McDonald's
 restaurant. I was hungry and also curious, so I walked in and ordered
 a Big Mac meal, my first! An old lady, figuring that I was new in
 town, pointed me to the ketchup and straws. It was great! Afterwards,
@@ -70,11 +70,11 @@ Mathematics and Computer Science. Whenever I asked about potential
 practical applications I was met with blank stares, or at most some
 vague suggestion that it could be used by optimizing compilers,
 although actually exploring that was always considered left as an
-excersise to the reader, so to speak. Regardless, professor Tucker was
+exercise to the reader, so to speak. Regardless, professor Tucker was
 sufficiently interested, so I tried probing his willingness to invite
 me to his university to work together. What I didn't know was that the
 UK institutions didn't really have a budget for bringing over visiting
-resesarchers, especially from non-affiliated institutions from
+researchers, especially from non-affiliated institutions from
 non-Commonwealth countries. So, although he agreed in principle to
 send me an official invitation letter, he never did, much to my
 disappointment. You see, it was already becoming clear that we had to

@@ -37,7 +37,7 @@ heading towards the edge of the city, which was a little odd, because
 Dana told me she lives close to the center, but the hotel had the
 right name: Hotel Meridien. So I got off with my luggage and
 waited. And waited. And waited some more. At first, I didn't get too
-worrired, as punctuality was never Dana's strongest suit. But after an
+worried, as punctuality was never Dana's strongest suit. But after an
 hour, I went to the payphone and called her. She had just gotten back
 home after waiting for me in front of the downton hotel: it turns out
 that Hotel Meridien had two locations in Paris, and there were two
@@ -53,7 +53,7 @@ spent the night in her apartment until the next day, when my dorm room
 at the Cité Universitaire was ready. During my visit she briefed me on
 the social hierarchies in the French scientific circles, starting with
 the top tier, the graduates of the Ecole Normale Superieure, which
-were guaranteed life-long employment in the State instututions. I was
+were guaranteed life-long employment in the State institutions. I was
 ready to face my peers at the INRIA!
 
 The next day I went to the Résidence André Honnorat inside the Cité
@@ -77,7 +77,7 @@ gate of the INRIA campus in Roquencourt. The doorman took my name and
 the name of my host, made a phone call, and let me in, showing me the
 building where my host worked. I got placed in a shared office with
 another visiting researcher, prof. Louiqa Rashid from the University
-of Maryland College Park. Togheter with the only other American on
+of Maryland College Park. Together with the only other American on
 site, Anthony Tomasic, my official internship mentor, we started
 fleshing out a research topic for my internship.
 
