@@ -181,7 +181,7 @@ spoke both English and French well, and they figured they would rather have me
 accompany them on their visits than go alone and face the relentless passes from
 French guys on the street. It was a win-win situation!
 
-At INRIA too, there were several pretty girls in our research group and they would always go on long walks around the woods surrounding the campus and invite me along, either one on one or in larger groups. 
+At INRIA too, there were several pretty girls in our research group and they would always go on long walks around the woods surrounding the campus and invite me along, either one on one or in larger groups. Once a week we would all go to the municipal pool in Roquencourt. One time, the whole group went on an official offsite at a castle in the Loire Valley! After a morning full of research presentations we had the rest of the day enjoying the gardens, laying on the grass, and just enjoying each other's company; it was the best offsite I ever had!
 
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 [^2]: "Ah, one of our residents is from Romania too."
