@@ -17,16 +17,6 @@ talking for hours, playing Monopoly (I had received a German version
 from my sister's mother in law, who was now living in Munich),
 watching the Soccer World Cup, and just enjoying each other's company.
 
-After Ioana and I got married, sometime around 1992, Ioana went abroad
-to Italy for a week, I believe for some professional training on
-Education. It so happened that my birthday fell during that week. I
-was alone at our place, when the doorbell rang: it was Claudia, with a
-bottle of Kiwi sparkling juice, my favorite. She knew it was my
-birthday and didn't want me to be alone. We spent the whole afternoon
-together, just talking, laughing, and drinking the juice together and
-then I walked her home.  I will never forget this small act of
-kindness, it really lifted up my spirits!
-
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
 time and she would frequently skip lunch, but I was hungry and we
@@ -39,6 +29,18 @@ foreign tourists. She figured that nobody would dare harass
 foreigners, and she was right, nobody bothered us! After this success,
 we returned to the same cafeteria every day for the entire week,
 practicing our French and laughing about it on the way back.
+
+
+
+After Ioana and I got married, sometime around 1992, Ioana went abroad
+to Italy for a week, I believe for some professional training on
+Education. It so happened that my birthday fell during that week. I
+was alone at our place, when the doorbell rang: it was Claudia, with a
+bottle of Kiwi sparkling juice, my favorite. She knew it was my
+birthday and didn't want me to be alone. We spent the whole afternoon
+together, just talking, laughing, and drinking the juice together and
+then I walked her home.  I will never forget this small act of
+kindness, it really lifted up my spirits!
 
 Being around Claudia always brought with it an element of excitement
 and adventure!  Many years later, when I watched Breakfast at
