@@ -42,14 +42,14 @@ practicing our French and laughing about it on the way back.
 
 Being around Claudia always brought with it an element of excitement
 and adventure!  Many years later, when I watched Breakfast at
-Tiffanny's, Audrey Hepburn's character reminded me of her. She had
+Tiffany's, Audrey Hepburn's character reminded me of her. She had
 the same energy and sophistication.
 
 
 When I was between jobs, after college, it was Claudia who went out of
 her way to introduce me to her boss, and thanks to that I ended up
 joining the software startup she was working at and built up the work
-experience which ulitmately decided the fate of our application for
+experience which ultimately decided the fate of our application for
 Canadian Permanent Resident status.
 
 After Ioana and I broke up, every time I went to Bucharest for
@@ -61,7 +61,7 @@ times in Toronto at the time, to the point that I was seriously asking
 myself what was the point of emigrating in the first place, maybe I
 would be better off returning. As Claudia was working for a head
 hunter agency at the time, I asked her for advice: would I be able to
-find work if I came back? To my surprise herr answer was a definite
+find work if I came back? To my surprise her answer was a definite
 no:
 
 "George, there is nothing here for you. Sure, there are plenty of
@@ -69,7 +69,7 @@ software developer jobs for multinational corporations now, but the
 workload is insane and the pay is low. As much as I would love to have
 you back, I must advise against it."
 
-I was disapointed, but trusted her asseement. Based on what I knew
+I was disappointed, but trusted her assessment. Based on what I knew
 from other friends, that was my impression too. So, I stayed in
 Toronto and continued my doctoral studies, but I kept coming back for
 summer vacations every year.
