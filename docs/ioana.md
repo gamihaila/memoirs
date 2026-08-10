@@ -227,7 +227,7 @@ and she was clearly into me. That felt good. Everything was settling
 into a quiet familiarity and we started seeing each other every
 day. 
 
-After a few more months I basically gave up on the idea of ever
+After a few more months of this I basically gave up on the idea of ever
 pursuing anyone else, even though I was still longing for Dana. Worst
 of all, I wasn't very good at hiding my weakness for her: in class, I
 couldn't stop looking in her direction. I have a strong suspicion our
@@ -235,8 +235,11 @@ professors were regularly talking about us in the staff room, it was
 that blatant. Just thinking about this fills me with an unbearable
 shame: how could I have been so cruel and inflict so much suffering to
 Ioana, the one girl who actually loved me? What was I thinking? Maybe
-I was hoping Ioana would get fed up and leave me so I don't have to?
-Probably. 
+I was hoping Ioana would get fed up and leave me so I wouldn't have to?
+Probably. What a coward! A cruel, insensitive coward! 
+I realize now I fully deserve everything that happened afterwards.
+In fact, my punishment was still too gentle considering all this. But 
+let's not jump ahead.
 
 Anyway, Ioana kept going out with me and pretended she doesn't know or
 she's not bothered by my interest in other girls. We kept seeing each
@@ -322,7 +325,7 @@ suppose I was flattered by her determination, so we got back
 together. I was weak and lonely, after spending the summer alone. 
 
 In retrospect, Ioana's behavior at my party gave me a perfect excuse
-to back out of our engagement, but I was too risk-averse to give up on
+to back out of our engagement, but I was too scared to give up on
 Ioana and risk ending up alone: college was drawing to an end, Dana
 was still unavailable, and nobody else seemed open to a relationship
 with me (there might have been some, but none of the ones I
