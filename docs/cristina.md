@@ -170,8 +170,13 @@ French woman asked me if she could join me. It didn't occur to me that
 she was working there, she was making intelligent conversation with
 me, pretending to be interested in anything I had to say. At some
 point a waiter came and she ordered champagne. Not a big deal, I was
-thinking. Wrong! When the bill came that bottle was priced at $500!
-
+thinking. Wrong! When the bill came that bottle was priced at $500.
+When I saw the bill I realized at once I'd been had. Seeing my face,
+the woman got out of character and admitted that this was just her job
+there. I told her I feel sorry for her, and left. For me, the $500 was
+the price I had to pay to learn a lesson, but I couldn't imagine how
+she was able to live with herself doing this job, day in and day
+out. 
 
 When the time for our Nice trip came, Cristina decided we could still go
 together but as friends, nothing more.  It was beautiful there, we
