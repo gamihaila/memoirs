@@ -62,13 +62,12 @@ where professors were sharing their recent work. In between classes,
 we had copious meals and refreshments, in a common hall, sharing the
 tables with the teachers. In fact, the teachers spread out to all the
 tables, rotating every time to get to know us. I remember one of the
-professors, an Englishman by the name of John Tucker, took an interest
-in my research. At one point, as I was describing my work on treating
-logical flowcharts as algebraic expressions, he asked me "What is the
-problem you're trying to solve?". I was stumped: my Bucharest
-professors never framed any of the research topics as trying to solve
-a problem, it was all theoretical, pursued for its own intrinsic
-beauty.
+professors took an interest in my research. At one point, as I was
+describing my work on treating logical flowcharts as algebraic
+expressions, he asked me "What is the problem you're trying to
+solve?". I was stumped: my Bucharest professors never framed any of
+the research topics as trying to solve a problem, it was all
+theoretical, pursued for its own intrinsic beauty.
 
 That was the prevailing attitude in the Department of Mathematics and
 Computer Science. Whenever I asked about potential practical
@@ -83,12 +82,13 @@ His first reaction when I asked him about this was: "How do I know
 you're motivated by an interest in research and you're not just an
 economic migrant?" As if pursuing science was somehow noble and pure,
 but wanting to build a better life for me and my family was something
-to be ashamed of. "Damn it, professor Tucker, easy for you to be doubting my motivation,
-from the comfort of your former British Empire built by enslaving
-other nations for centuries", I was thinking. Out loud though, I just
-mentioned my permanent teaching post at the University of Bucharest,
-and reiterated my research interests. After this humiliating exchange,
-I made a silent vow to myself never to ask anyone for help ever again.
+to be ashamed of. "Damn it, professor, easy for you to be doubting my
+motivation, from the comfort of your former British Empire built by
+enslaving other nations for centuries", I was thinking. Out loud
+though, I just mentioned my permanent teaching post at the University
+of Bucharest, and reiterated my research interests. After this
+humiliating exchange, I made a silent vow to myself never to ask
+anyone for help ever again.
 
 In the end he reluctantly agreed in principle to send me an official
 invitation letter, he never did, much to my disappointment. You see,
