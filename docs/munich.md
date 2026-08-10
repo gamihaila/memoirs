@@ -86,11 +86,12 @@ to be ashamed of. "Damn it, professor, easy for you to be doubting my
 motivation, from the comfort of your former British Empire built by
 enslaving other nations for centuries", I was thinking. Out loud
 though, I just mentioned my permanent teaching post at the University
-of Bucharest, and reiterated my research interests. After this
-humiliating exchange, I made a silent vow to myself never to ask
-anyone for help ever again.
+of Bucharest, and clarified that I was prepared to cover all costs, I
+just needed an invitation letter for the visa. After this humiliating
+exchange, I made a silent vow to myself never to ask anyone for help
+ever again.
 
-In the end he reluctantly agreed in principle to send me an official
+In the end, although he reluctantly agreed to send me an official
 invitation letter, he never did, much to my disappointment. You see,
 it was already becoming clear that we had to find a way to leave the
 country and we were clinging onto any hope, no matter how remote.
