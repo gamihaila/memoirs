@@ -143,59 +143,98 @@ real.
 trust me, they are not", she kept telling me. She pulled back
 completely, I barely saw her for weeks.
 
-During the day I was busy at the institute, but in the evenings I didn't have much to do. 
-My commute wasn't poetic anymore, without her, it was downright painful to go through the same metro stations alone again, every wall reminding me of her. 
-I was absentmindedly boarding the same trains, every day, to and from Versailles. 
-So absentmindedly in fact that on the day I collected my stipend (in cash, because I couldn't open a bank account as a foreigner), when I arrived home at my dorm I realized my wallet was gone, stolen probably in the crowded metro train as I was daydreaming. 
-Aside from my one month internship pay, some of my Canadian credit cards were in that wallet (luckily not all, and not my passport either). 
+During the day I was busy at the institute, but in the evenings I
+didn't have much to do.  My commute wasn't poetic anymore, without
+her, it was downright painful to go through the same metro stations
+alone again, every wall reminding me of her.  I was absentmindedly
+boarding the same trains, every day, to and from Versailles.  So
+absentmindedly in fact that on the day I collected my stipend (in
+cash, because I couldn't open a bank account as a foreigner), when I
+arrived home at my dorm I realized my wallet was gone, stolen probably
+in the crowded metro train as I was daydreaming.  Aside from my one
+month internship pay, some of my Canadian credit cards were in that
+wallet (luckily not all of them, and not my passport either).
+
 I immediately called my bank in Toronto and reported the stolen cards.
-That part worked flawlessly and I didn't see any fraudulent charges afterwards. 
-After that I snapped right out of my absentmindedness, at least while traveling. 
-It wasn't the last time I lost money on that trip, though. 
-You see, Paris is a tricky place especially for naive foreigners. I was strolling in front of the famous Moulin Rouge when a restaurant host invited me inside a smaller cabaret hall. I fell into a perfectly designed tourist trap: minutes after I sat at a table, a pretty young French woman asked me if she could join me. It didn't occur to me that she was working there, she was making intelligent conversation with me, pretending to be interested in anything I had to say. At some point a waiter came and she ordered champagne. Not a big deal, I was thinking. Wrong! When the bill came that bottle was priced at $500!
+That part worked flawlessly and I didn't see any fraudulent charges
+afterwards.  After that I snapped right out of my absentmindedness, at
+least while traveling.  It wasn't the last time I lost money on that
+trip, though.
 
 
-When the time for our Nice trip came, she decided we could still go
+You see, Paris is a tricky place especially for naive foreigners. I
+was strolling in front of the famous Moulin Rouge when a restaurant
+host invited me inside a smaller cabaret hall. I fell into a perfectly
+designed tourist trap: minutes after I sat at a table, a pretty young
+French woman asked me if she could join me. It didn't occur to me that
+she was working there, she was making intelligent conversation with
+me, pretending to be interested in anything I had to say. At some
+point a waiter came and she ordered champagne. Not a big deal, I was
+thinking. Wrong! When the bill came that bottle was priced at $500!
+
+
+When the time for our Nice trip came, Cristina decided we could still go
 together but as friends, nothing more.  It was beautiful there, we
 even took a drive to Monaco, but it was painful to be next to her and
 yet so far, emotionally.  After I got back to Toronto I kept writing
 to her and calling her, but she never answered, except to tell me to
 stop calling.
 
-The following summer I was back in Paris, for a second INRIA internship, to
-continue working with Louiqa and Anthony on the project we started, which had
-since become the main topic of my doctoral research: WebSemantics, a system of
-publishing, locating and querying Web-accessible data sources.
+The following summer I was back in Paris, for a second INRIA
+internship, to continue working with Louiqa and Anthony on the project
+we started, which had since become the main topic of my doctoral
+research: WebSemantics, a system of publishing, locating and querying
+Web-accessible data sources.
 
-Naturally, as soon as I arrived to the Résidence André Honnorat, I looked for
-Cristina but she wasn't living there anymore. The concierge to the rescue: I
-asked her if Cristina had left a forwarding address by any chance. She
-hadn't. However, thanks to the Minitel again, the concierge was able to find her
-new phone number for me. 
+Naturally, as soon as I arrived to the Résidence André Honnorat, I
+looked for Cristina but she wasn't living there anymore. The concierge
+to the rescue: I asked her if Cristina had left a forwarding address
+by any chance. She hadn't. However, thanks to the Minitel again, the
+concierge was able to find her new phone number for me.
 
-I called her and left a message on her answering machine. A few days later she
-came to the Cite Universitaire and we met again. She was in a good mood, telling
-me about this French guy she was now dating, how he has a private plane and was
-flying her all over France. I was over her by now, but was happy to see her
-again.
+I called her and left a message on her answering machine. A few days
+later she came to the Cite Universitaire and we met again. She was in
+a good mood, telling me about this French guy she was now dating, how
+he has a private plane and was flying her all over France. I was over
+her by now, but was happy to see her again.
 
-In the following weeks I met several American girls who were there on exchange
-programs for the summer, and I was more than happy to act as their chaperon on
-their visits to the Eiffel Tower, the Sacré-Cœur Basilica, the Latin Quarter,
-and even the Versailles castle and gardens. I had figured out an infallible
-system: whenever I would go for dinner at the Cite Universitaire cafeteria
-(which had great food at subsidized prices, by the way), I would find a table
-with two or three girls sitting by themselves, and ask them in English if I
-could join them. I figured out pretty quickly that they were much more open to
-meeting new people than back home, since they were in Paris now, away from their
-regular friends from college. Also, I was older than them, trustworthy looking,
-spoke both English and French well, and they figured they would rather have me
-accompany them on their visits than go alone and face the relentless passes from random
-French guys on the street. It was a win-win situation!
+In the following weeks I met several American girls who were there on
+exchange programs for the summer, and I was more than happy to act as
+their chaperon on their visits to the Eiffel Tower, the Sacré-Cœur
+Basilica, the Latin Quarter, and even the Versailles castle and
+gardens. I had figured out an infallible system: whenever I would go
+for dinner at the Cite Universitaire cafeteria (which had great food
+at subsidized prices, by the way), I would find a table with two or
+three girls sitting by themselves, and ask them in English if I could
+join them. I figured out pretty quickly that they were much more open
+to meeting new people than back home, since they were in Paris now,
+away from their regular friends from college. Also, I was older than
+them, trustworthy looking, spoke both English and French well, and
+they figured they would rather have me accompany them on their visits
+than go alone and face the relentless passes from random French guys
+on the street. It was a win-win situation!
 
-At INRIA too, there were several pretty girls in our research group and they would always go on long walks around the woods surrounding the campus and invite me along, either one on one or in larger groups. Once a week we would all go to the municipal pool in Roquencourt. One time, the whole group went on an official offsite at the Château de Chamerolles in the Loire Valley! After a morning full of research presentations we spent the rest of the day in the gardens, laying on the grass, and just enjoying each other's company; it was the best offsite I ever had!
+At INRIA too, there were several pretty girls in our research group
+and they would always go on long walks around the woods surrounding
+the campus and invite me along, either one on one or in larger
+groups. Once a week we would all go to the municipal pool in
+Roquencourt. One time, the whole group went on an official offsite at
+the Château de Chamerolles in the Loire Valley! After a morning full
+of research presentations we spent the rest of the day in the gardens,
+laying on the grass, and just enjoying each other's company; it was
+the best offsite I ever had!
 
-During my stay I also had the opportunity to learn some of the subtleties of the French language, the hard way. First one: I told one of my INRIA colleagues that I liked her and she replied cheerfully "Oh, mais moi aussi je t'aime bien, Georges !". That's how I learned the difference one single word can make. Second one: on another occasion I was telling the same girl "je cherche ma prochaine épouse" and she corrected me, laughing "tu veux dire: ma future épouse, pas ma prochaine épouse !"[^5], and then continued in English "you're not planning on having many more wives, are you?". Luckily French wasn't her first language either, so she understood my confusion. We laughed about that together every time we remembered that conversation.
+During my stay I also had the opportunity to learn some of the
+subtleties of the French language, the hard way. First one: I told one
+of my INRIA colleagues that I liked her and she replied cheerfully
+"Oh, mais moi aussi je t'aime bien, Georges !". That's how I learned
+the difference one single word can make. Second one: on another
+occasion I was telling the same girl "je cherche ma prochaine épouse"
+and she corrected me, laughing "tu veux dire: ma future épouse, pas ma
+prochaine épouse !"[^5], and then continued in English "you're not
+planning on having many more wives, are you?". Luckily French wasn't
+her first language either, so she understood my confusion. We laughed
+about that together every time we remembered that conversation.
 
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 [^2]: "Ah, one of our residents is from Romania too."
