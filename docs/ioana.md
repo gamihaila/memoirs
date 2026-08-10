@@ -2,14 +2,15 @@ I met my first wife, Ioana, in the first week of classes at the
 university. I took a seat in the first row by habit and she did too
 because she didn’t see that well from the back with her glasses. I was
 19 and she was 18.  I can’t say it was love at first sight, but we
-were both friendly with each other.  It also helped that we shared
+were definitely open to each other.  It also helped that we shared
 most of our route home by bus, which provided more time to talk.
 
 Funny anecdote I heard later from her: She had told her sister that
-two guys were interested in her and she asked for advice on whom to
-pick: one is tall and not that funny (me), and the other is
-sparklingly funny but shorter than her. “Pick the tall one,” her
-sister said. So that was that.
+two guys were interested in her, and she asked for advice on whom to
+pick: one is tall and not that funny (me), and the other (my friend
+Radu) is sparklingly funny but shorter than her. “Pick the tall one,”
+her sister said. So that was that.
+
 
 Two weeks after school started, all students were sent to help with
 the harvest. The government needed cheap labor, especially after most
@@ -29,55 +30,79 @@ tallies were growing but the wagons weren’t filling up, so our little
 scheme didn’t last!
 
 It is perhaps not too surprising that this work camp situation played
-an essential role in accelerating our relationship. I was naive and
-eager to find love.  One evening, when we were walking back from the
-dining hall together, we had a longer walk holding hands and at one
-point Ioana found a nice spot on a stone bench and suggested we could
-sit down and listen to the music (somebody was playing the guitar in
-the distance). So we did, and she was gazing into my eyes and smiling
-in such a way that even I understood and kissed her. This was my very
-first kiss, and I got so carried away that I blurted "I love you,
-Ioana!". She started laughing and pointed out: "Love me? You barely
-know me". I was mortified and could not speak another word for the
-rest of our walk back to the dorms. She seemed confused about my
-sudden silence, but didn't say anything.
+an essential role in accelerating our relationship.  I was naive and
+eager to find love, especially since haven't had any luck with girls
+recently: my last "girlfriend" was Elena in seventh grade.  One
+evening, when we were walking back from the dining hall together, we
+had a longer walk holding hands.  In the distance, someone was playing
+the guitar.  At one point Ioana found a nice spot on a stone bench and
+suggested we could sit down and listen to the music. So we did, and
+she was gazing into my eyes and smiling in such a way that even I
+understood and kissed her. This was my very first kiss, and I got so
+carried away that I blurted "I love you, Ioana!". She started laughing
+and pointed out: "Love me? You barely know me". I was mortified and
+could not speak another word for the rest of our walk back to the
+dorms. She seemed confused about my sudden silence, but didn't say
+anything.
 
 The next day, however, we were back together, this time even more
-obviously a couple. The weekend came and we were allowed to go off the
-farm. So we took a bus to Mamaia, the largest and best known resort on
-the Romanian Black Sea coast. We went to a public bath house by the
-beach, where there were co-ed showers. Ioana asked me to wash her back
-and I was beyond thrilled. Then we walked around the resort some more,
-and again sat on a bench, and I wanted to kiss her, but she lifted her
-turtle neck sweater over her mouth and refused.
+obviously a couple. In fact, when we were having breakfast in the 
+cafeteria, Radu noticed Ioana and I shared a glass of water and he
+exclaimed, feigning surprise: "What, George, you're abdicating from
+your steadfast hygiene principles?". He was right to be surprised
+because all through our military service together I was always
+squeamish when it came to sharing anything. I replied, with subtext,
+"That would be rather pointless now".
+
+The weekend came, and we were allowed to go off the farm. So we took a
+bus to Mamaia, the largest and best known resort on the Romanian Black
+Sea coast. We went to a public bath house by the beach, where there
+were co-ed showers. Ioana asked me to wash her back and I was beyond
+thrilled. 
+Then we walked around the resort some more, and again sat on
+a bench, and I wanted to kiss her, but she lifted her turtle neck
+sweater over her mouth, quietly refusing.
 
 In the evening we were due on the farm so we went to the bus terminal
 and waited for the last bus, close to midnight. We were sitting on the
 floor, in the cold, among strangers, and I seriously dreaded what
 would happen if someone were to make a pass at her and I had to defend
 her. Luckily, nothing happened, and we got on the bus safely. At the
-next station, in Constanta, more students from the farm got on, and we
+next station, in Constanța, more students from the farm got on, and we
 arrived at our stop. Now, because it was night, the bus didn't go all
 the way to the farm, we got dropped off at the closest stop, about a
 mile away. We all got off the bus, and walked to the farm
 together. Once we got away from the main road, we experienced the
 darkest night sky I have ever seen, either before or since that
-night. It was a clear sky too and I think we saw the Milky Way. 
+night. It was a clear sky too and I think we saw the Milky Way. It was
+a truly amazing experience!
+
+After the long days in the vineyard, we would congregate in the girls'
+dorm, listen to Alphaville's "Forever Young" on repeat, and just hang
+out, our bond getting stronger every day, despite or rather because
+of all the hardships of communal farm living. In the mornings, one of
+the few performative politically-aligned professors, would wake us up
+with his portable radio blasting the Radio Romania One news on the
+harvest wonderful accomplishments as well as the straggler counties,
+ours being one of the latter.
 
 Eventually, the grape harvesting camp came to an end and we got back
 to Bucharest. I remember clearly that even though we had some
 beautiful first moments together, I was considering this a summer
 fling, especially after the mixed messages I was getting from
-Ioana. Time to move on and explore, I was telling myself, don't settle
-for the very first girl that gave you the slightest attention. College
-just started and our cohort was full of pretty girls. However, that
-turned out to be easier said than done, with Ioana by my side at all
-times. Everybody was already considering us an official couple: we
-were always sitting next to each other in all the classes and we were
-always going home together on the same bus.
+Ioana. 
 
-That didn't stop me from secretly liking other girls in our class. One
-of them in particular stood out. Her name was Dana and she was the
+"Time to move on and explore", I was telling myself, don't settle
+for the very first girl that gave you the slightest attention. College
+just started and our cohort was full of pretty girls. 
+
+However, that turned out to be easier said than done, with Ioana by my
+side at all times. Everybody was already considering us an official
+couple: we were always sitting next to each other in all the classes
+and we were always going home together on the same bus. 
+
+That didn't stop me from secretly liking other girls in our class. 
+One of them in particular stood out. Her name was Dana and she was the
 prettiest, smartest, and most sophisticated girl in our class. No
 question about it. She was from a very highly placed family, her
 father was a member the Communist Party Central Committee, and they
@@ -158,7 +183,9 @@ train, what do you say?". Aarrghhh!
 
 After that summer camp, Ioana and I went camping at the beach in a
 larger group, for plausible deniability reasons, and her parents
-pretended not to figure this out. I remember we got to the camping
+pretended not to figure this out.
+
+I remember we got to the camping
 site late in the evening, after the office was closed, so we couldn't
 register properly until the office opened again in the morning. Since
 it was late and we couldn't go anywhere we found an empty spot and we
@@ -179,20 +206,46 @@ the food was exceptional. "This is the Party's hotel", explained Dana,
 "See those blonde girls? Their father is the Minister of Interior". We
 enjoyed the subsidized feast and didn't ask any more questions.
 
-In all honesty, I could be myself around Ioana, we could talk for
+
+In retrospect, I should have realized that after this camping trip
+with Ioana there was no turning back. At the time, though, I was just
+a carefree teenager, not giving any consideration to society
+conventions and expectations. In my mind, I was still free, after all,
+I didn't formally commit to anyone just yet. I could secretly like as
+many other girls I wanted and potentially find a better
+partner. Except that I wasn't.
+
+It's not that I didn't love Ioana, I just wasn't sure she's "the
+one" yet.
+In all honesty, I could be myself around her, we could talk for
 hours, and we would never get tired of each other. On the way home
 from school we had our favorite park, behind the bus station where our
 ways separated, and we lingered there every day, letting bus after bus
 pass by. Ioana was fun to be around: an intelligent and cultured girl,
 she read the same books as me and more, liked the same music as me,
 and she was clearly into me. That felt good. Everything was settling
-into a quiet familiarity and we started seeing each other every day.
+into a quiet familiarity and we started seeing each other every
+day. 
 
+After a few more months I basically gave up on the idea of ever
+pursuing anyone else, even though I was still longing for Dana. Worst
+of all, I wasn't very good at hiding my weakness for her: in class, I
+couldn't stop looking in her direction. I have a strong suspicion our
+professors were regularly talking about us in the staff room, it was
+that blatant. Just thinking about this fills me with an unbearable
+shame: how could I have been so cruel and inflict so much suffering to
+Ioana, the one girl who actually loved me? What was I thinking? Maybe
+I was hoping Ioana would get fed up and leave me so I don't have to?
+Probably. 
 
-On one of our trips to the beach I asked her if she wanted to be my
-wife. She agreed without the slightest hesitation, it was the obvious
-direction we were heading. I was sure nothing could possibly go wrong
-now. I was mistaken.
+Anyway, Ioana kept going out with me and pretended she doesn't know or
+she's not bothered by my interest in other girls. We kept seeing each
+other all the time, and going on trips together to the mountains or
+the sea, always in a larger group.  Eventually, on one of our trips to
+the beach I asked her if she wanted to be my wife. She agreed without
+the slightest hesitation, it was the obvious direction we were
+heading. I was sure nothing could possibly go wrong now. I was
+mistaken.
 
 On my twentieth birthday, my parents organized a big party for me. I
 invited many our schoolmates from college and some of my former high
@@ -229,133 +282,162 @@ was angry at him in the moment, but after some more thinking I started
 to consider that he may be onto something, especially since I knew he
 had had a lot more experience with girls than me.
 
-After that party, I stopped seeing Ioana. I spent that summer alone, trying to
-make sense of the situation. I didn't have any other friends around, everyone
-was gone on trips to the mountains or the beach. When the school year started
-again in the Fall, however, we couldn't avoid each other so one day on our way
-back from school we sat down again on our favorite park bench and had a long
-talk. I told her gently that I'm not mad at her, but that we shouldn't be seeing
-each other anymore, the engagement was off. I was bracing myself for tears, but
-I wasn't expecting what came next: between sobs, she started telling me that she
-could no longer feel the left side of her face, and indeed it seemed immobile to
-me too, like a partial paralysis. She was panicking, and I didn't know what to
-do either, other than try to calm her down by taking it all back. After a while
-she calmed down somewhat, and went home.
+After that party, I stopped seeing Ioana. I spent that summer alone,
+trying to make sense of the situation. I didn't have any other friends
+around, everyone was gone on trips to the mountains or the beach. When
+the school year started again in the Fall, however, we couldn't avoid
+each other so one day on our way back from school we sat down again on
+our favorite park bench and had a long talk. I told her gently that
+I'm not mad at her, but that we shouldn't be seeing each other
+anymore, the engagement was off. I was bracing myself for tears, but I
+wasn't expecting what came next: between sobs, she started telling me
+that she could no longer feel the left side of her face, and indeed it
+seemed immobile to me too, like a partial paralysis. She was
+panicking, and I didn't know what to do either, other than try to calm
+her down by taking it all back. After a while she calmed down
+somewhat, and went home.
 
-The next day, at school, she was better, and told me something along these
-lines:
+The next day, at school, she was better, and told me something along
+these lines:
 
-"George, when I met you, you were an immature, silly boy. I made you into who
-you are now. You are my creation. I couldn't stand the thought that another girl
-would get you now and reap the fruits of all my hard work. It wouldn't be fair!"
+"George, when I met you, you were an immature, silly boy. I made you
+into who you are now. You are my creation. I couldn't stand the
+thought that another girl would get you now and reap the fruits of all
+my hard work. It wouldn't be fair!"
 
-Listening to her I had a weird feeling of deja-vu, vaguely remembering that
-Elena might have said something similar to me back in seventh grade. In some
-fundamental way, it was true, I suppose, we are all the end product of all the
-people we interact with. All past experiences shape us one way or another. But I
-never thought that Ioana was deliberately educating me, turning me into
-boyfriend material. Could that be true? Nah, that can't be, I was telling
-myself, there is so much more to my inner life that Ioana can't possibly have
-access to, right? For my part, I knew I can only observe the outward
-manifestation of a tiny fraction of Ioana's full personality, and by analogy I
-was assuming the same must be true for her, or anyone else by that matter,
-regardless of how close. But what I took from her words was that she was really
-serious about wanting to be with me. I suppose I was flattered by her
-determination, so we got back together.
+Listening to her I had a weird feeling of deja-vu, vaguely remembering
+that Elena might have said something similar to me back in seventh
+grade. In some fundamental way, it was true, I suppose, we are all the
+end product of all the people we interact with. All past experiences
+shape us one way or another. But I never thought that Ioana was
+deliberately educating me, turning me into boyfriend material. Could
+that be true? Nah, that can't be, I was telling myself, there is so
+much more to my inner life that Ioana can't possibly have access to,
+right? For my part, I knew I can only observe the outward
+manifestation of a tiny fraction of Ioana's full personality, and by
+analogy I was assuming the same must be true for her, or anyone else
+by that matter, regardless of how close. But what I took from her
+words was that she was really serious about wanting to be with me. I
+suppose I was flattered by her determination, so we got back
+together. I was weak and lonely, after spending the summer alone. 
+
+In retrospect, Ioana's behavior at my party gave me a perfect excuse
+to back out of our engagement, but I was too risk-averse to give up on
+Ioana and risk ending up alone: college was drawing to an end, Dana
+was still unavailable, and nobody else seemed open to a relationship
+with me (there might have been some, but none of the ones I
+liked). Why the urgency to get married before graduating, you ask?
+Well, you have to understand, that at that point everyone's future was
+extremely uncertain, who knew in what remote little town I would end
+up for the first three years of government-assigned workplace, and who
+would I find there to marry? I didn't believe in the cliche propaganda
+movies where the young university graduate goes to his post in the
+countryside and marries the beautiful young veterinary doctor.
 
 This wasn't the last hiccup we had on the way to our eventual marriage.
 
-It was the finals week in Spring of 1989. I was preparing for the exams the only
-way I knew how, by transcribing and expanding on the lecture notes I had
-scribbled in class, when I received a phone call: it was Dana, who was doing the
-same and wanted to ask me if it would be alright if she came by so we can
-compare our notes and fill in whatever gaps either of us had. "Of course, you
-can come over anytime", I answered, happy for such an unexpected visit. In less
-than an hour, Dana showed up at my door. My mom opened up and invited her in. It
-so happened that we also received some grocery delivery and had to go pick it up
-from downstairs (we lived on the third floor). To my Mom's surprise, Dana
-insisted to come with us and help carry it upstairs, not letting my mom pick up
-anything heavy. "What a well brought-up girl", my mom would remark afterwards to
-me, "I would have thought that she would be spoiled, coming from such a highly
-placed family." Anyway, after we brought all the groceries in, Dana came into my
-room and we sat down at my table and studied together for the exam for a good
-couple of hours. It really helped, as the subject was quite difficult. At some
-point, Ioana called to ask me how the studying is going and I didn't see any
-reason to lie to her, after all, we were all friends. Ioana pretended to be
-nonchalant about it, and even chatted a bit with Dana on the phone about the
-upcoming exam.
+It was the finals week in Spring of 1989. I was preparing for the
+exams the only way I knew how, by transcribing and expanding on the
+lecture notes I had scribbled in class, when I received a phone call:
+it was Dana, who was doing the same and wanted to ask me if it would
+be alright if she came by so we can compare our notes and fill in
+whatever gaps either of us had. "Of course, you can come over
+anytime", I answered, happy for such an unexpected visit. In less than
+an hour, Dana showed up at my door. My mom opened up and invited her
+in. It so happened that we also received some grocery delivery and had
+to go pick it up from downstairs (we lived on the third floor). To my
+Mom's surprise, Dana insisted to come with us and help carry it
+upstairs, not letting my mom pick up anything heavy. "What a well
+brought-up girl", my mom would remark afterwards to me, "I would have
+thought that she would be spoiled, coming from such a highly placed
+family." Anyway, after we brought all the groceries in, Dana came into
+my room and we sat down at my table and studied together for the exam
+for a good couple of hours. It really helped, as the subject was quite
+difficult. At some point, Ioana called to ask me how the studying is
+going and I didn't see any reason to lie to her, after all, we were
+all friends. Ioana pretended to be nonchalant about it, and even
+chatted a bit with Dana on the phone about the upcoming exam.
 
-The next day, we were lining up for the oral examination, in alphabetical order
-by last name. Dana went in in the first batch. I went in some time afterwards,
-picked the question from a basket with folded papers, luckily it was something
-familiar, and went to the blackboard to solve it. After I was done, I walked out
-and saw Ioana walking in. Outside, all the students who finished were
-celebrating, happy that it was all over (it was the last exam of the week). At
-one point Dana suggested we all go have fancy profiterole ice creams at Athenee
-Palace Cafe, a ten minute walk from the University building. Without thinking
-much, I joined them. When we got back, the professor was out in the hallway
-talking to the remaining students. Something bad had happened: Ioana went in,
-and immediately after picking her exam question had panicked and had to be taken
-out of the room. The professor was kind enough and told her to come the
-following week to take the exam again. Ioana had since went home. I called her
-as soon as I got home, but she was upset with me because I wasn't there when she
-needed me and our colleagues had told her I went out with Dana to have ice
-cream. How was I supposed to know this was going to happen? After all, we were
-gone less than 30 minutes altogether. Eventually, she calmed down, but she held
-a grudge for a long time after that.
+The next day, we were lining up for the oral examination, in
+alphabetical order by last name. Dana went in in the first batch. I
+went in some time afterwards, picked the question from a basket with
+folded papers, luckily it was something familiar, and went to the
+blackboard to solve it. After I was done, I walked out and saw Ioana
+walking in. Outside, all the students who finished were celebrating,
+happy that it was all over (it was the last exam of the week). At one
+point Dana suggested we all go have fancy profiterole ice creams at
+Athenee Palace Cafe, a ten minute walk from the University
+building. Without thinking much, I joined them. When we got back, the
+professor was out in the hallway talking to the remaining
+students. Something bad had happened: Ioana went in, and immediately
+after picking her exam question had panicked and had to be taken out
+of the room. The professor was kind enough and told her to come the
+following week to take the exam again. Ioana had since went home. I
+called her as soon as I got home, but she was upset with me because I
+wasn't there when she needed me and our colleagues had told her I went
+out with Dana to have ice cream. How was I supposed to know this was
+going to happen? After all, we were gone less than 30 minutes
+altogether. Eventually, she calmed down, but she held a grudge for a
+long time after that.
 
-Regardless, we continued to go out together, and started planning our wedding
-for the upcoming summer. By now our families were visiting each other
-too. During one of Ioana's family visits at our place, my mom called me to the
-kitchen, ostensibly to help out with the meal, but once I got there, she shut
-the door and asked me, with a serious look on her face:
+Regardless, we continued to go out together, and started planning our
+wedding for the upcoming summer. By now our families were visiting
+each other too. During one of Ioana's family visits at our place, my
+mom called me to the kitchen, ostensibly to help out with the meal,
+but once I got there, she shut the door and asked me, with a serious
+look on her face:
 
-"Son, are you absolutely certain that you want to marry this particular girl,
-and not any other one?"
+"Son, are you absolutely certain that you want to marry this
+particular girl, and not any other one?"
 
 "Yes, mom, of course".
 
-"I have to ask", she pressed, "I hope you don't have obligations towards Ioana,
-right?"
+"I have to ask", she pressed, "I hope you don't have obligations
+towards Ioana, right?"
 
-"No, of course not", I lied. What else could I have said at this point?
+"No, of course not", I lied. What else could I have said at this
+point?
 
 "In this case, are you sure you wouldn't rather want Dana? If you had
-obligations for Ioana, you would have to marry her no matter what, but since
-you're telling me you don't, are you sure you want to pick her?"
+obligations for Ioana, you would have to marry her no matter what, but
+since you're telling me you don't, are you sure you want to pick her?"
 
-You see, I was very close to my mom and had told her everything about Dana, and
-she also met her a few times and somehow wasn't as convinced as I was that Dana
-didn't care for me at all. However, at that point in our relationship it was
-much too late to be asking these kinds of questions, with Ioana's parents in the
-living room, expecting a formal proposal from me. So we went back to the living
-room, carrying the delicious food my mom had cooked for them, sat down, and then
-I formally asked Ioana's father for his daughter's hand.
+You see, I was very close to my mom and had told her everything about
+Dana, and she also met her a few times and somehow wasn't as convinced
+as I was that Dana didn't care for me at all. However, at that point
+in our relationship it was much too late to be asking these kinds of
+questions, with Ioana's parents in the living room, expecting a formal
+proposal from me. So we went back to the living room, carrying the
+delicious food my mom had cooked for them, sat down, and then I
+formally asked Ioana's father for his daughter's hand.
 
-Outwardly everything unfolded according to the expectations. Inwardly though,
-things were a bit more complicated: it's not that I didn't love Ioana, I did,
-but recently I had been consumed by the nagging feeling that perhaps Dana wasn't
-that unattainable after all. Especially after she had broken up with her
-boyfriend a few months earlier. Way too late, though to be thinking about that
-now.
+Outwardly everything unfolded according to the expectations. Inwardly
+though, things were a bit more complicated: it's not that I didn't
+love Ioana, I did, but recently I had been consumed by the nagging
+feeling that perhaps Dana wasn't that unattainable after
+all. Especially after she had broken up with her boyfriend a few
+months earlier. Way too late, though to be thinking about that now.
 
-A few months later we got married. The wedding ceremony consisted of two parts:
-the civil marriage at City Hall and the Orthodox marriage service in Church. For
-reasons I don't quite recall now, we were not able to schedule both in the same
-day. So it was that we were officially married but I was not allowed to sleep
-over before we were married in Church, which luckily happened the next day. The
-entire civil wedding ceremony, the religious wedding, and the reception were
-being professionally videotaped. The wedding reception was a lavish affair, with
-over 200 guests (paid for by my parents), friends and relatives from both
-families. We had music provided by my best childhood friend, Marian, who had
-been my music supplier for years (where was he sourcing the newest releases of
-Western music I would ever know). There were speeches, dances, wining and
-dining, and of course gossiping. Dana was there at the students’ table together
-with all our closest friends from our class.  I would later catch on to some of
-their conversations on the videotape: another girl was telling Dana that Ioana
-will have priority on the governmental job assignments to pick a position in the
-same town as me, now that we were married. Since I was higher on that list, that
-would allow Ioana to jump the list.
+A few months later we got married. The wedding ceremony consisted of
+two parts: the civil marriage at City Hall and the Orthodox marriage
+service in Church. For reasons I don't quite recall now, we were not
+able to schedule both in the same day. So it was that we were
+officially married but I was not allowed to sleep over before we were
+married in Church, which luckily happened the next day. The entire
+civil wedding ceremony, the religious wedding, and the reception were
+being professionally videotaped. The wedding reception was a lavish
+affair, with over 200 guests (paid for by my parents), friends and
+relatives from both families. We had music provided by my best
+childhood friend, Marian, who had been my music supplier for years
+(where was he sourcing the newest releases of Western music I would
+ever know). There were speeches, dances, wining and dining, and of
+course gossiping. Dana was there at the students’ table together with
+all our closest friends from our class.  I would later catch on to
+some of their conversations on the videotape: another girl was telling
+Dana that Ioana will have priority on the governmental job assignments
+to pick a position in the same town as me, now that we were
+married. Since I was higher on that list, that would allow Ioana to
+jump the list.
 
 Later, when the dance began, I had of course a lovely first dance with
 my bride, then my father danced with her, with everybody dancing
