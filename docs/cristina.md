@@ -161,22 +161,21 @@ afterwards.  After that I snapped right out of my absentmindedness, at
 least while traveling.  It wasn't the last time I lost money on that
 trip, though.
 
-
 You see, Paris is a tricky place especially for naive foreigners. I
 was strolling in front of the famous Moulin Rouge when a restaurant
 host invited me inside a smaller cabaret hall. I fell into a perfectly
 designed tourist trap: minutes after I sat at a table, a pretty young
-French woman asked me if she could join me. It didn't occur to me that
-she was working there, she was making intelligent conversation with
-me, pretending to be interested in anything I had to say. At some
-point a waiter came and she ordered champagne. Not a big deal, I was
-thinking. Wrong! When the bill came that bottle was priced at $500.
-When I saw the bill I realized at once I'd been had. Seeing my face,
-the woman got out of character and admitted that this was just her job
-there. I told her I feel sorry for her, and left. For me, the $500 was
-the price I had to pay to learn a lesson, but I couldn't imagine how
-she was able to live with herself doing this job, day in and day
-out. 
+French woman asked me if she could join me. Happy for the company, I
+agreed. For the next few minutes, she was making intelligent
+conversation with me, pretending to be interested in anything I had to
+say. At some point a waiter came and she ordered champagne. Not a big
+deal, I was thinking. Wrong! When the bill came that bottle was priced
+at $500.  When I saw the bill I realized at once I'd been had. Seeing
+my face, the woman got out of character and admitted that this was
+just her job there. I told her I feel sorry for her, and left. For me,
+the $500 was the price I had to pay to learn a lesson, but I couldn't
+imagine how she was able to live with herself doing this job, day in
+and day out.
 
 When the time for our Nice trip came, Cristina decided we could still go
 together but as friends, nothing more.  It was beautiful there, we
