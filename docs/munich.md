@@ -77,11 +77,20 @@ suggestion that it could be used by optimizing compilers, although
 actually exploring that was always considered left as an exercise to
 the reader, so to speak. Regardless, professor Tucker was sufficiently
 interested, so I tried probing his willingness to invite me to his
-university to work together. What I didn't know was that the UK
-institutions didn't really have a budget for bringing over visiting
-researchers, especially from non-affiliated institutions from
-non-Commonwealth countries. So, although he agreed in principle to
-send me an official invitation letter, he never did, much to my
-disappointment. You see, it was already becoming clear that we had to
-find a way to leave the country and we were clinging onto any hope, no
-matter how remote.
+university to work together. 
+
+His first reaction when I asked him about this was: "How do I know
+you're motivated by an interest in research and you're not just an
+economic migrant?" As if pursuing science was somehow noble and pure,
+but wanting to build a better life for me and my family was something
+to be ashamed of. "Damn it, easy for you to be doubting my motivation,
+from the comfort of your former British Empire built by enslaving
+other nations for centuries", I was thinking. Out loud though, I just
+mentioned my permanent teaching post at the University of Bucharest,
+and reiterated my research interests. After this humiliating exchange,
+I made a silent vow to myself never to ask anyone for help ever again.
+
+In the end he reluctantly agreed in principle to send me an official
+invitation letter, he never did, much to my disappointment. You see,
+it was already becoming clear that we had to find a way to leave the
+country and we were clinging onto any hope, no matter how remote.
