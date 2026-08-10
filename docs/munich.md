@@ -82,9 +82,8 @@ His first reaction when I asked him about this was: "How do I know
 you're motivated by an interest in research and you're not just an
 economic migrant?" As if pursuing science was somehow noble and pure,
 but wanting to build a better life for me and my family was something
-to be ashamed of. "Damn it, professor, easy for you to be doubting my
-motivation, from the comfort of your former British Empire built by
-enslaving other nations for centuries", I was thinking. Out loud
+to be ashamed of, I remember thinking. 
+Out loud
 though, I just mentioned my permanent teaching post at the University
 of Bucharest, and clarified that I was prepared to cover all costs, I
 just needed an invitation letter for the visa. After this humiliating
