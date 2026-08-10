@@ -83,7 +83,7 @@ His first reaction when I asked him about this was: "How do I know
 you're motivated by an interest in research and you're not just an
 economic migrant?" As if pursuing science was somehow noble and pure,
 but wanting to build a better life for me and my family was something
-to be ashamed of. "Damn it, easy for you to be doubting my motivation,
+to be ashamed of. "Damn it, professor Tucker, easy for you to be doubting my motivation,
 from the comfort of your former British Empire built by enslaving
 other nations for centuries", I was thinking. Out loud though, I just
 mentioned my permanent teaching post at the University of Bucharest,
