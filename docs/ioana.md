@@ -228,20 +228,8 @@ into a quiet familiarity and we started seeing each other every
 day. 
 
 After a few more months of this I basically gave up on the idea of ever
-pursuing anyone else, even though I was still longing for Dana. Worst
-of all, I wasn't very good at hiding my weakness for her: in class, I
-couldn't stop looking in her direction. I have a strong suspicion our
-professors were regularly talking about us in the staff room, it was
-that blatant. Just thinking about this fills me with an unbearable
-shame: how could I have been so cruel and inflict so much suffering to
-Ioana, the one girl who actually loved me? What was I thinking? Maybe
-I was hoping Ioana would get fed up and leave me so I wouldn't have to?
-Probably. What a coward! A cruel, insensitive coward! 
-I realize now I fully deserve everything that happened afterwards.
-In fact, my punishment was still too gentle considering all this. But 
-let's not jump ahead.
-
-Anyway, Ioana kept going out with me and pretended she doesn't know or
+pursuing anyone else, even though I was still longing for Dana. 
+Ioana kept going out with me and pretended she doesn't know or
 she's not bothered by my interest in other girls. We kept seeing each
 other all the time, and going on trips together to the mountains or
 the sea, always in a larger group.  Eventually, on one of our trips to
