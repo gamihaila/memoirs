@@ -218,7 +218,7 @@ like being set up, it's awkward."
 
 "Alright, I'll go", I reluctantly agreed.
 
-So I took the elevator up to Laura's place to meet Gratiela. I didn't fathom at
+So I took the elevator up to Laura's place to meet Grațiela. I didn't fathom at
 that time that this will be the girl I was going to marry. Laura introduced us,
 but as expected, the conversation was awkward and I could tell she wasn't that
 interested either. So after a few pleasantries I went back to my apartment. Lara
@@ -229,7 +229,7 @@ was eager to find out how that meeting went.
 "Yeah", she said, "good! You don't want to marry a Romanian girl, you'll have
 ugly kids, no racial mixture."
 
-Well, she couldn't have been more wrong: me and Gratiela got married the
+Well, she couldn't have been more wrong: me and Grațiela got married the
 following year and went on to have four beautiful daughters. All the result of a
 series of unforeseeable events: moving to Toronto in 1993, divorcing in Spring
 1996, meeting Jenny at the Welcome party at the International Student Center in

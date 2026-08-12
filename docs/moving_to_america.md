@@ -159,17 +159,17 @@ married in City Hall before leaving Toronto, we started planning a wedding
 ceremony in church, and we were in the market for a wedding dress. We started
 looking at bridal catalogs and everything was in the thousands of dollars. The
 only affordable items were something called "HP", which were only a few
-hundreds. "Let's get one of these", Gratiela was saying, happy that she found
+hundreds. "Let's get one of these", Grațiela was saying, happy that she found
 something we could afford. When we looked more carefully we figured out what
 "HP" meant: "Head Piece". So not a dress. Oh, well, in the end we did find a
 very nice cream-white dress at Macy's, not technically a wedding gown, but it
 did the job.
 
-After the New Year's day, 2001, Gratiela was due back to Toronto, for her
+After the New Year's day, 2001, Grațiela was due back to Toronto, for her
 doctoral research and also to get a proper dependent visa. She only stayed a
 couple weeks there and came back, after arranging with her thesis advisor that
 she will continue working remotely and meet once per quarter. So a few months
-passed uneventfully until one day Gratiela started feeling sick and we went to
+passed uneventfully until one day Grațiela started feeling sick and we went to
 see a doctor at the local clinic. After he consulted her, he came looking for me
 in the waiting room:
 
@@ -187,7 +187,7 @@ in the waiting room:
 
 "Congratulations to both of you!", said the doctor, and left.
 
-Gratiela came out right after, in a daze. It took us a bit of time to process
+Grațiela came out right after, in a daze. It took us a bit of time to process
 the news: we were extremely happy, of course, even though we didn't "plan for
 it". What that meant, though, was that for our church wedding service had to
 scheduled sooner than we were initially thinking, and her cream-white dress from
@@ -222,7 +222,7 @@ plane. At this point, it became clear this wasn't an accident. I parked my car
 and went straight to my manager's office. He was oblivious to all of that. I
 told him what was happening, and without hesitation he told me to go home to
 comfort my expecting wife, she was less than two months away from her due date
-at that point. So I did. When I got home, Gratiela was watching the news on TV,
+at that point. So I did. When I got home, Grațiela was watching the news on TV,
 unable to believe her eyes. For the next few hours we called our parents to tell
 them we're OK, and then called all our friends from the city to make sure they
 are safe, offering to host them in our apartment if needed. Thankfully, they
@@ -241,10 +241,10 @@ ended up taking close to five years.
 Slowly things got back to some resemblance of normal, and on November 4th we
 went to the White Plains Hospital and our daughter was born. The first card on
 her crib said "Baby Girl Mihaila", and only later they asked her what we were
-going to call her. "Maria", we said, "no middle name". As Gratiela had developed
+going to call her. "Maria", we said, "no middle name". As Grațiela had developed
 a slight fever during the lengthy delivery, the doctor took Maria to the ICU as
 a precaution and stuck a bunch of needles and sensors into her tiny body. They
-discharged Gratiela, though, so we went home baby-less. Gratiela's mother had
+discharged Grațiela, though, so we went home baby-less. Grațiela's mother had
 already arrived from Romania, to help with the baby. She was terribly
 disappointed when she saw us, and so were we, although we were mostly exhausted
 from the sleepless night spent at the hospital. After a couple of days though we

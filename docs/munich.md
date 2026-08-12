@@ -14,7 +14,7 @@ so I wrote one mentioning my two published articles on partial and
 infinite flowchart schemes, an algebraic framework inspired from the
 idea of expressing logical flowcharts as an expression that can be
 rewritten using algebraic equivalence rules. I was working on these
-for a couple of years together with my professor, Virgil Cazanescu. I
+for a couple of years together with my professor, Virgil Căzănescu. I
 mailed the application package and waited. Mind you, I didn't have
 much hope, given how all the application forms were already exhausted
 when I saw the poster and knowing that there will be applicants from

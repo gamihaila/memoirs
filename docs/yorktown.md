@@ -1,7 +1,7 @@
 
-Gratiela's mom stayed with us and helped with the baby for the first six months
+Grațiela's mom stayed with us and helped with the baby for the first six months
 but then had to go back home as her visa was expiring. Once her mom left,
-Gratiela got so overwhelmed with everything that was seriously considering 
+Grațiela got so overwhelmed with everything that was seriously considering 
 dropping off her PhD program. I encouraged her to take a year leave of absence
 instead, and she did. 
 

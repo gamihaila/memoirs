@@ -52,7 +52,7 @@ find a room, it was packed with tourists.
 
 The next day we got back in the car, drove for a while, and just when
 we were in the middle of the Bonneville Salt Flats, Xenia choked on
-something and started turning blue. Gratiela panicked and kept asking
+something and started turning blue. Grațiela panicked and kept asking
 me to go to the ER, except there was nothing around us for
 miles. Luckily, she coughed it out and turned pink again!
 
