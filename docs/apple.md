@@ -37,52 +37,7 @@ Apple Siri recruiter told me they wanted to prepare an offer, but that
 I need to pick between them and Maps first. I picked Maps, in
 large part because of Roxana.
 
-I joined Apple Maps in the spring of 2019. At home, though, we were in
-full college admissions fever for our oldest daughter, Maria. A bit of
-background: Maria had left high school half-way, and enrolled in
-Foothill College instead, taking classes for transfer into a Computer
-Science major at one of the University of California
-campuses. However, the transfer into a CS degree at most UCs was
-highly competitive and she wasn't confident she could get in. That's
-when she came up with an extreme idea:
-
-"What if I went to Romania and took the admission exam at the same
-university you both attended, Mom and Dad? Seems like it worked pretty
-well for both of you."
-
-We couldn't argue with that, but it wasn't as easy: she lived in
-America all her life, and we were worried it would be hard for her to
-adapt there, especially without us. For one thing, her language skills
-were pretty basic, since we mostly spoke English at home after she
-first went to school. I remembered though that my dad telling us about
-the language classes he used to teach at the Romanian Summer School. I
-looked it up, and that was still being organized every year, so we
-enrolled Maria for that summer. Gratiela went with her to help her
-settle in the dorm (she was still 17 at the time), and then I went
-towards the end to pick her up. We spent a week in Bucharest after the
-classes ended, visiting my sister, going for long walks in the
-Herăstrău Park, and talking about her plans to attend college in
-Bucharest. She decided that she should come back in the fall and spend
-a year preparing for the admission exam with a tutor, just like I had
-done.
-
-Once back in California, we found a private dorm for her, where she
-would share a room with another student, and made all the arrangements
-online. In November, just after she turned 18, she left for
-Bucharest. I was constantly worried for her. She agreed to keep
-sharing her location with us and we would compulsively check the
-FindMy app all the time: "She's at the dorm; she's at Starbucks; she's
-at her tutor; at the mall". She would call us on WhatsApp all the
-time, it was hard for her, but she was determined.
-
-Then, Covid hit!  When we realized how serious this was, we got her on
-a plane home, just before the travel restrictions were put in
-place. Initially, she kept talking about going back to take the exam,
-but then everything shut down. Maria restarted classes at Foothill
-College, online this time. The following year she transferred to UC
-Davis.
-
-At work I was getting used to the team and the codebase, and gradually
+I joined Apple Maps in the spring of 2019. I started getting used to the team and the codebase, and gradually
 getting involved in the planning process. My manager also asked me to
 have informal discussions with some engineers from another team and
 pick two I would like to be transferred to our team.  After six
