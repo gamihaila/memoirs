@@ -16,16 +16,23 @@ either at their place, or after we got married, at our place which was
 still walking distance from Ioana's childhood home. We were all good
 friends, talking for hours, playing Monopoly, watching the Soccer
 World Cup, and just enjoying each other's company. I had received a
-German version from my sister's mother in law (the one I had visited
-in Munich), and even though none of us spoke any German, we figured
-out enough of it with a dictionary to be able to play the game. Over
-time, we were recognizing the cards by sight.
+German Monopoly version from my sister's mother in law (the one I had
+visited in Munich), and even though none of us spoke any German, we
+figured out enough of it with a dictionary to be able to play the
+game. Over time, we were recognizing the cards by sight. I remember we 
+Ioana and Claudia got so vested into this game that after a
+particularly competitive round, they stopped talking to each
+other.
 
-Claudia and Ioana always had this running joke about who had the
-prettiest chest. Each of them was teasingly bragging to us boys that
-she deserves the top spot. Of course, that competition could never be
-settled. We were all laughing about this, it became an inside joke
-among the four of us.
+Luckily, they didn't hold the grudge and all four of us got back
+together after a month or so. They were too close not to make up
+eventually. In fact, we were all so close, and so comfortable with
+each other that Claudia and Ioana even had this playful competition
+about who was the prettiest, and in particular who had the better
+shaped chest among the two of them. Each of them was teasingly
+bragging to us boys that she deserves the top spot. Of course, that
+competition could never be settled. We were all laughing about this,
+it became an inside joke among the four of us. 
 
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
