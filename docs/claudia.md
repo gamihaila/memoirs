@@ -21,7 +21,9 @@ watching the Soccer World Cup, and just enjoying each other's company.
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
 time and she would frequently skip lunch, but I was hungry and we
-hadn't packed any food. So Claudia and I decided to go have lunch at a
+hadn't packed any food. 
+That's when Claudia came up with 
+the idea to go have lunch at a
 nearby hotel cafeteria. Normally, those cafeterias were reserved for
 the hotel guests, but Claudia talked to a waiter and he agreed to
 serve us. Also, as a way to avoid any questions, she suggested we
@@ -29,9 +31,9 @@ speak French to each other while in the cafeteria, pretending to be a
 French couple. 
 
 To be honest, I loved the idea of us posing as a couple, French or
-not. In fact I was trying to get Claudia to get into character on the
-way to the restaurant too, so I used that as excuse to walk there
-holding hands, and practice our conversation skills by making lovers
+not. In fact, I managed to persuade Claudia to get into character on the
+way to the restaurant too. I was using this as an excuse to walk there
+holding hands, and practice our conversation skills by making lovers'
 chit-chat in French, telling her everything I didn't dare to tell her
 as the real me. She was laughing and responding in French equally
 lovingly.
