@@ -222,8 +222,7 @@ chemistry."
 
 "Huh, what's M.O.M.L.?"
 
-"The Man Of My Life.", she clarified. "I liked Mugur too, but he
-wasn't my M.O.M.L. either. There is only one on this Earth for me. I
+"The Man Of My Life.", she clarified. "There is only one on this Earth for me. I
 haven't met him yet, but I know he's there. When I will meet him, I
 will love him completely!"
 
