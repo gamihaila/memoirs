@@ -65,13 +65,12 @@ close! The whole time I was fighting the urge to tell her how much I
 liked her. "What's the matter with you", I was telling myself, "you
 are married, and she's your wife's best friend, stop these thoughts;
 she just came over to visit you because she cares about you as a
-friend, don't ruin it". You see, my marriage with Ioana was not
-exactly rock solid, I could feel she was slowly drifting away. Still,
+friend, don't ruin it". You see, my marriage was
+already showing signs of stress. Still,
 I couldn't tell anything to Claudia, no matter how attracted I was to
-her. I needed to work things out with Ioana, I was still hoping that
-our marriage was just going through some growing pains. Eventually,
-the evening came and it was time for her to go. So I walked her
-home. She invited me in, and we spent a few more minutes there. When we
+her. Eventually,
+the evening came and it was time for her to go and I walked her
+home. She invited me in, and we spent a few more minutes there too. When we
 kissed goodbye I really wanted to miss her cheeks, but of course I didn't.
 
 
