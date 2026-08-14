@@ -16,19 +16,20 @@ either at their place, or after we got married, at our place which was
 still walking distance from Ioana's childhood home. We were all good
 friends, talking for hours, playing Monopoly (I had received a German
 version from my sister's mother in law, who was now living in Munich),
-watching the Soccer World Cup, and just enjoying each other's company.
+watching the Soccer World Cup, and just enjoying each other's
+company. She and Ioana always had this running joke about who had the
+prettiest chest, each of them teasingly bragging to us boys. Of
+course, that competition could never be settled.
 
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
 time and she would frequently skip lunch, but I was hungry and we
-hadn't packed any food. 
-That's when Claudia came up with 
-the idea to go have lunch at a
-nearby hotel cafeteria. Normally, those cafeterias were reserved for
-the hotel guests, but Claudia talked to a waiter and he agreed to
-serve us. Also, as a way to avoid any questions, she suggested we
-speak French to each other while in the cafeteria, pretending to be a
-French couple. 
+hadn't packed any food.  That's when Claudia came up with the idea to
+go have lunch at a nearby hotel cafeteria. Normally, those cafeterias
+were reserved for the hotel guests, but Claudia talked to a waiter and
+he agreed to serve us. Also, as a way to avoid any questions, she
+suggested we speak French to each other while in the cafeteria,
+pretending to be a French couple.
 
 To be honest, I loved the idea of us posing as a couple, French or
 not. In fact, I managed to persuade Claudia to get into character on the
@@ -52,34 +53,69 @@ After Ioana and I got married, sometime around 1992, Ioana went abroad
 to Italy for a week, I believe for some professional training on
 Education. It so happened that my birthday fell during that week. I
 was alone at our place, when the doorbell rang: it was Claudia, with a
-bottle of Kiwi Schweppes, my favorite. She knew it was my
-birthday and didn't want me to be alone.  It was a completely
-unexpected visit. Also, it was the first time Claudia and I were alone
-in private. I had always admired Claudia from a distance, but apart
-from that one camping week at the Black Sea I never had a chance to
-talk to her alone.
+bottle of Kiwi Schweppes, my favorite. She knew it was my birthday and
+didn't want me to be alone.  It was a completely unexpected
+visit. Also, it was the first time Claudia and I were alone in
+private. I had always admired Claudia from a distance, but apart from
+that one camping week at the Black Sea I never had a chance to talk to
+her alone.
 
-We spent the whole afternoon together, talking,
-laughing, and drinking the juice together. She was so beautiful and so
-close! The whole time I was fighting the urge to tell her how much I
-liked her. "What's the matter with you", I was telling myself, "you
-are married, and she's your wife's best friend, stop these thoughts;
-she just came over to visit you because she cares about you as a
-friend, don't ruin it". You see, my marriage was
-already showing signs of stress. Still,
-I couldn't tell anything to Claudia, no matter how attracted I was to
-her. Eventually,
-the evening came and it was time for her to go and I walked her
-home. She invited me in, and we spent a few more minutes there too. When we
-kissed goodbye I really wanted to miss her cheeks, but of course I didn't.
-
-
+We spent the whole afternoon together, talking, laughing, and drinking
+the juice together. She was so beautiful and so close! The whole time
+I was fighting the urge to tell her how much I liked her. "What's the
+matter with you", I was telling myself, "you are married, and she's
+your wife's best friend, stop these thoughts; she just came over to
+visit you because she cares about you as a friend, don't ruin it". You
+see, my marriage was already showing signs of stress. Still, I
+couldn't tell anything to Claudia, no matter how attracted I was to
+her. Eventually, the evening came and it was time for her to go and I
+walked her home. She invited me in, and we spent a few more minutes
+there too. When we kissed goodbye I really wanted to miss her cheeks,
+but of course I didn't.
 
 When I was between jobs, after college, it was Claudia who went out of
 her way to introduce me to her boss, and thanks to that I ended up
 joining the software startup she was working at and built up the work
 experience which ultimately decided the fate of our application for
-Canadian Permanent Resident status.
+Canadian Permanent Resident status. I worked there until the last week
+before we left for Canada. On my last day, they organized a farewell
+party for me, with fancy pastries and a lot of wine. At one point,
+just before the end of that party, Claudia pulled me into a room and
+locked the door on the inside. We were alone for a few minutes in that
+room and we were both a bit tipsy from all the wine. She got pretty
+emotional and started telling me between sobs how sorry she was we
+have to leave the country, and how she was going to miss us, not
+knowing when or even if we will ever see each other again. Then, out
+of the blue, she said:
+
+"George, remember how Ioana and I were always joking about who's chest
+is prettier?"
+
+"Yes, of course, I guess I'll never know now", I conceded, jokingly.
+
+"Here, take a look!", she said, and unbuttoned her shirt. 
+
+"Alright, you win", I said, stunned, all the while looking at the door
+to make sure nobody was coming. It was the most surreal situation I
+had ever experienced, keeping in mind there never was any intimacy
+between us, just this persistent tension that we both felt but never
+acted upon. Later, when I tried to understand what just happened I
+thought that she figured she will never see us again, so it wouldn't 
+matter anyway. It was as if I was a soldier leaving for war and she
+wanted me to always remember her. And I did.
+
+After Ioana and I arrived in Toronto, we kept talking about her, since
+she was Ioana's best friend. Of course I wasn't going to mention
+anything to Ioana, so she didn't have any reason to be suspicious
+about her. When we bought a second-hand Sun workstation and set it up
+in our studio apartment in High Park, and I had to pick up a host name
+for it, I suggested we use Claudia, and Ioana agreed without
+hesitation. After this, she was constantly in my mind every time I
+logged in. Once I logged in remotely from my office at work, and our
+system administrator saw me and said something like: "Ooh, Claudia,
+what a beautiful host name!". In my mind, I was thinking "You have no
+idea".
+
 
 After Ioana and I broke up, every time I went to Bucharest for
 vacation we would always meet up, talk about what was going on in our
@@ -122,10 +158,20 @@ table and had a lively conversation with my parents about, among other
 things, the various small business attempts our friends tried over the
 years since the Revolution, all of them failed or barely scraping
 by. It was a lovely little party, with none of the drama of my 20th
-birthday party.
+birthday party. Looking at her, sitting next to me at the family
+dinner table, I was really hoping we could build something
+together. She was so beautiful, and so at graceful, making
+intellectual conversation with my dad and complimenting my mom,
+everybody liked her. We went to the balcony where we had a large
+rocking chair, she sat down on it and we kept talking. At one point,
+my nephew Mihai, who was eight at the time, asked her innocently: 
 
+"Are you my uncle's future wife?"
 
-Evert summmer I went with Claudia and her friends to the beach,
+She laughed, but didn't answer. Kids can really pick up on these
+things, don't they?
+
+Ever summmer I went with her and her friends to the beach,
 reminiscing about our student camping vacations and creating new
 memories together.
 
@@ -165,13 +211,14 @@ wasn't my M.O.M.L. either. There is only one on this Earth for me. I
 haven't met him yet, but I know he's there. When I will meet him, I
 will love him completely!"
 
-It was the closest her orbit ever got to mine, either before or after.
-
-I don't know what it is about Claudia, but even though we don't see
-each other for years now, every time we meet we re-connect as if we
-never parted. I am grateful for having had the chance to meet her,
-back in our college years. She is living proof that men and women can
-be friends, even though we are from Mars and they are from Venus!
+It was the closest her orbit ever got to mine, either before or
+after. I did continue to visit her after that, and we had many more
+beautiful moments together, but the boundary was always there, and I
+never pushed it. What we built instead was a life-long close
+friendship.  Even though we see each other much more sporadically now,
+every time we meet we re-connect as if we never parted. I am grateful
+for having had the chance to meet her, back in our college years, even
+though she never became my girlfriend.
 
 Our friendship continues to this day: even after I remarried, she
 became friends with my wife too, and we visited her together with our
