@@ -103,11 +103,11 @@ country, and how she was going to miss us, not knowing when or even if
 we will ever see each other again. Then, out of the blue, she said:
 
 "George, remember how Ioana and I were always joking about who's chest
-is prettier?"
+has the best shape?"
 
 "Yes, of course, I guess I'll never know now", I conceded, jokingly.
 
-"Here, take a look!", she said, and unbuttoned her shirt. 
+"Here!", she said, and unbuttoned her shirt. 
 
 "Alright, you win", I said, stunned, all the while looking at the door
 to make sure nobody was coming. 
