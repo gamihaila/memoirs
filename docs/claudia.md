@@ -176,7 +176,7 @@ years since the Revolution, all of them failed or barely scraping
 by. It was a lovely little party, with none of the drama of my 20th
 birthday party. Looking at her, sitting next to me at the family
 dinner table, I was really hoping we could build something
-together. She was so beautiful, and so at graceful, making
+together. She was so beautiful, and so graceful, making
 intellectual conversation with my dad and complimenting my mom,
 everybody liked her. We went to the balcony where we had a large
 rocking chair, she sat down on it and we kept talking. At one point,
