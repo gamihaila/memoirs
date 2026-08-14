@@ -52,7 +52,7 @@ After Ioana and I got married, sometime around 1992, Ioana went abroad
 to Italy for a week, I believe for some professional training on
 Education. It so happened that my birthday fell during that week. I
 was alone at our place, when the doorbell rang: it was Claudia, with a
-bottle of Kiwi sparkling juice, my favorite. She knew it was my
+bottle of Kiwi Schweppes, my favorite. She knew it was my
 birthday and didn't want me to be alone.  It was a completely
 unexpected visit. Also, it was the first time Claudia and I were alone
 in private. I had always admired Claudia from a distance, but apart
