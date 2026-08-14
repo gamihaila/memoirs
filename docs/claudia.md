@@ -14,12 +14,18 @@ She was sharing that apartment with a friend, a student from the same
 department.  Ioana and I would frequently get together with them,
 either at their place, or after we got married, at our place which was
 still walking distance from Ioana's childhood home. We were all good
-friends, talking for hours, playing Monopoly (I had received a German
-version from my sister's mother in law, who was now living in Munich),
-watching the Soccer World Cup, and just enjoying each other's
-company. She and Ioana always had this running joke about who had the
-prettiest chest, each of them teasingly bragging to us boys. Of
-course, that competition could never be settled.
+friends, talking for hours, playing Monopoly, watching the Soccer
+World Cup, and just enjoying each other's company. I had received a
+German version from my sister's mother in law (the one I had visited
+in Munich), and even though none of us spoke any German, we figured
+out enough of it with a dictionary to be able to play the game. Over
+time, we were recognizing the cards by sight.
+
+Claudia and Ioana always had this running joke about who had the
+prettiest chest. Each of them was teasingly bragging to us boys that
+she deserves the top spot. Of course, that competition could never be
+settled. We were all laughing about this, it became an inside joke
+among the four of us.
 
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
