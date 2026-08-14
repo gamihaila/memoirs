@@ -19,7 +19,7 @@ World Cup, and just enjoying each other's company. I had received a
 German Monopoly version from my sister's mother in law (the one I had
 visited in Munich), and even though none of us spoke any German, we
 figured out enough of it with a dictionary to be able to play the
-game. Over time, we were recognizing the cards by sight. I remember we 
+game. Over time, we were recognizing the cards by sight. I remember
 Ioana and Claudia got so vested into this game that after a
 particularly competitive round, they stopped talking to each
 other.
