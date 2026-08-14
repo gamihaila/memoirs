@@ -235,9 +235,6 @@ every time we meet we re-connect as if we never parted. I am grateful
 for having had the chance to meet her, back in our college years, even
 though she never became my girlfriend.
 
-Our friendship continues to this day: even after I remarried, she
-became friends with my wife too, and we visited her together with our
-kids, every time we went back to Romania.
 
 
 [^1]: This particular memory had slipped my mind, but when I shared an early draft of this chapter with Claudia, she reminded me about it. 
