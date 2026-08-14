@@ -78,15 +78,16 @@ her way to introduce me to her boss, and thanks to that I ended up
 joining the software startup she was working at and built up the work
 experience which ultimately decided the fate of our application for
 Canadian Permanent Resident status. I worked there until the last week
-before we left for Canada. On my last day, they organized a farewell
-party for me, with fancy pastries and a lot of wine. At one point,
-just before the end of that party, Claudia pulled me into a room and
-locked the door on the inside. We were alone for a few minutes in that
-room and we were both a bit tipsy from all the wine. She got pretty
-emotional and started telling me between sobs how sorry she was we
-have to leave the country, and how she was going to miss us, not
-knowing when or even if we will ever see each other again. Then, out
-of the blue, she said:
+before we left for Canada. 
+
+On my last day, they organized a farewell party for me, with fancy
+pastries and a lot of wine. At one point, just before the end of that
+party, Claudia pulled me into a room and locked the door on the
+inside. We were alone for a few minutes in that room and we were both
+a bit tipsy from all the wine. She got pretty emotional and started
+telling me between sobs how sorry she was we have to leave the
+country, and how she was going to miss us, not knowing when or even if
+we will ever see each other again. Then, out of the blue, she said:
 
 "George, remember how Ioana and I were always joking about who's chest
 is prettier?"
