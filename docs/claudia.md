@@ -57,6 +57,17 @@ right, nobody bothered us! After this success, we returned to the same
 cafeteria every day for the entire week, practicing our French and
 laughing about it on the way back.
 
+
+On another one of our beach vacations, in Eforie Nord, after a full
+day of suntanning, when we were getting ready to leave, Claudia
+realized she no longer had the gold necklaces she was
+wearing. Everybody had already left from the beach, while we were all
+combing the sand with our hands, literally looking for the needle in
+the haystack. We had all but lost all hope when, after a last
+absent-minded hand sweep through the sand next to her, Claudia
+actually found them: they have been there all along, while we were
+looking everywhere else![^1]
+
 Being around Claudia always brought with it an element of excitement
 and adventure!  Many years later, when I watched Breakfast at
 Tiffany's, Audrey Hepburn's character reminded me of her. She had the
@@ -151,24 +162,25 @@ workload is insane and the pay is low. As much as I would love to have
 you back, I must advise against it."
 
 I was disappointed, but trusted her assessment. Based on what I knew
-from other friends, that was my impression too. So, I stayed in
-Toronto and continued my doctoral studies, but I kept coming back for
-summer vacations every year.
+from other friends, that was my impression too. 
 
-I remember one of these times, circa 1997, she took me to a piano bar
-downtown, and we listened to jazz while sipping wine. It was a very
-different Bucharest compared to the one I had left behind in 1993,
-sophisticated and high class, not that different from the Toronto jazz
-scene. I thought about that lovely night out many times after that,
-alone in my Toronto student apartment, wondering if I gave up on
-Romania too soon.
+So, I stayed in Toronto and continued my doctoral studies, but I kept
+coming back for to see her every summer.
 
-Another time I borrowed a VCR from my friend Marian and we
-watched together a tape with Woody Allen's Bananas movie, with me
-translating the more difficult parts for her (she was learning English
-at the time). It was a magical night, snuggled next to each other on
-her bed, our hands touching, sharing a moment together, neither of us
-wanting to be anywhere else, wishing this could last forever. 
+On one of these trips, she took me to a piano bar downtown Bucharest,
+and we listened to jazz while sipping wine. It was a very different
+Bucharest compared to the one I had left behind in 1993, sophisticated
+and high class, not that different from the Toronto jazz scene. I
+thought about that lovely night out many times after that, alone in my
+Toronto student apartment, wondering if I gave up on Romania too soon.
+
+Another time I borrowed a VCR from my friend Marian and I took it to
+her place so we can watch together a tape with Woody Allen's Bananas
+movie. I remember I was translating the more difficult parts for her
+(she was learning English at the time). It was a magical night,
+snuggled next to each other on her bed, our hands touching, sharing a
+moment together, neither of us wanting to be anywhere else, wishing
+this could last forever.
 
 On my 30th birthday, my parents had a small party for me in their
 apartment. Other than my sister Ileana and her son Mihai, only my
@@ -210,7 +222,7 @@ was all a dream, one that I didn't ever wanted to wake up from.
 Eventually, we went back to her apartment and she invited me in. 
 Everything had been so wonderful, I couldn't believe it. 
 
-Once alone together in her room, we sat down on her bed an I reached
+Once alone together in her room, we sat down on her bed and I reached
 out to kiss her, but she pulled back and said:
 
 "No. I'm sorry, I don't want to."
@@ -233,3 +245,6 @@ It was the closest her orbit ever got to mine, either before or after.
 I did continue to visit her after that, and we had many more beautiful
 moments together, but the boundary was always there, and I never
 pushed it.
+
+
+[^1]: This particular memory had slipped my mind, but when I shared an early draft of this chapter with Claudia, she reminded me about it. 
