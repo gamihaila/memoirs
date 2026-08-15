@@ -220,11 +220,8 @@ chemistry."
 for me. I haven't met him yet, but I know he's there. When I will meet
 him, I will love him completely!"
 
-It was the closest her orbit ever got to mine, either before or
-after. I did continue to visit her after that, and we had many more
-beautiful moments together, but the boundary was always there, and I
-never pushed it. What we built instead was a life-long close
-friendship.  Even though we see each other much more sporadically now,
-every time we meet we re-connect as if we never parted. I am grateful
-for having had the chance to meet her, back in our college years, even
-though she never became my girlfriend.
+It was the closest her orbit ever got to mine, either before or after.
+
+I did continue to visit her after that, and we had many more beautiful
+moments together, but the boundary was always there, and I never
+pushed it.
