@@ -180,40 +180,34 @@ together. She was so beautiful, and so graceful, making
 intellectual conversation with my dad and complimenting my mom,
 everybody liked her. We went to the balcony where we had a large
 rocking chair, she sat down on it and we kept talking. At one point,
-my nephew Mihai, who was eight at the time, asked her innocently: 
+my nephew Mihai, who was eight at the time, asked her innocently:
 
 "Are you my uncle's future wife?"
 
 She laughed, but didn't answer. Kids can really pick up on these
-things, don't they?
+things, can't they? He just blurted out the one question I had been
+struggling to ask her all these years, but never dared.
 
-Ever summmer I went with her and her friends to the beach,
-reminiscing about our student camping vacations and creating new
-memories together.
+After this I mustered enough courage and asked her out, on an official
+date and to my great surprise she accepted!
 
-Speaking of memories, on one of our beach vacations, in Eforie Nord,
-after a full day of suntanning, when we were getting ready to leave,
-Claudia realized she no longer had the gold necklaces she was
-wearing. Everybody had already left from the beach, while we were all
-combing the sand with our hands, literally looking for the needle in
-the haystack. We had all but lost all hope when, after a last
-absent-minded hand sweep through the sand next to her, Claudia
-actually found them: they have been there all along, while we were
-looking everywhere else![^1]
+I showed up at the Ciel! office at the end of the work day, said hello
+to my former teammates, and took her to the Herăstrău Park. We had
+dinner at a nice outdoor terrace by the lake, and then we rented a
+rowboat and I took her on a lovely boat ride under the willow branches
+perched over the lake. After we got back on land, she took my hand and
+we walked like that for a long time. I was so happy I was afraid it
+was all a dream, one that I didn't ever wanted to wake up from. 
 
-The subsequent summer, in 1998, I mustered enough courage and asked
-her out, on an official date and she accepted!
+Eventually, we went back to her apartment and she invited me in. 
+Everything had been so wonderful, I couldn't believe it. 
 
-I showed up at the Ciel! office at five, said hello to my former
-teammates, and took her to the Herăstrău Park. We had dinner at a nice
-outdoor terrace by the lake, and then we rented a rowboat and I took
-her on a lovely ride under the willows. After we got back on land, she
-took my hand and didn't let go until we got to her apartment
-building. She invited me upstairs to her apartment, but when I tried
-to kiss her, she pulled back and said "No, I don't want to."
+Once alone together in her room, we sat down on her bed an I reached
+out to kiss her, but she pulled back and said:
 
-I was puzzled, especially after what I thought was a perfect date. She
-looked me in the eyes and said:
+"No. I'm sorry, I don't want to."
+
+I was puzzled, not understanding. She looked me in the eyes and said:
 
 "Look George, you're a nice guy, I honestly wanted to give this
 relationship a fair chance, but I'm afraid I can't imagine you as my
@@ -222,9 +216,9 @@ chemistry."
 
 "Huh, what's M.O.M.L.?"
 
-"The Man Of My Life.", she clarified. "There is only one on this Earth for me. I
-haven't met him yet, but I know he's there. When I will meet him, I
-will love him completely!"
+"The Man Of My Life.", she clarified. "There is only one on this Earth
+for me. I haven't met him yet, but I know he's there. When I will meet
+him, I will love him completely!"
 
 It was the closest her orbit ever got to mine, either before or
 after. I did continue to visit her after that, and we had many more
@@ -234,7 +228,3 @@ friendship.  Even though we see each other much more sporadically now,
 every time we meet we re-connect as if we never parted. I am grateful
 for having had the chance to meet her, back in our college years, even
 though she never became my girlfriend.
-
-
-
-[^1]: This particular memory had slipped my mind, but when I shared an early draft of this chapter with Claudia, she reminded me about it. 
