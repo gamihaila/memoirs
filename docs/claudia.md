@@ -165,7 +165,7 @@ I was disappointed, but trusted her assessment. Based on what I knew
 from other friends, that was my impression too. 
 
 So, I stayed in Toronto and continued my doctoral studies, but I kept
-coming back for to see her every summer.
+coming back to see her every summer.
 
 On one of these trips, she took me to a piano bar downtown Bucharest,
 and we listened to jazz while sipping wine. It was a very different
