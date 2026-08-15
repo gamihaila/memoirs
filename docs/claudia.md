@@ -159,10 +159,16 @@ I remember one of these times, circa 1997, she took me to a piano bar
 downtown, and we listened to jazz while sipping wine. It was a very
 different Bucharest compared to the one I had left behind in 1993,
 sophisticated and high class, not that different from the Toronto jazz
-scene.  Another time I borrowed a VCR from my friend Marian and we
+scene. I thought about that lovely night out many times after that,
+alone in my Toronto student apartment, wondering if I gave up on
+Romania too soon.
+
+Another time I borrowed a VCR from my friend Marian and we
 watched together a tape with Woody Allen's Bananas movie, with me
 translating the more difficult parts for her (she was learning English
-at the time).
+at the time). It was a magical night, snuggled next to each other on
+her bed, our hands touching, sharing a moment together, neither of us
+wanting to be anywhere else, wishing this could last forever. 
 
 On my 30th birthday, my parents had a small party for me in their
 apartment. Other than my sister Ileana and her son Mihai, only my
@@ -174,13 +180,15 @@ table and had a lively conversation with my parents about, among other
 things, the various small business attempts our friends tried over the
 years since the Revolution, all of them failed or barely scraping
 by. It was a lovely little party, with none of the drama of my 20th
-birthday party. Looking at her, sitting next to me at the family
-dinner table, I was really hoping we could build something
-together. She was so beautiful, and so graceful, making
-intellectual conversation with my dad and complimenting my mom,
-everybody liked her. We went to the balcony where we had a large
-rocking chair, she sat down on it and we kept talking. At one point,
-my nephew Mihai, who was eight at the time, asked her innocently:
+birthday party. 
+
+Looking at her, sitting next to me at the family dinner table, I was
+really hoping we could build something together. She was so beautiful,
+and so graceful, making intellectual conversation with my dad and
+complimenting my mom, everybody liked her. We went to the balcony
+where we had a large rocking chair, she sat down on it and we kept
+talking. At one point, my nephew Mihai, who was eight at the time,
+asked her innocently:
 
 "Are you my uncle's future wife?"
 
