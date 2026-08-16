@@ -22,17 +22,11 @@ figured out enough of it with a dictionary to be able to play the
 game. Over time, we were recognizing the cards by sight. I remember
 Ioana and Claudia got so vested into this game that after a
 particularly competitive round, they stopped talking to each
-other.
+other for a few weeks!
 
 Luckily, they didn't hold the grudge and all four of us got back
 together after a month or so. They were too close not to make up
-eventually. In fact, we were all so close, and so comfortable with
-each other that Claudia and Ioana even had this playful competition
-about who was the prettiest, and in particular who had the better
-shaped chest among the two of them. Each of them was teasingly
-bragging to us boys that she deserves the top spot. Of course, that
-competition could never be settled. We were all laughing about this,
-it became an inside joke among the four of us. 
+eventually. 
 
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
@@ -93,9 +87,7 @@ visit you because she cares about you as a friend, don't ruin it". You
 see, my marriage was already showing signs of stress. Still, I
 couldn't tell anything to Claudia, no matter how attracted I was to
 her. Eventually, the evening came and it was time for her to go and I
-walked her home. She invited me in, and we spent a few more minutes
-there too. When we kissed goodbye I really wanted to miss her cheeks,
-but of course I didn't.
+walked her home. 
 
 When I was between jobs, after college, it was Claudia who went out of
 her way to introduce me to her boss, and thanks to that I ended up
@@ -111,17 +103,7 @@ inside. We were alone for a few minutes in that room and we were both
 a bit tipsy from all the wine. She got pretty emotional and started
 telling me between sobs how sorry she was we have to leave the
 country, and how she was going to miss us, not knowing when or even if
-we will ever see each other again. Then, out of the blue, she said:
-
-"George, remember how Ioana and I were always joking about who's chest
-has the best shape?"
-
-"Yes, of course, I guess I'll never know now", I conceded, jokingly.
-
-"Here!", she said, and unbuttoned her shirt. 
-
-"Alright, you win", I said, stunned, all the while looking at the door
-to make sure nobody was coming. 
+we will ever see each other again.  
 
 It was the most surreal situation I had ever experienced, keeping in
 mind there never was any intimacy between us, just this persistent
