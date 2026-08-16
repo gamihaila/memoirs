@@ -105,13 +105,6 @@ telling me between sobs how sorry she was we have to leave the
 country, and how she was going to miss us, not knowing when or even if
 we will ever see each other again.  
 
-It was the most surreal situation I had ever experienced, keeping in
-mind there never was any intimacy between us, just this persistent
-tension that we both felt but never acted upon. Later, when I tried to
-understand what just happened I thought that she figured she will
-never see us again, so it wouldn't matter anyway. It was as if I was a
-soldier leaving for war and she wanted me to always remember her. And
-I did.
 
 After Ioana and I arrived in Toronto, we kept talking about her, since
 she was Ioana's best friend. Of course I wasn't going to mention
