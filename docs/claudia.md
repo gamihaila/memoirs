@@ -107,9 +107,7 @@ we will ever see each other again.
 
 
 After Ioana and I arrived in Toronto, we kept talking about her, since
-she was Ioana's best friend. Of course I wasn't going to mention
-anything to Ioana, so she didn't have any reason to be suspicious
-about her. When we bought a second-hand Sun workstation and set it up
+she was Ioana's best friend. When we bought a second-hand Sun workstation and set it up
 in our studio apartment in High Park, and I had to pick up a host name
 for it, I suggested we use Claudia, and Ioana agreed without
 hesitation. After this, she was constantly in my mind every time I
