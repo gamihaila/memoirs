@@ -69,7 +69,7 @@ I was conflicted: on the one hand, I really enjoyed Jenny's company as
 a friend as we had many long conversations on the phone and in person;
 on the other hand, I was obviously attracted to her, and I was
 projecting that we could really be a good match, having discovered we
-has so much in common. I can't really say I was "hopelessly in love",
+had so much in common. I can't really say I was "hopelessly in love",
 but more that I could imagine we could work out, if she was
 interested too. There was only one way to find out, I told myself.
 
