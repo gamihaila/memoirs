@@ -78,7 +78,7 @@ paid her a visit at home. I think she knew what that was about and
 said "Sure". I hopped on the subway for Eglinton Avenue, and stopped
 on the way to buy a large bucket of flowers. I was nervous, but
 determined. I didn't want to prolong the uncertainty any longer, and I
-though (correctly) that I had nothing to lose by asking.
+thought (correctly) that I had nothing to lose by asking.
 
 So, I finally got to her door and ringed the bell. Jenny opened the
 door, graciously accepted the flowers and invited me in.
