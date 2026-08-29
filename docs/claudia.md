@@ -21,18 +21,9 @@ visited in Munich), and even though none of us spoke any German, we
 figured out enough of it with a dictionary to be able to play the
 game. Over time, we were recognizing the cards by sight. I remember
 Ioana and Claudia got so vested into this game that after a
-particularly competitive round, they stopped talking to each
-other.
-
-Luckily, they didn't hold the grudge and all four of us got back
-together after a month or so. They were too close not to make up
-eventually. In fact, we were all so close, and so comfortable with
-each other that Claudia and Ioana even had this playful competition
-about who was the prettiest, and in particular who had the better
-shaped chest among the two of them. Each of them was teasingly
-bragging to us boys that she deserves the top spot. Of course, that
-competition could never be settled. We were all laughing about this,
-it became an inside joke among the four of us. 
+particularly competitive round, they stopped talking to each other for
+a couple of weeks.  Luckily, they didn't hold the grudge and all four
+of us got back together after a month or so.
 
 In one of our camping trips to the beach, Claudia was sharing a tent
 with Ioana's sister Ruxandra. Ioana was watching her weight at the
@@ -106,30 +97,13 @@ before we left for Canada.
 
 On my last day, they organized a farewell party for me, with fancy
 pastries and a lot of wine. At one point, just before the end of that
-party, Claudia pulled me into a room and locked the door on the
-inside. We were alone for a few minutes in that room and we were both
+party, Claudia pulled me into a room and closed the door.
+We were alone for a few minutes in that room and we were both
 a bit tipsy from all the wine. She got pretty emotional and started
 telling me between sobs how sorry she was we have to leave the
 country, and how she was going to miss us, not knowing when or even if
-we will ever see each other again. Then, out of the blue, she said:
+we will ever see each other again.
 
-"George, remember how Ioana and I were always joking about who's chest
-has the best shape?"
-
-"Yes, of course, I guess I'll never know now", I conceded, jokingly.
-
-"Here!", she said, and unbuttoned her shirt. 
-
-"Alright, you win", I said, stunned, all the while looking at the door
-to make sure nobody was coming. 
-
-It was the most surreal situation I had ever experienced, keeping in
-mind there never was any intimacy between us, just this persistent
-tension that we both felt but never acted upon. Later, when I tried to
-understand what just happened I thought that she figured she will
-never see us again, so it wouldn't matter anyway. It was as if I was a
-soldier leaving for war and she wanted me to always remember her. And
-I did.
 
 After Ioana and I arrived in Toronto, we kept talking about her, since
 she was Ioana's best friend. Of course I wasn't going to mention
