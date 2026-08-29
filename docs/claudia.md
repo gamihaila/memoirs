@@ -84,9 +84,7 @@ visit you because she cares about you as a friend, don't ruin it". You
 see, my marriage was already showing signs of stress. Still, I
 couldn't tell anything to Claudia, no matter how attracted I was to
 her. Eventually, the evening came and it was time for her to go and I
-walked her home. She invited me in, and we spent a few more minutes
-there too. When we kissed goodbye I really wanted to miss her cheeks,
-but of course I didn't.
+walked her home. 
 
 When I was between jobs, after college, it was Claudia who went out of
 her way to introduce me to her boss, and thanks to that I ended up
@@ -104,11 +102,8 @@ telling me between sobs how sorry she was we have to leave the
 country, and how she was going to miss us, not knowing when or even if
 we will ever see each other again.
 
-
 After Ioana and I arrived in Toronto, we kept talking about her, since
-she was Ioana's best friend. Of course I wasn't going to mention
-anything to Ioana, so she didn't have any reason to be suspicious
-about her. When we bought a second-hand Sun workstation and set it up
+she was Ioana's best friend. When we bought a second-hand Sun workstation and set it up
 in our studio apartment in High Park, and I had to pick up a host name
 for it, I suggested we use Claudia, and Ioana agreed without
 hesitation. After this, she was constantly in my mind every time I
