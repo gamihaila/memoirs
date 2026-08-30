@@ -189,6 +189,30 @@ Needless to say, the back-and-forth emotional roller coaster was
 exhausting. I had no choice, however; I was smitten with her. Many
 years later, when I watched a movie[^2] I identified with the main character.
 
+Seeing that Lara was actively pushing me to look for another girl to marry, I thought of Jenny. Let me remind you that the only reason I approached Lara was because I had mistaken her for Jenny, from a distance (it was then when I realized I should see an optometrist). That's because there was a slight resemblance in their features, even though from up close Jenny was clearly prettier, seeing how she was also much younger.
+
+I was conflicted: on the one hand, I really enjoyed Jenny's company as a friend as we had many long conversations on the phone and in person, and I didn't want to jeopardize our friendship; on the other hand, I was obviously attracted to her, and I was projecting that we could really be a good match, having discovered we had so much in common. I can't really say I was "hopelessly in love", but more that I could imagine we could work out, if she was interested too. There was only one way to find out, I told myself.
+
+So, one fine day, I called her and asked her if it would be okay if I paid her a visit at home. I think she knew what that was about and said "Sure". I hopped on the subway for Eglinton Avenue, and stopped on the way to buy a large bucket of flowers. I was nervous, but determined. I didn't want to prolong the uncertainty any longer, and I thought (correctly) that I had nothing to lose by asking.
+
+So, I finally got to her door and ringed the bell. Jenny opened the door, graciously accepted the flowers and invited me in.
+
+"Jenny, we have been friends for a few years now", I started.
+
+"Yes, George, I know", she said, smiling, clearly anticipating where I going with this.
+
+"I wanted to ask you if by any chance our friendship could grow into something else", I said, plainly.
+
+"Thank you for asking me, George. I have thought about this too, but I am happy with our friendship the way it is", she said.
+
+"I understand, I wouldn't want to be your second choice", I said.
+
+"Oh, George", she said, looking into my eyes, "You aren't anybody's second choice. Trust me, you'll find the one you're looking for."
+
+"Thank you, Jenny! Now we can be friends and not worry about it.", I said, and meant it.
+
+Although I was obviously disappointed by her rejection, I appreciated her directness. Thinking back on it, it was the gentlest rejection I had ever faced and I am grateful for it. It was certainly better than not asking her and living with the regret as I had done so many times in the past, during my college years.
+
 The next year continued in similar way, with Lara coming and going, but I was
 getting used to the idea of not getting too attached to her. Then the fall came,
 and with it a new cohort of incoming students. I had a few acquaintances from
