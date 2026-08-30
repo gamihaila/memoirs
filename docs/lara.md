@@ -7,11 +7,37 @@ was more emboldened to approach strangers and make acquaintances. It was the
 ideal environment for it too, since everyone there was a new student, typically
 from another country, and they were therefore open to making new friends. As a
 somewhat senior student I had stuff to talk about with the newcomers. That
-helped a lot, as I was normally rather shy.
+helped a lot, as I was normally rather shy. So, as I was walking around I see a good looking young girl smiling in my direction and I take that as a clue to go talk to her. Something in her physionomy seemed familiar to me, almost as she was Romanian (I would find out later that her ancestors came from Eastern Europe). She had a beautiful and sincere smile that drew me in right away. As this was the International Students Center, I had the perfect opening:
 
-I had a longer conversation with one girl called Jenny, a Canadian. Later we
-became friends, but never more than that. Meeting her proved to be very
-impactful to my life, but in a very unexpected way. Let me explain how. A month
+"Hi, my name is George! I'm from Romania, where are you from?"
+
+"I'm Jenny", she said, "I'm from right here in Toronto!"
+
+"Oh, so if you're not an international student, what are you doing here?", I joked.
+
+"Well, Canada is a nation too", she laughed, which made her even prettier.
+
+After quite a bit of chit-chat about our majors, and life at the U of T, I thought what a pity it would be if I never saw her again, so I asked her for her e-mail address. You see, I didn't want to seem too forward by asking for her phone number.
+
+"Oh, sure, here it is", she said, and dictated an America Online email address to me, starting with "harold".
+
+"Harold?", I asked, confused.
+
+"Oh, yeah, it's my father's. He taught me to give out his address to anybody who asks me", she clarified.
+
+"I see, smart!", I replied, but in my mind I knew I wouldn't ever email her dad.
+
+Luckily, the U of T campus is not that large, and I bumped into her several times after that, and each time she was friendly, until eventually we did exchange phone numbers and occasionally visited each other.
+
+One time, she called me to ask me if I want to go with her to a varsity hockey game she had to write a article about for the university newspaper.
+
+"Great, I'll bring my camcorder", I offered, "and I can film it for you so you can go back and write about the more intersting parts."
+
+"Nah, no need, I'll just watch it and take notes as I go", she declined.
+
+Nevertheless, we did watch the game together, and I was happy to be next to her, even if I didn't care for hockey. After the game, I wanted to take her hand, but she said no, and I dind't insist.
+
+A month
 later, on Canadian Thanksgiving, an Italian girl I met during the same
 orientation party invited me to go with her and some other friends to a
 Thanksgiving dinner at a Catholic church. I wasn't a churchgoer at the time so I
