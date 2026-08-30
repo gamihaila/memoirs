@@ -324,7 +324,7 @@ We took the subway together to her campus in Grozǎvești and I walked her to he
 
 “George, I like you, I’m not going to lie. But I want you to think really hard if this is what you really want. I mean, are you sure you’d rather have me than Ioana?”
 
-“I’m not sure of anything anymore, Dana. Ioana and I are kind of on the outs at the moment” (this was after the birthday incident)
+“I’m not sure of anything anymore, Dana. Ioana and I are kind of on the outs at the moment”, I replied. 
 
 “I think you’ll get back together, George. She loves you. I wouldn’t want to come between you, unless you’re really sure” she continued, calmly.
 
