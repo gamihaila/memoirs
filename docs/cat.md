@@ -2,7 +2,7 @@ I remember one day in junior year at college, when Ioana was absent for some rea
 
 We took the subway together to her campus in Grozǎvești and I walked her to her building. There wasn’t anyone suspicious around, so I started saying my goodbyes when she invited me to her room. Now, I have to say, I had never considered her as a potential partner, but something in the way she looked at me intrigued me so I went in with her. She mentioned casually that her roommate was out of town, visiting her parents. I got the hint and I started to flirt with her gently, complimenting her on her outfit and looking into her eyes, and she was responding playfully. The tension was palpable. It was at this point when she suddenly stopped me, and said, with a serious look on her face:
 
-“George, I like you, I’m not going to lie. But I want you to think really hard if this is what you really want. I mean, are you sure you’d rather have me than Ioana?”
+“George, I want you to think really hard if this is what you really want. I mean, are you sure you’d rather have me than Ioana?”
 
 “I’m not sure of anything anymore, Dana. Ioana and I are kind of on the outs at the moment” (this was after the birthday incident)
 
