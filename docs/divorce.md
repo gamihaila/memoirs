@@ -17,6 +17,10 @@ was anything going on between her and our friend Jan.
 
 “Unfortunately, no, I don’t think I can,” she replied.
 
+“Come on, whose girl are you?”, I tried to lighten up the mood, reminding her how she always answered “Yours!” for the past ten years. 
+
+“I’m mine!”, Ioana replied this time. Not someone else’s, her own girl, standing on her own two feet. I was struck by her answer, but couldn’t help appreciate its  truth. She was her own person, of course. Nobody owns anyone. She used to be mine by choice, all these years, and now she wasn’t. As simple as that! I couldn’t even be angry at her, she was right: I never truly loved her, I was simply used to her and too scared of being alone. 
+
 Only later I realized I was well into the classic “five stages of grief.” Having
 finished the denial and anger stages, I was entering the bargaining stage. I
 actually pleaded with her to stay with me: “Take some time to reflect on this,
