@@ -19,9 +19,11 @@ was anything going on between her and our friend Jan.
 
 “Come on, whose girl are you?”, I tried to lighten up the mood, reminding her how she always answered “Yours!” for the past ten years. 
 
-“I’m mine!”, Ioana replied this time. Not someone else’s, her own girl, standing on her own two feet. I was struck by her answer, but couldn’t help appreciate its  truth. She was her own person, of course. Nobody owns anyone. She used to be mine by choice, all these years, and now she wasn’t. As simple as that! I couldn’t even be angry at her, she was right: I never truly loved her, I was simply used to her and too scared of being alone. 
+“I’m mine!”, Ioana replied this time. Not someone else’s, her own girl, standing on her own two feet. I was struck by her answer, but couldn’t help appreciate its  truth. She was her own person, of course. Nobody owns anyone. She used to be mine by choice, all these years, and now she wasn’t. As simple as that! I couldn’t even be angry at her. 
 
-Only later I realized I was well into the classic “five stages of grief.” Having
+Thinking about it now, I realize she was right, I never truly loved her, I was simply used to her and too scared of being alone. All these years I didn’t give her what she needed and that was what created the cracks in our union, which slowly deepened right before my eyes. Her affair was never the cause of our troubles, it was its consequence. 
+
+Only later did I realize that I was well into the classic “five stages of grief.” Having
 finished the denial and anger stages, I was entering the bargaining stage. I
 actually pleaded with her to stay with me: “Take some time to reflect on this,
 please.” I took the Greyhound bus to Hamilton to stay with her sister and her
